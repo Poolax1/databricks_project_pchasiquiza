@@ -1,0 +1,101 @@
+product_id,product_name,description,category,price,availability
+1,Tech Product 1,Description for product 1,Tablets,1834.17,Preorder
+2,Tech Product 2,Description for product 2,Gaming,1707.58,In Stock
+3,Tech Product 3,Description for product 3,Accessories,926.43,In Stock
+4,Tech Product 4,Description for product 4,Gaming,236.05,Out of Stock
+5,Tech Product 5,Description for product 5,Gaming,773.1,Preorder
+6,Tech Product 6,Description for product 6,Phones,1354.24,Preorder
+7,Tech Product 7,Description for product 7,Accessories,1348.55,Out of Stock
+8,Tech Product 8,Description for product 8,Accessories,1203.03,Out of Stock
+9,Tech Product 9,Description for product 9,Accessories,585.71,Preorder
+10,Tech Product 10,Description for product 10,Gaming,1144.42,Preorder
+11,Tech Product 11,Description for product 11,Tablets,796.71,Out of Stock
+12,Tech Product 12,Description for product 12,Accessories,1944.84,In Stock
+13,Tech Product 13,Description for product 13,Gaming,1705.38,In Stock
+14,Tech Product 14,Description for product 14,Phones,1457.37,Out of Stock
+15,Tech Product 15,Description for product 15,Tablets,510.17,In Stock
+16,Tech Product 16,Description for product 16,Phones,549.33,Out of Stock
+17,Tech Product 17,Description for product 17,Tablets,128.85,In Stock
+18,Tech Product 18,Description for product 18,Gaming,1435.79,In Stock
+19,Tech Product 19,Description for product 19,Laptops,266.24,Preorder
+20,Tech Product 20,Description for product 20,Tablets,906.71,Preorder
+21,Tech Product 21,Description for product 21,Phones,443.35,In Stock
+22,Tech Product 22,Description for product 22,Gaming,1796.74,In Stock
+23,Tech Product 23,Description for product 23,Tablets,976.97,Preorder
+24,Tech Product 24,Description for product 24,Laptops,1148.39,Preorder
+25,Tech Product 25,Description for product 25,Laptops,1406.26,Preorder
+26,Tech Product 26,Description for product 26,Accessories,321.7,Out of Stock
+27,Tech Product 27,Description for product 27,Accessories,1228.61,In Stock
+28,Tech Product 28,Description for product 28,Phones,1102.69,Preorder
+29,Tech Product 29,Description for product 29,Tablets,445.97,In Stock
+30,Tech Product 30,Description for product 30,Tablets,1888.56,Out of Stock
+31,Tech Product 31,Description for product 31,Accessories,1217.79,Out of Stock
+32,Tech Product 32,Description for product 32,Tablets,1404.83,Preorder
+33,Tech Product 33,Description for product 33,Tablets,1766.91,Out of Stock
+34,Tech Product 34,Description for product 34,Laptops,1267.49,In Stock
+35,Tech Product 35,Description for product 35,Accessories,626.49,Preorder
+36,Tech Product 36,Description for product 36,Gaming,255.71,In Stock
+37,Tech Product 37,Description for product 37,Accessories,940.24,In Stock
+38,Tech Product 38,Description for product 38,Gaming,475.96,Out of Stock
+39,Tech Product 39,Description for product 39,Laptops,862.19,Out of Stock
+40,Tech Product 40,Description for product 40,Phones,1772.4,Out of Stock
+41,Tech Product 41,Description for product 41,Tablets,682.47,Out of Stock
+42,Tech Product 42,Description for product 42,Laptops,288.07,Out of Stock
+43,Tech Product 43,Description for product 43,Tablets,744.78,Preorder
+44,Tech Product 44,Description for product 44,Phones,1818.32,In Stock
+45,Tech Product 45,Description for product 45,Phones,580.66,In Stock
+46,Tech Product 46,Description for product 46,Laptops,1313.0,In Stock
+47,Tech Product 47,Description for product 47,Phones,51.01,In Stock
+48,Tech Product 48,Description for product 48,Gaming,737.51,Out of Stock
+49,Tech Product 49,Description for product 49,Phones,644.32,In Stock
+50,Tech Product 50,Description for product 50,Tablets,371.08,Preorder
+51,Tech Product 51,Description for product 51,Tablets,1091.47,Preorder
+52,Tech Product 52,Description for product 52,Tablets,995.42,In Stock
+53,Tech Product 53,Description for product 53,Tablets,1400.25,In Stock
+54,Tech Product 54,Description for product 54,Gaming,575.35,Preorder
+55,Tech Product 55,Description for product 55,Accessories,526.04,Preorder
+56,Tech Product 56,Description for product 56,Laptops,378.17,Out of Stock
+57,Tech Product 57,Description for product 57,Tablets,476.59,Preorder
+58,Tech Product 58,Description for product 58,Phones,1138.3,Out of Stock
+59,Tech Product 59,Description for product 59,Tablets,837.48,Out of Stock
+60,Tech Product 60,Description for product 60,Phones,176.54,Out of Stock
+61,Tech Product 61,Description for product 61,Phones,545.14,Out of Stock
+62,Tech Product 62,Description for product 62,Tablets,531.41,Out of Stock
+63,Tech Product 63,Description for product 63,Gaming,1407.79,In Stock
+64,Tech Product 64,Description for product 64,Phones,1438.93,Preorder
+65,Tech Product 65,Description for product 65,Phones,338.77,Out of Stock
+66,Tech Product 66,Description for product 66,Tablets,1995.59,Preorder
+67,Tech Product 67,Description for product 67,Phones,570.22,Preorder
+68,Tech Product 68,Description for product 68,Phones,1954.4,Out of Stock
+69,Tech Product 69,Description for product 69,Tablets,851.52,In Stock
+70,Tech Product 70,Description for product 70,Tablets,114.45,Out of Stock
+71,Tech Product 71,Description for product 71,Laptops,722.89,In Stock
+72,Tech Product 72,Description for product 72,Gaming,1286.99,Preorder
+73,Tech Product 73,Description for product 73,Gaming,1377.38,In Stock
+74,Tech Product 74,Description for product 74,Phones,1085.32,In Stock
+75,Tech Product 75,Description for product 75,Gaming,923.18,In Stock
+76,Tech Product 76,Description for product 76,Phones,1128.14,Preorder
+77,Tech Product 77,Description for product 77,Laptops,1205.76,Preorder
+78,Tech Product 78,Description for product 78,Tablets,207.66,In Stock
+79,Tech Product 79,Description for product 79,Tablets,770.83,In Stock
+80,Tech Product 80,Description for product 80,Tablets,522.21,Out of Stock
+81,Tech Product 81,Description for product 81,Gaming,1616.12,In Stock
+82,Tech Product 82,Description for product 82,Laptops,967.09,Out of Stock
+83,Tech Product 83,Description for product 83,Gaming,1967.68,In Stock
+84,Tech Product 84,Description for product 84,Gaming,827.71,Out of Stock
+85,Tech Product 85,Description for product 85,Laptops,1642.04,Preorder
+86,Tech Product 86,Description for product 86,Laptops,1606.77,In Stock
+87,Tech Product 87,Description for product 87,Laptops,343.9,In Stock
+88,Tech Product 88,Description for product 88,Laptops,1040.99,In Stock
+89,Tech Product 89,Description for product 89,Tablets,1406.83,In Stock
+90,Tech Product 90,Description for product 90,Accessories,1723.8,Out of Stock
+91,Tech Product 91,Description for product 91,Accessories,685.62,In Stock
+92,Tech Product 92,Description for product 92,Laptops,479.47,Preorder
+93,Tech Product 93,Description for product 93,Accessories,1436.74,Preorder
+94,Tech Product 94,Description for product 94,Accessories,1628.53,In Stock
+95,Tech Product 95,Description for product 95,Laptops,729.9,Preorder
+96,Tech Product 96,Description for product 96,Accessories,237.54,In Stock
+97,Tech Product 97,Description for product 97,Gaming,1884.02,In Stock
+98,Tech Product 98,Description for product 98,Phones,825.27,Preorder
+99,Tech Product 99,Description for product 99,Phones,1059.62,In Stock
+100,Tech Product 100,Description for product 100,Laptops,1683.53,Preorder
