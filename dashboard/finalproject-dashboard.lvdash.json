@@ -1,0 +1,424 @@
+{
+  "datasets": [
+    {
+      "name": "af5bb2b6",
+      "displayName": "fact_sales",
+      "queryLines": [
+        "SELECT * FROM catalog_finalproject.golden.fact_sales;"
+      ]
+    },
+    {
+      "name": "769853d0",
+      "displayName": "dim_product",
+      "queryLines": [
+        "select * from catalog_finalproject.golden.dim_product;"
+      ]
+    },
+    {
+      "name": "79de29f4",
+      "displayName": "dim_customer",
+      "queryLines": [
+        "select * from catalog_finalproject.golden.dim_customer;"
+      ]
+    },
+    {
+      "name": "16a3248f",
+      "displayName": "dim_date",
+      "queryLines": [
+        "select * from catalog_finalproject.golden.dim_date;"
+      ]
+    },
+    {
+      "name": "aee9f753",
+      "displayName": "dim_channel",
+      "queryLines": [
+        "select * from catalog_finalproject.golden.dim_channel;"
+      ]
+    },
+    {
+      "name": "e0ae995d",
+      "displayName": "Ventas_anuales",
+      "queryLines": [
+        "SELECT \r\n",
+        "    year(order_date) AS year,\r\n",
+        "    SUM(gross_amount) AS total_sales,\r\n",
+        "    SUM(net_amount) AS net_sales,\r\n",
+        "    COUNT(DISTINCT order_id) AS total_orders\r\n",
+        "FROM catalog_finalproject.golden.fact_sales\r\n",
+        "GROUP BY year\r\n",
+        "ORDER BY year;"
+      ]
+    },
+    {
+      "name": "363a9dd1",
+      "displayName": "Tendencia_mensual",
+      "queryLines": [
+        "SELECT \r\n",
+        "    date_format(order_date, 'yyyy-MM') AS year_month,\r\n",
+        "    SUM(gross_amount) AS total_sales\r\n",
+        "FROM catalog_finalproject.golden.fact_sales\r\n",
+        "GROUP BY year_month\r\n",
+        "ORDER BY year_month;"
+      ]
+    },
+    {
+      "name": "ce3e865a",
+      "displayName": "Productos_estrella",
+      "queryLines": [
+        "SELECT \r\n",
+        "    p.product_name,\r\n",
+        "    SUM(f.quantity) AS total_units,\r\n",
+        "    SUM(f.gross_amount) AS revenue\r\n",
+        "FROM catalog_finalproject.golden.fact_sales f\r\n",
+        "JOIN catalog_finalproject.golden.dim_product p\r\n",
+        "    ON f.product_id = p.product_id\r\n",
+        "GROUP BY p.product_name\r\n",
+        "ORDER BY revenue DESC\r\n",
+        "LIMIT 10;"
+      ]
+    },
+    {
+      "name": "a3d2bd25",
+      "displayName": "Top Customers Ranked by Total Spending Amount",
+      "queryLines": [
+        "SELECT \r\n",
+        "    c.customer_id,\r\n",
+        "    c.name,\r\n",
+        "    SUM(f.gross_amount) AS total_spent\r\n",
+        "FROM catalog_finalproject.golden.fact_sales f\r\n",
+        "JOIN catalog_finalproject.golden.dim_customer c\r\n",
+        "    ON f.customer_id = c.customer_id\r\n",
+        "GROUP BY c.customer_id, c.name\r\n",
+        "ORDER BY total_spent DESC\r\n",
+        "LIMIT 10;"
+      ]
+    },
+    {
+      "name": "cba183b7",
+      "displayName": "Ventas_por_sucursal",
+      "queryLines": [
+        "SELECT \r\n",
+        "    branch_name,\r\n",
+        "    state,\r\n",
+        "    SUM(gross_amount) AS total_sales\r\n",
+        "FROM catalog_finalproject.golden.fact_sales\r\n",
+        "GROUP BY branch_name, state\r\n",
+        "ORDER BY total_sales DESC;"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "name": "70f25469",
+      "displayName": "TABLERO_DE_CONTROL",
+      "layout": [
+        {
+          "widget": {
+            "name": "ventas-mensuales",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "363a9dd1",
+                  "fields": [
+                    {
+                      "name": "year_month",
+                      "expression": "`year_month`"
+                    },
+                    {
+                      "name": "sum(total_sales)",
+                      "expression": "SUM(`total_sales`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "VENTAS MENSUALES",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "year_month",
+                  "displayName": "year_month",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "sum(total_sales)",
+                  "displayName": "Total Sales",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "color": {
+                  "fieldName": "year_month",
+                  "legend": {
+                    "hide": true
+                  },
+                  "displayName": "year_month",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "tendencia-ventas-por-ano",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "e0ae995d",
+                  "fields": [
+                    {
+                      "name": "year",
+                      "expression": "`year`"
+                    },
+                    {
+                      "name": "total_sales",
+                      "expression": "`total_sales`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "TENDENCIA DE VENTAS POR AÑO",
+                "showTitle": true
+              },
+              "mark": {
+                "colors": [
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 4
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 2
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 3
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 4
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 5
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 6
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 7
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 8
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 9
+                  },
+                  {
+                    "themeColorType": "visualizationColors",
+                    "position": 10
+                  }
+                ]
+              },
+              "widgetType": "line",
+              "encodings": {
+                "x": {
+                  "fieldName": "year",
+                  "displayName": "year",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "y": {
+                  "fieldName": "total_sales",
+                  "displayName": "Total Sales",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 0,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "df7fe847",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ce3e865a",
+                  "fields": [
+                    {
+                      "name": "sum(revenue)",
+                      "expression": "SUM(`revenue`)"
+                    },
+                    {
+                      "name": "product_name",
+                      "expression": "`product_name`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "DISTRIBUCIÓN DE VENTAS DE PRODUCTOS",
+                "showTitle": true
+              },
+              "widgetType": "pie",
+              "encodings": {
+                "angle": {
+                  "fieldName": "sum(revenue)",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Revenue"
+                },
+                "color": {
+                  "fieldName": "product_name",
+                  "displayName": "product_name",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 6,
+            "width": 6,
+            "height": 7
+          }
+        },
+        {
+          "widget": {
+            "name": "f2b5909e",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "a3d2bd25",
+                  "fields": [
+                    {
+                      "name": "name",
+                      "expression": "`name`"
+                    },
+                    {
+                      "name": "sum(total_spent)",
+                      "expression": "SUM(`total_spent`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "TOP CLIENTES",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "name",
+                  "displayName": "name",
+                  "scale": {
+                    "type": "categorical",
+                    "sort": {
+                      "by": "y-reversed"
+                    }
+                  }
+                },
+                "y": {
+                  "fieldName": "sum(total_spent)",
+                  "format": {
+                    "type": "number-currency",
+                    "currencyCode": "USD",
+                    "decimalPlaces": {
+                      "type": "exact",
+                      "places": 1
+                    },
+                    "abbreviation": "compact"
+                  },
+                  "displayName": "Total Spent",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "color": {
+                  "fieldName": "name",
+                  "legend": {
+                    "hide": true
+                  },
+                  "displayName": "name",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "label": {
+                  "show": true
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 6,
+            "width": 6,
+            "height": 7
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}
