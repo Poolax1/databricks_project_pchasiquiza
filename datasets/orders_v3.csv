@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,channel,branch_name,state
+1,784,2025-11-13,Online,Miami Store,Florida
+2,897,2024-06-23,In-Store,San Francisco Store,California
+3,371,2025-12-21,Online,San Francisco Store,California
+4,487,2024-05-05,Online,Miami Store,Florida
+5,2038,2023-08-17,Online,Los Angeles Store,California
+6,2213,2025-11-09,In-Store,Los Angeles Store,California
+7,1361,2023-01-03,Online,San Francisco Store,California
+8,192,2025-06-29,Online,Los Angeles Store,California
+9,730,2023-11-03,Online,Miami Store,Florida
+10,2262,2024-03-07,In-Store,Los Angeles Store,California
+11,957,2023-05-16,Online,San Francisco Store,California
+12,381,2024-05-29,Online,Miami Store,Florida
+13,798,2023-07-12,Online,Los Angeles Store,California
+14,239,2025-05-22,Online,Houston Store,Texas
+15,1106,2024-10-27,In-Store,Miami Store,Florida
+16,1387,2023-07-28,Online,Miami Store,Florida
+17,2250,2025-08-09,In-Store,Houston Store,Texas
+18,1528,2025-11-23,In-Store,Houston Store,Texas
+19,1668,2024-10-10,In-Store,Miami Store,Florida
+20,37,2023-04-30,Online,Houston Store,Texas
+21,1997,2024-09-18,In-Store,San Francisco Store,California
+22,1426,2024-06-08,Online,San Francisco Store,California
+23,1491,2025-02-07,In-Store,San Francisco Store,California
+24,1225,2024-05-26,In-Store,Miami Store,Florida
+25,2023,2023-02-16,In-Store,Houston Store,Texas
+26,2442,2025-02-10,In-Store,Houston Store,Texas
+27,833,2025-01-09,In-Store,Los Angeles Store,California
+28,597,2024-06-05,In-Store,Los Angeles Store,California
+29,2441,2023-05-14,In-Store,Houston Store,Texas
+30,700,2023-09-05,In-Store,Houston Store,Texas
+31,1647,2024-03-11,Online,Houston Store,Texas
+32,2019,2024-11-16,Online,Miami Store,Florida
+33,441,2024-08-08,In-Store,Houston Store,Texas
+34,1861,2023-12-17,In-Store,Los Angeles Store,California
+35,1641,2023-05-23,In-Store,Miami Store,Florida
+36,1530,2025-08-24,Online,Houston Store,Texas
+37,2368,2025-03-14,In-Store,Los Angeles Store,California
+38,1095,2024-12-18,Online,Miami Store,Florida
+39,568,2024-10-04,Online,Houston Store,Texas
+40,236,2024-05-15,Online,Houston Store,Texas
+41,1305,2024-01-05,Online,Houston Store,Texas
+42,1186,2025-02-25,Online,Miami Store,Florida
+43,1033,2025-01-08,In-Store,Los Angeles Store,California
+44,2108,2025-08-07,In-Store,Los Angeles Store,California
+45,1841,2024-06-05,In-Store,San Francisco Store,California
+46,225,2024-05-03,In-Store,Houston Store,Texas
+47,1843,2024-02-01,In-Store,San Francisco Store,California
+48,582,2025-06-14,Online,San Francisco Store,California
+49,169,2023-12-21,In-Store,Los Angeles Store,California
+50,1466,2025-08-04,In-Store,Miami Store,Florida
+51,14,2023-10-15,Online,Miami Store,Florida
+52,2212,2025-09-24,In-Store,Los Angeles Store,California
+53,1444,2024-06-19,Online,Miami Store,Florida
+54,1871,2025-04-30,In-Store,San Francisco Store,California
+55,1544,2025-04-17,Online,Houston Store,Texas
+56,1690,2023-06-17,In-Store,Los Angeles Store,California
+57,1572,2025-08-07,In-Store,Houston Store,Texas
+58,1052,2024-09-12,Online,Miami Store,Florida
+59,1732,2024-03-03,Online,Houston Store,Texas
+60,446,2024-05-04,Online,Miami Store,Florida
+61,716,2023-12-21,Online,Miami Store,Florida
+62,819,2023-07-15,Online,San Francisco Store,California
+63,2152,2024-06-28,Online,Miami Store,Florida
+64,426,2024-12-17,Online,San Francisco Store,California
+65,1125,2025-04-03,Online,San Francisco Store,California
+66,1565,2025-07-20,In-Store,San Francisco Store,California
+67,850,2025-09-29,In-Store,Los Angeles Store,California
+68,1546,2024-10-20,Online,Los Angeles Store,California
+69,1130,2025-07-27,In-Store,Miami Store,Florida
+70,1703,2025-02-18,In-Store,San Francisco Store,California
+71,2002,2023-01-11,In-Store,Los Angeles Store,California
+72,277,2024-01-31,In-Store,San Francisco Store,California
+73,1807,2024-12-31,Online,Houston Store,Texas
+74,2236,2024-02-13,In-Store,Houston Store,Texas
+75,1940,2023-12-28,Online,Houston Store,Texas
+76,2153,2025-10-23,In-Store,Miami Store,Florida
+77,546,2023-03-25,In-Store,San Francisco Store,California
+78,2428,2023-06-05,In-Store,Houston Store,Texas
+79,110,2024-12-07,Online,Los Angeles Store,California
+80,545,2024-04-16,In-Store,Houston Store,Texas
+81,2402,2024-09-10,Online,Houston Store,Texas
+82,743,2023-05-14,In-Store,Houston Store,Texas
+83,2365,2025-02-26,Online,Miami Store,Florida
+84,1290,2025-06-25,In-Store,Los Angeles Store,California
+85,1876,2025-05-13,Online,San Francisco Store,California
+86,1089,2024-10-28,Online,Los Angeles Store,California
+87,333,2023-10-04,In-Store,San Francisco Store,California
+88,1537,2025-05-31,Online,Miami Store,Florida
+89,1157,2023-01-13,In-Store,Miami Store,Florida
+90,592,2023-12-08,In-Store,Miami Store,Florida
+91,783,2023-02-04,In-Store,Miami Store,Florida
+92,540,2024-07-12,In-Store,San Francisco Store,California
+93,1559,2024-02-09,In-Store,Houston Store,Texas
+94,1520,2024-10-19,In-Store,San Francisco Store,California
+95,619,2023-06-08,In-Store,Los Angeles Store,California
+96,1834,2025-08-13,In-Store,Miami Store,Florida
+97,992,2024-07-02,In-Store,Miami Store,Florida
+98,2147,2025-09-11,In-Store,Los Angeles Store,California
+99,2365,2023-10-06,In-Store,San Francisco Store,California
+100,2171,2024-04-23,Online,Houston Store,Texas
+101,1617,2023-04-21,Online,Houston Store,Texas
+102,1519,2024-03-06,In-Store,Los Angeles Store,California
+103,522,2024-06-25,In-Store,Houston Store,Texas
+104,917,2023-12-26,In-Store,San Francisco Store,California
+105,717,2024-01-07,In-Store,San Francisco Store,California
+106,2363,2025-11-04,In-Store,Los Angeles Store,California
+107,1937,2025-08-12,In-Store,San Francisco Store,California
+108,560,2023-09-16,In-Store,Miami Store,Florida
+109,969,2025-02-16,In-Store,Los Angeles Store,California
+110,2404,2023-04-30,Online,San Francisco Store,California
+111,1078,2025-09-02,In-Store,Los Angeles Store,California
+112,890,2025-07-01,Online,Houston Store,Texas
+113,793,2024-12-23,In-Store,San Francisco Store,California
+114,2313,2024-06-06,In-Store,Miami Store,Florida
+115,982,2023-11-21,Online,San Francisco Store,California
+116,802,2025-12-09,In-Store,Los Angeles Store,California
+117,43,2023-03-10,Online,Los Angeles Store,California
+118,1610,2024-01-26,In-Store,San Francisco Store,California
+119,1778,2024-01-18,In-Store,Miami Store,Florida
+120,350,2023-01-16,Online,Miami Store,Florida
+121,1568,2025-04-25,In-Store,Miami Store,Florida
+122,1130,2025-05-18,Online,Los Angeles Store,California
+123,2049,2024-07-21,In-Store,San Francisco Store,California
+124,1781,2023-05-12,Online,Houston Store,Texas
+125,584,2023-09-30,Online,Los Angeles Store,California
+126,432,2024-04-28,In-Store,Miami Store,Florida
+127,1933,2024-07-03,In-Store,San Francisco Store,California
+128,2101,2023-12-23,Online,Miami Store,Florida
+129,1349,2025-12-07,In-Store,Houston Store,Texas
+130,2195,2025-10-30,In-Store,Miami Store,Florida
+131,2031,2023-08-21,In-Store,Miami Store,Florida
+132,1190,2023-02-05,Online,Houston Store,Texas
+133,1163,2024-02-17,Online,San Francisco Store,California
+134,299,2025-10-24,Online,Los Angeles Store,California
+135,1940,2023-02-13,Online,San Francisco Store,California
+136,789,2024-07-21,Online,Houston Store,Texas
+137,850,2025-01-09,Online,Miami Store,Florida
+138,2226,2023-04-24,Online,San Francisco Store,California
+139,1378,2024-02-01,Online,Los Angeles Store,California
+140,1178,2024-04-10,Online,Houston Store,Texas
+141,1950,2025-04-26,In-Store,San Francisco Store,California
+142,878,2024-05-16,Online,Los Angeles Store,California
+143,1139,2024-03-16,In-Store,Houston Store,Texas
+144,1578,2023-03-10,In-Store,Los Angeles Store,California
+145,2493,2023-11-22,In-Store,Houston Store,Texas
+146,1647,2023-03-08,Online,Miami Store,Florida
+147,1904,2023-10-31,Online,San Francisco Store,California
+148,1383,2025-08-29,Online,Los Angeles Store,California
+149,145,2024-04-28,Online,Houston Store,Texas
+150,2323,2025-07-17,In-Store,Los Angeles Store,California
+151,1203,2023-05-29,Online,Los Angeles Store,California
+152,1862,2025-11-16,Online,San Francisco Store,California
+153,1855,2025-09-13,Online,Miami Store,Florida
+154,1867,2024-08-06,Online,Los Angeles Store,California
+155,1099,2023-09-05,Online,Houston Store,Texas
+156,1152,2024-12-02,In-Store,Houston Store,Texas
+157,1735,2023-04-06,Online,Miami Store,Florida
+158,568,2023-10-09,In-Store,Houston Store,Texas
+159,1814,2023-11-18,Online,Miami Store,Florida
+160,531,2024-06-12,In-Store,Houston Store,Texas
+161,2207,2023-09-20,Online,San Francisco Store,California
+162,1562,2024-08-02,Online,Los Angeles Store,California
+163,681,2023-10-21,In-Store,San Francisco Store,California
+164,2071,2024-01-30,In-Store,Los Angeles Store,California
+165,1071,2024-05-27,In-Store,Los Angeles Store,California
+166,729,2025-07-09,Online,Los Angeles Store,California
+167,1730,2025-03-20,In-Store,San Francisco Store,California
+168,2192,2025-07-08,Online,Los Angeles Store,California
+169,668,2024-11-23,Online,San Francisco Store,California
+170,1613,2023-08-23,In-Store,Miami Store,Florida
+171,681,2025-08-09,In-Store,Houston Store,Texas
+172,973,2025-10-28,Online,Houston Store,Texas
+173,2133,2024-06-22,Online,Los Angeles Store,California
+174,2464,2025-03-30,In-Store,San Francisco Store,California
+175,827,2023-09-29,In-Store,Houston Store,Texas
+176,297,2025-10-25,In-Store,San Francisco Store,California
+177,1254,2024-08-15,Online,San Francisco Store,California
+178,2426,2025-09-02,Online,Los Angeles Store,California
+179,2469,2023-04-25,Online,Houston Store,Texas
+180,2153,2023-09-20,Online,Los Angeles Store,California
+181,1729,2023-07-26,Online,Los Angeles Store,California
+182,2025,2023-10-30,Online,Houston Store,Texas
+183,330,2023-04-22,In-Store,Houston Store,Texas
+184,2487,2023-07-04,Online,Miami Store,Florida
+185,1156,2025-06-19,Online,Miami Store,Florida
+186,1891,2023-08-09,Online,San Francisco Store,California
+187,382,2025-12-29,In-Store,Houston Store,Texas
+188,2186,2025-06-16,Online,Miami Store,Florida
+189,843,2025-12-29,Online,San Francisco Store,California
+190,2318,2024-09-13,In-Store,San Francisco Store,California
+191,396,2024-03-02,Online,San Francisco Store,California
+192,450,2024-10-05,Online,Miami Store,Florida
+193,1355,2024-07-21,Online,Houston Store,Texas
+194,1987,2024-03-18,Online,Los Angeles Store,California
+195,1309,2024-08-23,Online,San Francisco Store,California
+196,1298,2024-05-18,In-Store,Miami Store,Florida
+197,2068,2023-05-11,In-Store,Miami Store,Florida
+198,2287,2023-08-06,In-Store,Los Angeles Store,California
+199,1294,2024-11-18,Online,Los Angeles Store,California
+200,2466,2023-06-20,Online,Miami Store,Florida
+201,1850,2024-09-03,Online,Houston Store,Texas
+202,186,2025-09-18,In-Store,Los Angeles Store,California
+203,1234,2023-02-26,Online,Miami Store,Florida
+204,1438,2023-09-03,Online,Los Angeles Store,California
+205,253,2023-05-24,In-Store,Houston Store,Texas
+206,19,2025-12-10,Online,San Francisco Store,California
+207,1160,2024-01-03,In-Store,Los Angeles Store,California
+208,223,2023-08-06,In-Store,Houston Store,Texas
+209,3,2024-09-07,In-Store,Miami Store,Florida
+210,1260,2024-03-17,Online,Los Angeles Store,California
+211,854,2025-04-20,Online,Los Angeles Store,California
+212,1489,2025-08-13,Online,Miami Store,Florida
+213,228,2024-11-29,Online,San Francisco Store,California
+214,1678,2025-05-25,Online,Miami Store,Florida
+215,499,2025-02-14,Online,Los Angeles Store,California
+216,1886,2025-01-31,Online,Miami Store,Florida
+217,2016,2025-08-02,In-Store,Houston Store,Texas
+218,1163,2025-07-11,Online,Miami Store,Florida
+219,1300,2025-07-23,In-Store,Los Angeles Store,California
+220,2339,2023-01-25,Online,Miami Store,Florida
+221,1077,2025-03-16,Online,San Francisco Store,California
+222,715,2025-02-02,Online,Miami Store,Florida
+223,948,2025-12-19,In-Store,San Francisco Store,California
+224,870,2024-03-09,In-Store,Houston Store,Texas
+225,1071,2025-05-28,In-Store,San Francisco Store,California
+226,94,2025-12-25,In-Store,Miami Store,Florida
+227,560,2025-06-28,Online,Los Angeles Store,California
+228,1776,2024-07-18,In-Store,San Francisco Store,California
+229,2261,2023-04-16,Online,Houston Store,Texas
+230,436,2023-04-06,Online,San Francisco Store,California
+231,852,2023-06-17,In-Store,San Francisco Store,California
+232,205,2023-02-11,In-Store,San Francisco Store,California
+233,2429,2023-04-14,In-Store,Houston Store,Texas
+234,1100,2024-06-03,In-Store,Miami Store,Florida
+235,77,2023-10-09,In-Store,San Francisco Store,California
+236,816,2025-12-02,In-Store,San Francisco Store,California
+237,768,2025-08-04,In-Store,Los Angeles Store,California
+238,2458,2025-01-18,In-Store,Houston Store,Texas
+239,106,2025-04-10,Online,San Francisco Store,California
+240,2136,2023-02-18,In-Store,Houston Store,Texas
+241,1747,2023-04-25,In-Store,San Francisco Store,California
+242,1466,2024-05-17,Online,Miami Store,Florida
+243,245,2025-09-12,In-Store,Miami Store,Florida
+244,1406,2023-03-12,Online,San Francisco Store,California
+245,982,2025-10-08,Online,Miami Store,Florida
+246,1737,2023-03-08,In-Store,San Francisco Store,California
+247,142,2025-08-24,Online,Miami Store,Florida
+248,893,2023-06-30,Online,Los Angeles Store,California
+249,1392,2024-09-04,Online,Los Angeles Store,California
+250,2400,2024-11-27,Online,Los Angeles Store,California
+251,545,2024-08-25,In-Store,Houston Store,Texas
+252,2200,2023-09-05,Online,Houston Store,Texas
+253,1470,2023-12-25,In-Store,Los Angeles Store,California
+254,763,2023-09-06,Online,Houston Store,Texas
+255,624,2024-09-29,Online,Miami Store,Florida
+256,656,2025-08-07,Online,San Francisco Store,California
+257,2498,2024-10-24,Online,San Francisco Store,California
+258,1248,2023-06-25,In-Store,San Francisco Store,California
+259,43,2024-12-23,In-Store,Los Angeles Store,California
+260,2312,2024-03-01,Online,Houston Store,Texas
+261,1027,2025-02-09,Online,Miami Store,Florida
+262,1661,2024-12-03,In-Store,Miami Store,Florida
+263,1292,2023-03-22,Online,Los Angeles Store,California
+264,596,2025-07-15,Online,Miami Store,Florida
+265,1013,2023-05-18,Online,Miami Store,Florida
+266,2225,2024-04-14,In-Store,Miami Store,Florida
+267,2111,2023-12-16,In-Store,Miami Store,Florida
+268,958,2023-11-06,In-Store,Houston Store,Texas
+269,561,2025-11-09,Online,Miami Store,Florida
+270,1331,2025-09-28,Online,San Francisco Store,California
+271,1313,2023-09-26,In-Store,Los Angeles Store,California
+272,1822,2025-10-23,In-Store,Houston Store,Texas
+273,1551,2025-02-08,In-Store,Miami Store,Florida
+274,850,2023-01-16,In-Store,Houston Store,Texas
+275,1279,2024-08-28,Online,Miami Store,Florida
+276,1534,2025-03-23,In-Store,San Francisco Store,California
+277,1815,2024-04-26,Online,Los Angeles Store,California
+278,1742,2025-06-13,In-Store,Miami Store,Florida
+279,606,2023-09-26,Online,Miami Store,Florida
+280,1487,2024-02-18,In-Store,Miami Store,Florida
+281,1295,2023-01-25,In-Store,Miami Store,Florida
+282,746,2023-11-12,In-Store,Los Angeles Store,California
+283,558,2024-07-24,In-Store,Los Angeles Store,California
+284,2112,2024-12-25,Online,San Francisco Store,California
+285,942,2025-10-04,In-Store,Los Angeles Store,California
+286,2297,2024-01-24,Online,Miami Store,Florida
+287,1270,2024-12-22,Online,San Francisco Store,California
+288,940,2024-03-19,Online,San Francisco Store,California
+289,1611,2025-09-25,Online,San Francisco Store,California
+290,2205,2025-12-16,In-Store,Miami Store,Florida
+291,1726,2024-11-27,Online,Houston Store,Texas
+292,985,2025-08-28,Online,Miami Store,Florida
+293,1588,2024-12-21,Online,Los Angeles Store,California
+294,1337,2024-01-03,In-Store,Los Angeles Store,California
+295,1875,2023-12-08,In-Store,Miami Store,Florida
+296,662,2023-10-31,In-Store,Miami Store,Florida
+297,33,2025-02-02,In-Store,San Francisco Store,California
+298,1817,2025-03-26,Online,Miami Store,Florida
+299,2121,2023-04-22,Online,San Francisco Store,California
+300,1890,2025-05-27,In-Store,Los Angeles Store,California
+301,1157,2025-10-26,Online,San Francisco Store,California
+302,61,2025-07-18,Online,Miami Store,Florida
+303,1544,2024-12-03,Online,Los Angeles Store,California
+304,272,2025-04-25,In-Store,Houston Store,Texas
+305,2294,2025-08-01,In-Store,San Francisco Store,California
+306,1200,2023-10-06,Online,Los Angeles Store,California
+307,1807,2024-01-17,In-Store,San Francisco Store,California
+308,1155,2023-01-13,In-Store,Los Angeles Store,California
+309,1126,2023-10-30,In-Store,Los Angeles Store,California
+310,310,2023-06-09,In-Store,San Francisco Store,California
+311,1316,2023-06-03,In-Store,Houston Store,Texas
+312,1746,2025-01-23,Online,Los Angeles Store,California
+313,338,2023-06-30,In-Store,Los Angeles Store,California
+314,10,2024-01-12,Online,Los Angeles Store,California
+315,49,2025-02-14,Online,Houston Store,Texas
+316,1511,2023-01-16,In-Store,Houston Store,Texas
+317,1345,2023-09-10,Online,Miami Store,Florida
+318,731,2025-12-19,Online,San Francisco Store,California
+319,795,2023-01-31,Online,Houston Store,Texas
+320,1649,2025-11-10,In-Store,San Francisco Store,California
+321,133,2024-12-31,In-Store,Miami Store,Florida
+322,2131,2023-10-16,Online,San Francisco Store,California
+323,2105,2024-05-12,In-Store,Houston Store,Texas
+324,376,2024-07-01,In-Store,San Francisco Store,California
+325,2397,2025-08-18,In-Store,Houston Store,Texas
+326,271,2023-05-12,In-Store,San Francisco Store,California
+327,1507,2025-05-07,Online,Houston Store,Texas
+328,2159,2024-06-04,Online,Houston Store,Texas
+329,76,2023-01-30,In-Store,San Francisco Store,California
+330,1957,2024-09-18,In-Store,Miami Store,Florida
+331,1667,2023-01-04,Online,Los Angeles Store,California
+332,329,2024-05-23,Online,Miami Store,Florida
+333,2170,2023-01-16,In-Store,San Francisco Store,California
+334,41,2025-09-23,Online,Miami Store,Florida
+335,1191,2025-08-13,In-Store,Houston Store,Texas
+336,2327,2023-09-20,In-Store,Los Angeles Store,California
+337,2057,2025-12-24,Online,San Francisco Store,California
+338,13,2023-09-22,Online,San Francisco Store,California
+339,924,2024-01-13,In-Store,San Francisco Store,California
+340,1843,2025-08-20,In-Store,Los Angeles Store,California
+341,1233,2024-04-20,Online,Houston Store,Texas
+342,1215,2023-11-25,In-Store,San Francisco Store,California
+343,653,2024-03-13,Online,Miami Store,Florida
+344,1704,2023-01-16,In-Store,San Francisco Store,California
+345,621,2025-05-17,Online,San Francisco Store,California
+346,1963,2024-05-25,Online,San Francisco Store,California
+347,1646,2025-09-10,Online,San Francisco Store,California
+348,2244,2024-08-03,In-Store,Houston Store,Texas
+349,417,2023-01-06,In-Store,Miami Store,Florida
+350,664,2025-10-15,Online,Houston Store,Texas
+351,1779,2025-03-17,In-Store,Miami Store,Florida
+352,1380,2024-09-10,Online,San Francisco Store,California
+353,148,2024-02-09,Online,Los Angeles Store,California
+354,2046,2025-09-23,In-Store,Houston Store,Texas
+355,1389,2024-08-16,In-Store,Los Angeles Store,California
+356,2412,2024-07-19,Online,Houston Store,Texas
+357,1726,2025-01-21,In-Store,San Francisco Store,California
+358,402,2023-01-12,In-Store,Houston Store,Texas
+359,1516,2023-06-14,Online,San Francisco Store,California
+360,2032,2025-05-27,Online,Houston Store,Texas
+361,229,2023-03-19,In-Store,San Francisco Store,California
+362,1599,2024-09-05,Online,San Francisco Store,California
+363,268,2025-05-18,Online,Miami Store,Florida
+364,1429,2025-03-22,In-Store,San Francisco Store,California
+365,1817,2025-12-07,Online,Miami Store,Florida
+366,1035,2025-02-05,Online,San Francisco Store,California
+367,1344,2023-03-23,In-Store,Los Angeles Store,California
+368,126,2023-07-28,In-Store,San Francisco Store,California
+369,2354,2024-06-05,Online,Los Angeles Store,California
+370,1726,2025-11-18,Online,Los Angeles Store,California
+371,1113,2025-09-20,In-Store,San Francisco Store,California
+372,1376,2024-04-09,In-Store,Los Angeles Store,California
+373,689,2024-09-19,In-Store,Miami Store,Florida
+374,1281,2025-02-19,In-Store,Houston Store,Texas
+375,1233,2024-07-12,Online,San Francisco Store,California
+376,281,2025-08-17,In-Store,Los Angeles Store,California
+377,443,2023-04-01,In-Store,San Francisco Store,California
+378,1864,2025-12-12,Online,Miami Store,Florida
+379,837,2025-05-09,In-Store,San Francisco Store,California
+380,389,2024-07-09,Online,San Francisco Store,California
+381,617,2023-06-05,In-Store,Los Angeles Store,California
+382,147,2023-01-02,In-Store,Miami Store,Florida
+383,521,2025-04-04,In-Store,Houston Store,Texas
+384,630,2025-03-12,Online,Houston Store,Texas
+385,2482,2025-09-09,Online,Los Angeles Store,California
+386,2192,2025-12-17,In-Store,San Francisco Store,California
+387,289,2024-05-07,Online,Los Angeles Store,California
+388,1410,2024-10-30,Online,Los Angeles Store,California
+389,14,2025-11-24,Online,Los Angeles Store,California
+390,257,2023-03-16,Online,San Francisco Store,California
+391,1722,2025-08-01,Online,Miami Store,Florida
+392,1424,2024-01-06,Online,Los Angeles Store,California
+393,1231,2024-08-09,In-Store,San Francisco Store,California
+394,858,2023-11-25,In-Store,Miami Store,Florida
+395,1196,2024-08-12,Online,Los Angeles Store,California
+396,464,2025-02-15,In-Store,Houston Store,Texas
+397,270,2023-10-31,In-Store,Miami Store,Florida
+398,1245,2024-08-01,In-Store,Los Angeles Store,California
+399,1207,2023-08-09,In-Store,Miami Store,Florida
+400,72,2025-09-05,Online,Miami Store,Florida
+401,1307,2024-01-10,In-Store,Miami Store,Florida
+402,2122,2023-07-07,In-Store,Miami Store,Florida
+403,2403,2024-04-18,Online,Miami Store,Florida
+404,1751,2025-04-23,Online,Miami Store,Florida
+405,497,2024-06-14,In-Store,Los Angeles Store,California
+406,988,2025-12-06,In-Store,Houston Store,Texas
+407,910,2025-12-24,In-Store,San Francisco Store,California
+408,373,2025-08-20,In-Store,Miami Store,Florida
+409,362,2024-04-19,In-Store,San Francisco Store,California
+410,2141,2025-08-03,In-Store,Los Angeles Store,California
+411,1345,2025-12-25,Online,Miami Store,Florida
+412,324,2024-05-31,In-Store,Houston Store,Texas
+413,2432,2024-03-01,In-Store,San Francisco Store,California
+414,575,2023-05-13,Online,Miami Store,Florida
+415,736,2023-11-10,Online,Los Angeles Store,California
+416,2394,2024-08-13,Online,Houston Store,Texas
+417,1216,2025-10-05,Online,San Francisco Store,California
+418,1696,2023-06-08,In-Store,San Francisco Store,California
+419,1908,2024-10-22,In-Store,Miami Store,Florida
+420,719,2025-01-17,In-Store,Houston Store,Texas
+421,781,2025-03-11,In-Store,Houston Store,Texas
+422,1020,2024-02-14,In-Store,Houston Store,Texas
+423,1404,2024-11-10,In-Store,Houston Store,Texas
+424,1427,2023-04-24,Online,Los Angeles Store,California
+425,664,2025-06-15,In-Store,Houston Store,Texas
+426,1773,2025-12-14,Online,San Francisco Store,California
+427,11,2023-03-06,Online,San Francisco Store,California
+428,2235,2024-11-14,In-Store,Los Angeles Store,California
+429,1039,2023-05-26,Online,San Francisco Store,California
+430,2459,2025-07-31,In-Store,San Francisco Store,California
+431,585,2025-10-30,Online,Houston Store,Texas
+432,1076,2025-01-08,In-Store,San Francisco Store,California
+433,1375,2023-07-05,Online,Los Angeles Store,California
+434,1452,2025-04-14,In-Store,Houston Store,Texas
+435,1855,2025-03-19,In-Store,Miami Store,Florida
+436,1790,2023-06-20,In-Store,Houston Store,Texas
+437,743,2023-08-01,In-Store,Los Angeles Store,California
+438,1777,2023-01-27,In-Store,Houston Store,Texas
+439,204,2025-10-10,Online,Houston Store,Texas
+440,1077,2025-12-27,Online,Los Angeles Store,California
+441,974,2025-02-28,Online,Houston Store,Texas
+442,1399,2024-02-12,In-Store,Los Angeles Store,California
+443,1866,2023-03-15,Online,Los Angeles Store,California
+444,1300,2024-07-31,In-Store,Miami Store,Florida
+445,1055,2024-11-10,In-Store,San Francisco Store,California
+446,1159,2025-02-24,Online,San Francisco Store,California
+447,105,2025-04-28,Online,Houston Store,Texas
+448,253,2025-05-19,In-Store,Houston Store,Texas
+449,295,2023-08-25,Online,Miami Store,Florida
+450,1182,2024-12-27,In-Store,Miami Store,Florida
+451,549,2024-01-13,In-Store,Miami Store,Florida
+452,1778,2024-10-22,In-Store,Los Angeles Store,California
+453,299,2025-04-09,In-Store,Miami Store,Florida
+454,1749,2025-06-24,In-Store,Miami Store,Florida
+455,1844,2024-01-11,Online,Houston Store,Texas
+456,101,2024-09-10,Online,Miami Store,Florida
+457,2380,2024-10-14,In-Store,Los Angeles Store,California
+458,1775,2025-10-29,In-Store,Los Angeles Store,California
+459,2441,2023-07-15,Online,Houston Store,Texas
+460,874,2025-03-17,Online,Miami Store,Florida
+461,2429,2025-06-11,In-Store,Miami Store,Florida
+462,92,2025-12-20,Online,Los Angeles Store,California
+463,447,2025-07-25,In-Store,Miami Store,Florida
+464,109,2025-04-26,Online,Miami Store,Florida
+465,317,2025-03-28,In-Store,Miami Store,Florida
+466,1836,2024-07-17,Online,San Francisco Store,California
+467,1944,2024-09-25,In-Store,Houston Store,Texas
+468,1459,2024-11-09,Online,San Francisco Store,California
+469,442,2025-10-14,Online,Houston Store,Texas
+470,2266,2023-01-08,In-Store,Los Angeles Store,California
+471,1246,2025-12-04,Online,Miami Store,Florida
+472,1552,2023-12-10,In-Store,Houston Store,Texas
+473,278,2025-03-06,Online,San Francisco Store,California
+474,569,2025-11-16,In-Store,Miami Store,Florida
+475,1010,2025-04-28,Online,Los Angeles Store,California
+476,839,2023-03-03,In-Store,Houston Store,Texas
+477,1608,2025-12-21,Online,Houston Store,Texas
+478,30,2024-02-26,In-Store,Houston Store,Texas
+479,2407,2024-09-24,Online,Miami Store,Florida
+480,1943,2025-03-02,In-Store,San Francisco Store,California
+481,2134,2024-07-04,In-Store,San Francisco Store,California
+482,1258,2024-08-28,In-Store,Houston Store,Texas
+483,2361,2024-06-08,Online,Los Angeles Store,California
+484,365,2025-06-17,In-Store,Los Angeles Store,California
+485,1801,2023-06-12,Online,San Francisco Store,California
+486,1823,2025-02-25,In-Store,Los Angeles Store,California
+487,1863,2025-06-28,Online,San Francisco Store,California
+488,905,2025-09-08,In-Store,Houston Store,Texas
+489,698,2024-01-14,Online,San Francisco Store,California
+490,2179,2023-06-22,Online,San Francisco Store,California
+491,1856,2025-09-26,In-Store,Houston Store,Texas
+492,351,2023-03-05,Online,Los Angeles Store,California
+493,180,2025-09-01,Online,San Francisco Store,California
+494,1504,2023-03-07,In-Store,San Francisco Store,California
+495,1187,2024-04-02,Online,Houston Store,Texas
+496,1807,2024-03-28,Online,Los Angeles Store,California
+497,774,2025-09-05,Online,San Francisco Store,California
+498,510,2023-06-27,In-Store,Houston Store,Texas
+499,365,2023-10-07,Online,San Francisco Store,California
+500,353,2023-12-10,In-Store,Miami Store,Florida
+501,1107,2025-11-06,Online,Houston Store,Texas
+502,1249,2023-10-23,Online,Los Angeles Store,California
+503,412,2023-07-21,Online,Los Angeles Store,California
+504,735,2025-08-19,In-Store,Los Angeles Store,California
+505,118,2024-11-14,Online,Los Angeles Store,California
+506,482,2024-01-10,Online,San Francisco Store,California
+507,192,2023-02-04,In-Store,San Francisco Store,California
+508,107,2023-01-29,Online,Los Angeles Store,California
+509,382,2025-02-13,In-Store,Los Angeles Store,California
+510,783,2023-08-09,In-Store,Los Angeles Store,California
+511,2438,2023-02-22,Online,San Francisco Store,California
+512,244,2025-03-01,In-Store,Los Angeles Store,California
+513,468,2023-03-17,Online,Los Angeles Store,California
+514,866,2024-05-08,In-Store,Miami Store,Florida
+515,1562,2023-04-27,In-Store,Miami Store,Florida
+516,1234,2023-10-07,Online,Los Angeles Store,California
+517,604,2025-01-15,In-Store,Houston Store,Texas
+518,1661,2025-08-06,In-Store,Los Angeles Store,California
+519,1097,2025-02-02,In-Store,Miami Store,Florida
+520,2016,2023-10-22,In-Store,Houston Store,Texas
+521,1659,2025-10-14,In-Store,Houston Store,Texas
+522,1734,2025-11-10,Online,Los Angeles Store,California
+523,1614,2025-04-21,In-Store,Miami Store,Florida
+524,860,2025-11-25,Online,Miami Store,Florida
+525,1880,2024-05-11,In-Store,Houston Store,Texas
+526,1277,2023-07-25,Online,Los Angeles Store,California
+527,13,2024-03-01,Online,San Francisco Store,California
+528,2347,2023-02-13,In-Store,San Francisco Store,California
+529,1100,2024-08-27,In-Store,Miami Store,Florida
+530,1075,2024-03-29,In-Store,San Francisco Store,California
+531,787,2024-08-17,Online,Miami Store,Florida
+532,149,2024-05-21,In-Store,Miami Store,Florida
+533,1755,2025-03-04,Online,Miami Store,Florida
+534,2170,2023-01-21,Online,San Francisco Store,California
+535,1304,2024-09-11,Online,Miami Store,Florida
+536,1180,2024-02-18,In-Store,Houston Store,Texas
+537,2424,2025-12-30,In-Store,Los Angeles Store,California
+538,82,2023-12-03,Online,Los Angeles Store,California
+539,492,2025-06-28,Online,Miami Store,Florida
+540,2404,2023-10-03,In-Store,Los Angeles Store,California
+541,2026,2025-06-10,Online,San Francisco Store,California
+542,925,2023-01-13,In-Store,San Francisco Store,California
+543,1297,2025-10-23,Online,Los Angeles Store,California
+544,1604,2025-09-04,In-Store,San Francisco Store,California
+545,1597,2025-08-31,Online,Los Angeles Store,California
+546,123,2023-06-24,In-Store,Los Angeles Store,California
+547,708,2023-08-29,Online,Los Angeles Store,California
+548,2378,2024-06-30,In-Store,Miami Store,Florida
+549,991,2023-01-14,In-Store,Los Angeles Store,California
+550,2371,2024-12-25,Online,Miami Store,Florida
+551,2041,2023-01-03,Online,Los Angeles Store,California
+552,2481,2024-11-21,In-Store,Los Angeles Store,California
+553,710,2025-01-16,Online,Los Angeles Store,California
+554,794,2025-02-07,In-Store,San Francisco Store,California
+555,712,2025-05-21,Online,Miami Store,Florida
+556,1718,2024-05-09,In-Store,Miami Store,Florida
+557,257,2024-02-21,In-Store,Los Angeles Store,California
+558,1213,2024-09-19,In-Store,Los Angeles Store,California
+559,871,2025-12-11,In-Store,San Francisco Store,California
+560,1732,2025-10-17,In-Store,San Francisco Store,California
+561,809,2023-05-22,In-Store,San Francisco Store,California
+562,271,2023-02-15,Online,Miami Store,Florida
+563,1544,2025-04-23,Online,Miami Store,Florida
+564,550,2025-10-05,Online,Miami Store,Florida
+565,1138,2023-01-10,In-Store,Los Angeles Store,California
+566,568,2024-10-25,In-Store,Miami Store,Florida
+567,359,2024-07-26,In-Store,Houston Store,Texas
+568,1674,2024-10-10,In-Store,Houston Store,Texas
+569,1638,2025-07-01,Online,San Francisco Store,California
+570,1358,2024-10-01,Online,Miami Store,Florida
+571,1713,2024-09-07,In-Store,Houston Store,Texas
+572,1363,2024-11-28,Online,San Francisco Store,California
+573,798,2025-06-27,Online,Miami Store,Florida
+574,1285,2023-06-27,In-Store,Los Angeles Store,California
+575,887,2025-05-18,Online,Houston Store,Texas
+576,1759,2025-10-26,In-Store,Los Angeles Store,California
+577,1223,2025-05-02,Online,Miami Store,Florida
+578,2259,2023-11-03,In-Store,Houston Store,Texas
+579,287,2024-07-01,In-Store,Miami Store,Florida
+580,1716,2023-11-23,In-Store,Los Angeles Store,California
+581,1786,2024-01-30,In-Store,Houston Store,Texas
+582,743,2023-10-27,Online,Los Angeles Store,California
+583,1506,2025-01-18,In-Store,Miami Store,Florida
+584,2041,2023-10-12,In-Store,Miami Store,Florida
+585,1047,2023-11-26,In-Store,Los Angeles Store,California
+586,296,2023-02-19,Online,Houston Store,Texas
+587,2054,2025-02-11,In-Store,Los Angeles Store,California
+588,681,2024-01-13,Online,Miami Store,Florida
+589,1892,2025-09-26,In-Store,Los Angeles Store,California
+590,795,2025-02-12,Online,Miami Store,Florida
+591,203,2025-12-19,Online,Los Angeles Store,California
+592,325,2025-05-17,In-Store,Houston Store,Texas
+593,2292,2023-01-03,Online,Houston Store,Texas
+594,327,2025-01-17,In-Store,Los Angeles Store,California
+595,987,2023-10-02,In-Store,Los Angeles Store,California
+596,761,2023-08-03,In-Store,Houston Store,Texas
+597,1037,2023-11-25,Online,Miami Store,Florida
+598,907,2023-09-12,Online,Houston Store,Texas
+599,1404,2023-05-06,In-Store,Miami Store,Florida
+600,365,2025-02-05,In-Store,Los Angeles Store,California
+601,1245,2023-08-05,Online,Los Angeles Store,California
+602,2121,2025-04-11,In-Store,Miami Store,Florida
+603,1649,2023-07-01,In-Store,Los Angeles Store,California
+604,1070,2023-11-30,In-Store,Miami Store,Florida
+605,274,2024-05-25,Online,San Francisco Store,California
+606,2256,2024-01-18,Online,Houston Store,Texas
+607,1953,2023-11-28,Online,San Francisco Store,California
+608,1885,2025-06-18,In-Store,Miami Store,Florida
+609,124,2024-10-03,In-Store,Houston Store,Texas
+610,1353,2024-09-25,In-Store,Miami Store,Florida
+611,1692,2024-03-26,Online,Houston Store,Texas
+612,2108,2023-07-15,In-Store,Houston Store,Texas
+613,442,2024-04-02,In-Store,Houston Store,Texas
+614,1241,2025-04-09,In-Store,Houston Store,Texas
+615,911,2023-09-14,In-Store,Miami Store,Florida
+616,1026,2023-01-09,Online,Houston Store,Texas
+617,1560,2025-01-30,Online,Houston Store,Texas
+618,1742,2025-08-06,In-Store,San Francisco Store,California
+619,1735,2025-12-18,Online,Los Angeles Store,California
+620,626,2025-06-05,Online,Los Angeles Store,California
+621,1691,2024-01-28,In-Store,San Francisco Store,California
+622,998,2024-02-03,In-Store,San Francisco Store,California
+623,91,2023-11-27,Online,Miami Store,Florida
+624,2215,2024-04-24,In-Store,Miami Store,Florida
+625,207,2023-05-14,Online,Miami Store,Florida
+626,1089,2025-07-04,In-Store,San Francisco Store,California
+627,1912,2025-07-23,Online,San Francisco Store,California
+628,516,2023-12-21,In-Store,Houston Store,Texas
+629,1181,2024-08-06,Online,Miami Store,Florida
+630,1793,2024-09-16,Online,Miami Store,Florida
+631,2354,2023-10-17,Online,Miami Store,Florida
+632,1902,2025-04-04,In-Store,Los Angeles Store,California
+633,2006,2024-09-20,Online,Houston Store,Texas
+634,395,2025-10-15,Online,Miami Store,Florida
+635,1098,2024-09-23,In-Store,Miami Store,Florida
+636,187,2023-11-23,In-Store,Miami Store,Florida
+637,1598,2023-07-29,Online,Los Angeles Store,California
+638,1592,2024-09-27,Online,Los Angeles Store,California
+639,730,2025-05-17,In-Store,San Francisco Store,California
+640,240,2024-03-03,In-Store,Houston Store,Texas
+641,141,2024-01-28,In-Store,San Francisco Store,California
+642,139,2025-04-05,In-Store,Houston Store,Texas
+643,70,2025-07-04,In-Store,Los Angeles Store,California
+644,385,2023-12-14,Online,Miami Store,Florida
+645,630,2023-02-19,In-Store,San Francisco Store,California
+646,2246,2025-07-04,Online,Miami Store,Florida
+647,205,2025-11-16,Online,San Francisco Store,California
+648,1750,2025-08-25,Online,Los Angeles Store,California
+649,568,2025-03-10,In-Store,Los Angeles Store,California
+650,982,2025-10-13,Online,Los Angeles Store,California
+651,805,2024-10-10,Online,San Francisco Store,California
+652,1711,2023-10-28,In-Store,Houston Store,Texas
+653,882,2023-06-15,Online,San Francisco Store,California
+654,2036,2023-11-12,Online,Houston Store,Texas
+655,974,2023-01-01,In-Store,San Francisco Store,California
+656,640,2025-10-16,Online,San Francisco Store,California
+657,1455,2023-03-04,Online,Los Angeles Store,California
+658,325,2024-04-27,Online,Miami Store,Florida
+659,442,2023-08-10,In-Store,Miami Store,Florida
+660,804,2023-06-01,In-Store,Houston Store,Texas
+661,2336,2024-10-05,In-Store,Miami Store,Florida
+662,226,2024-09-17,Online,San Francisco Store,California
+663,1088,2023-08-05,Online,San Francisco Store,California
+664,967,2023-07-15,In-Store,Los Angeles Store,California
+665,560,2025-09-21,Online,Los Angeles Store,California
+666,714,2025-10-11,Online,Miami Store,Florida
+667,498,2024-10-08,In-Store,Houston Store,Texas
+668,2108,2024-12-08,In-Store,Miami Store,Florida
+669,257,2025-12-16,Online,Miami Store,Florida
+670,577,2024-12-22,Online,Miami Store,Florida
+671,2287,2024-10-01,Online,Miami Store,Florida
+672,38,2023-04-16,In-Store,San Francisco Store,California
+673,2073,2023-06-14,In-Store,Houston Store,Texas
+674,410,2023-08-03,In-Store,San Francisco Store,California
+675,461,2025-12-30,In-Store,Houston Store,Texas
+676,1441,2023-03-31,Online,Los Angeles Store,California
+677,2405,2025-05-23,In-Store,Miami Store,Florida
+678,383,2024-08-30,In-Store,San Francisco Store,California
+679,1833,2023-12-15,In-Store,Houston Store,Texas
+680,569,2025-06-12,In-Store,Los Angeles Store,California
+681,1072,2023-09-03,In-Store,Los Angeles Store,California
+682,433,2023-09-29,Online,Miami Store,Florida
+683,56,2024-02-07,Online,Houston Store,Texas
+684,2316,2025-11-05,In-Store,San Francisco Store,California
+685,2117,2025-08-18,Online,Miami Store,Florida
+686,1752,2025-06-16,In-Store,San Francisco Store,California
+687,2048,2025-12-15,In-Store,Los Angeles Store,California
+688,902,2023-10-11,Online,San Francisco Store,California
+689,1625,2024-05-31,Online,San Francisco Store,California
+690,257,2024-09-09,In-Store,Miami Store,Florida
+691,672,2024-09-03,In-Store,San Francisco Store,California
+692,490,2025-01-19,In-Store,Miami Store,Florida
+693,2097,2024-02-04,Online,Los Angeles Store,California
+694,1683,2023-03-27,In-Store,Miami Store,Florida
+695,316,2023-11-16,In-Store,Miami Store,Florida
+696,2461,2025-11-21,In-Store,Houston Store,Texas
+697,434,2023-12-02,Online,San Francisco Store,California
+698,1026,2023-02-20,In-Store,Los Angeles Store,California
+699,1976,2023-06-23,In-Store,Miami Store,Florida
+700,1980,2024-05-15,Online,Los Angeles Store,California
+701,1390,2023-03-17,In-Store,Houston Store,Texas
+702,420,2023-11-12,In-Store,San Francisco Store,California
+703,1597,2024-11-27,Online,Miami Store,Florida
+704,1585,2025-10-06,In-Store,San Francisco Store,California
+705,844,2025-01-01,Online,Houston Store,Texas
+706,1468,2025-12-30,Online,Houston Store,Texas
+707,434,2025-08-26,In-Store,Los Angeles Store,California
+708,1579,2025-05-03,In-Store,Miami Store,Florida
+709,2105,2024-10-27,In-Store,Los Angeles Store,California
+710,964,2024-10-13,In-Store,Houston Store,Texas
+711,977,2025-12-30,Online,San Francisco Store,California
+712,46,2023-02-15,In-Store,Los Angeles Store,California
+713,1194,2025-12-06,Online,Los Angeles Store,California
+714,417,2023-05-29,In-Store,San Francisco Store,California
+715,848,2025-06-28,In-Store,Los Angeles Store,California
+716,2187,2024-03-31,In-Store,San Francisco Store,California
+717,247,2025-05-26,Online,Miami Store,Florida
+718,230,2025-08-23,In-Store,San Francisco Store,California
+719,792,2025-05-18,In-Store,Miami Store,Florida
+720,637,2025-07-17,In-Store,San Francisco Store,California
+721,2422,2025-10-20,In-Store,Houston Store,Texas
+722,738,2025-09-27,Online,Houston Store,Texas
+723,1089,2025-02-12,In-Store,Miami Store,Florida
+724,88,2023-09-01,Online,Miami Store,Florida
+725,713,2024-04-18,Online,Houston Store,Texas
+726,1750,2024-01-17,Online,Miami Store,Florida
+727,1228,2024-05-03,Online,San Francisco Store,California
+728,1937,2025-11-26,Online,San Francisco Store,California
+729,1406,2024-02-01,Online,Houston Store,Texas
+730,601,2023-10-23,In-Store,Los Angeles Store,California
+731,1500,2023-04-17,Online,San Francisco Store,California
+732,214,2025-05-09,Online,Miami Store,Florida
+733,2122,2025-08-11,Online,Los Angeles Store,California
+734,2109,2024-06-13,In-Store,Los Angeles Store,California
+735,698,2025-07-22,In-Store,San Francisco Store,California
+736,1243,2023-10-15,Online,San Francisco Store,California
+737,2060,2024-12-06,In-Store,Los Angeles Store,California
+738,2080,2023-08-03,Online,Los Angeles Store,California
+739,1184,2025-01-01,Online,Houston Store,Texas
+740,1001,2023-12-10,In-Store,Miami Store,Florida
+741,237,2023-07-13,Online,Houston Store,Texas
+742,1205,2023-06-07,In-Store,San Francisco Store,California
+743,1482,2024-04-09,In-Store,Houston Store,Texas
+744,1104,2023-04-14,Online,Houston Store,Texas
+745,647,2023-02-03,Online,Houston Store,Texas
+746,473,2024-09-30,In-Store,Houston Store,Texas
+747,112,2023-11-21,Online,Miami Store,Florida
+748,1846,2024-11-21,Online,Miami Store,Florida
+749,1655,2024-08-14,Online,Los Angeles Store,California
+750,383,2023-05-21,In-Store,San Francisco Store,California
+751,17,2024-04-18,In-Store,Houston Store,Texas
+752,493,2025-11-20,Online,Los Angeles Store,California
+753,1897,2025-06-02,In-Store,Los Angeles Store,California
+754,1510,2023-03-04,In-Store,Los Angeles Store,California
+755,117,2023-10-31,In-Store,Miami Store,Florida
+756,1579,2025-12-20,In-Store,Houston Store,Texas
+757,880,2024-01-31,In-Store,Houston Store,Texas
+758,2163,2023-11-30,Online,San Francisco Store,California
+759,1819,2025-02-24,Online,Houston Store,Texas
+760,1573,2024-02-15,Online,Houston Store,Texas
+761,1649,2023-10-11,In-Store,Los Angeles Store,California
+762,644,2024-04-10,In-Store,San Francisco Store,California
+763,1360,2023-03-21,Online,Houston Store,Texas
+764,336,2025-02-22,In-Store,Miami Store,Florida
+765,147,2025-01-02,Online,Houston Store,Texas
+766,122,2023-03-18,Online,Los Angeles Store,California
+767,81,2024-05-23,Online,Miami Store,Florida
+768,2423,2025-10-29,In-Store,Los Angeles Store,California
+769,2111,2024-04-06,In-Store,Houston Store,Texas
+770,504,2023-09-02,Online,Miami Store,Florida
+771,668,2023-05-02,Online,San Francisco Store,California
+772,2497,2023-07-04,Online,San Francisco Store,California
+773,1445,2023-02-01,Online,Miami Store,Florida
+774,1346,2025-09-24,In-Store,Miami Store,Florida
+775,1190,2025-01-31,In-Store,Los Angeles Store,California
+776,1621,2024-07-22,Online,Miami Store,Florida
+777,1981,2023-11-06,Online,Los Angeles Store,California
+778,1673,2025-04-09,In-Store,Houston Store,Texas
+779,459,2025-09-18,In-Store,Los Angeles Store,California
+780,1213,2025-12-15,Online,Miami Store,Florida
+781,464,2025-03-01,Online,Miami Store,Florida
+782,912,2024-04-08,Online,Houston Store,Texas
+783,2427,2024-11-08,In-Store,Miami Store,Florida
+784,1026,2025-09-05,In-Store,Miami Store,Florida
+785,2412,2024-10-31,In-Store,San Francisco Store,California
+786,72,2024-11-28,Online,San Francisco Store,California
+787,1451,2025-09-20,Online,Houston Store,Texas
+788,1194,2023-03-19,In-Store,Los Angeles Store,California
+789,1849,2024-06-17,In-Store,San Francisco Store,California
+790,2385,2023-04-18,Online,Los Angeles Store,California
+791,2023,2025-02-02,In-Store,Miami Store,Florida
+792,2243,2023-01-15,In-Store,San Francisco Store,California
+793,1012,2024-01-05,Online,Houston Store,Texas
+794,653,2023-07-24,In-Store,Houston Store,Texas
+795,1299,2025-05-14,Online,Houston Store,Texas
+796,7,2024-03-16,Online,San Francisco Store,California
+797,905,2025-05-08,Online,Los Angeles Store,California
+798,2029,2023-08-15,Online,Miami Store,Florida
+799,616,2024-06-11,Online,Los Angeles Store,California
+800,1874,2023-12-20,Online,Los Angeles Store,California
+801,770,2024-09-14,Online,Miami Store,Florida
+802,2290,2025-10-21,In-Store,Miami Store,Florida
+803,1567,2025-07-15,Online,San Francisco Store,California
+804,1486,2023-06-10,Online,San Francisco Store,California
+805,1441,2025-05-20,In-Store,San Francisco Store,California
+806,766,2024-03-19,In-Store,San Francisco Store,California
+807,384,2024-04-07,In-Store,San Francisco Store,California
+808,2439,2025-11-19,Online,Miami Store,Florida
+809,688,2024-04-17,In-Store,Los Angeles Store,California
+810,1150,2024-07-10,Online,San Francisco Store,California
+811,47,2023-03-21,Online,San Francisco Store,California
+812,1973,2025-11-28,Online,Los Angeles Store,California
+813,464,2023-08-28,Online,San Francisco Store,California
+814,1873,2024-07-10,In-Store,Los Angeles Store,California
+815,123,2024-08-12,In-Store,Los Angeles Store,California
+816,2182,2023-09-26,Online,Miami Store,Florida
+817,1643,2023-12-01,Online,Houston Store,Texas
+818,841,2023-11-08,Online,Miami Store,Florida
+819,1586,2025-12-12,In-Store,Houston Store,Texas
+820,1804,2025-12-27,Online,Houston Store,Texas
+821,23,2024-11-24,Online,Houston Store,Texas
+822,566,2023-02-03,In-Store,San Francisco Store,California
+823,1910,2024-01-21,In-Store,Miami Store,Florida
+824,965,2023-09-06,Online,Houston Store,Texas
+825,2283,2025-12-06,In-Store,Los Angeles Store,California
+826,996,2025-03-04,In-Store,San Francisco Store,California
+827,1188,2025-05-01,Online,Miami Store,Florida
+828,1795,2025-05-23,In-Store,Houston Store,Texas
+829,826,2024-01-11,Online,Los Angeles Store,California
+830,216,2024-12-24,In-Store,Miami Store,Florida
+831,657,2023-07-21,Online,Miami Store,Florida
+832,1114,2024-03-20,Online,San Francisco Store,California
+833,1988,2023-10-24,Online,Miami Store,Florida
+834,311,2024-05-07,In-Store,San Francisco Store,California
+835,557,2023-12-04,Online,Houston Store,Texas
+836,2305,2025-07-11,In-Store,San Francisco Store,California
+837,1557,2025-12-25,Online,Los Angeles Store,California
+838,52,2025-03-02,Online,San Francisco Store,California
+839,1362,2025-08-19,In-Store,Los Angeles Store,California
+840,1195,2023-11-13,Online,San Francisco Store,California
+841,1649,2025-07-30,Online,Miami Store,Florida
+842,2348,2024-09-17,In-Store,Houston Store,Texas
+843,672,2023-03-16,Online,Los Angeles Store,California
+844,778,2025-07-27,Online,San Francisco Store,California
+845,832,2023-02-28,Online,San Francisco Store,California
+846,2280,2024-01-21,Online,San Francisco Store,California
+847,1861,2023-01-15,In-Store,Miami Store,Florida
+848,1530,2023-07-18,In-Store,Miami Store,Florida
+849,2076,2023-02-04,Online,Los Angeles Store,California
+850,1973,2023-06-11,In-Store,Los Angeles Store,California
+851,1075,2025-09-08,Online,Miami Store,Florida
+852,1717,2025-03-09,In-Store,Los Angeles Store,California
+853,1284,2025-06-13,Online,Houston Store,Texas
+854,591,2024-04-15,Online,Houston Store,Texas
+855,1987,2024-06-14,Online,Miami Store,Florida
+856,1002,2025-03-02,Online,Los Angeles Store,California
+857,2232,2025-05-01,Online,San Francisco Store,California
+858,1047,2023-12-14,Online,Houston Store,Texas
+859,2177,2024-11-24,In-Store,Miami Store,Florida
+860,2339,2025-07-23,Online,Los Angeles Store,California
+861,1856,2025-07-01,In-Store,Miami Store,Florida
+862,501,2023-05-27,Online,San Francisco Store,California
+863,2234,2024-11-05,In-Store,Houston Store,Texas
+864,479,2024-11-17,In-Store,Miami Store,Florida
+865,1595,2025-08-17,In-Store,Miami Store,Florida
+866,513,2024-11-16,Online,Miami Store,Florida
+867,2333,2023-05-01,Online,San Francisco Store,California
+868,601,2024-02-23,In-Store,Miami Store,Florida
+869,1441,2023-12-16,Online,San Francisco Store,California
+870,1124,2023-02-11,In-Store,San Francisco Store,California
+871,189,2023-01-29,Online,San Francisco Store,California
+872,989,2025-08-23,In-Store,Houston Store,Texas
+873,1882,2025-02-23,In-Store,Houston Store,Texas
+874,388,2023-01-14,Online,Miami Store,Florida
+875,2289,2025-07-08,In-Store,Miami Store,Florida
+876,1806,2025-03-28,Online,Houston Store,Texas
+877,2034,2025-04-04,In-Store,Los Angeles Store,California
+878,1755,2025-05-21,In-Store,Houston Store,Texas
+879,2465,2023-10-22,Online,San Francisco Store,California
+880,2224,2025-05-13,Online,Houston Store,Texas
+881,387,2024-07-01,Online,San Francisco Store,California
+882,1495,2025-11-26,In-Store,Miami Store,Florida
+883,853,2025-10-04,Online,Los Angeles Store,California
+884,452,2025-11-03,In-Store,Miami Store,Florida
+885,2325,2024-09-26,In-Store,San Francisco Store,California
+886,1759,2024-08-17,Online,San Francisco Store,California
+887,213,2024-09-05,Online,San Francisco Store,California
+888,41,2025-11-11,In-Store,Los Angeles Store,California
+889,1146,2024-04-09,In-Store,Houston Store,Texas
+890,2342,2025-08-12,Online,Miami Store,Florida
+891,600,2025-07-18,Online,Miami Store,Florida
+892,2025,2025-03-09,Online,Houston Store,Texas
+893,2031,2024-01-30,Online,Miami Store,Florida
+894,1783,2023-09-03,Online,Los Angeles Store,California
+895,1852,2024-07-21,In-Store,Miami Store,Florida
+896,2499,2023-02-07,In-Store,San Francisco Store,California
+897,1780,2023-09-02,In-Store,Houston Store,Texas
+898,2382,2023-01-21,In-Store,Los Angeles Store,California
+899,1905,2024-01-29,Online,Houston Store,Texas
+900,2092,2025-09-13,Online,Los Angeles Store,California
+901,144,2023-01-08,Online,San Francisco Store,California
+902,333,2023-11-24,In-Store,Houston Store,Texas
+903,998,2023-10-17,In-Store,Miami Store,Florida
+904,1420,2024-05-25,Online,Los Angeles Store,California
+905,55,2025-06-30,Online,Houston Store,Texas
+906,1331,2023-12-27,In-Store,Miami Store,Florida
+907,1447,2024-12-16,In-Store,Houston Store,Texas
+908,1441,2023-08-07,Online,Houston Store,Texas
+909,2373,2024-02-10,Online,Houston Store,Texas
+910,1734,2025-01-22,In-Store,Los Angeles Store,California
+911,1695,2025-07-11,Online,Miami Store,Florida
+912,80,2025-04-11,Online,San Francisco Store,California
+913,985,2025-03-04,Online,Los Angeles Store,California
+914,865,2024-08-17,In-Store,Los Angeles Store,California
+915,1588,2023-04-17,In-Store,Los Angeles Store,California
+916,472,2024-08-03,In-Store,San Francisco Store,California
+917,2122,2024-08-31,In-Store,Miami Store,Florida
+918,1577,2023-01-08,In-Store,Miami Store,Florida
+919,1503,2025-03-16,In-Store,Miami Store,Florida
+920,589,2023-07-08,In-Store,Houston Store,Texas
+921,1411,2023-03-22,Online,Houston Store,Texas
+922,1906,2023-04-18,Online,Houston Store,Texas
+923,564,2024-11-16,Online,San Francisco Store,California
+924,467,2023-12-12,Online,Houston Store,Texas
+925,599,2023-11-24,Online,San Francisco Store,California
+926,1645,2024-07-08,Online,Miami Store,Florida
+927,992,2023-10-29,Online,Houston Store,Texas
+928,1933,2023-07-19,In-Store,Houston Store,Texas
+929,2296,2025-06-11,In-Store,Los Angeles Store,California
+930,1605,2025-11-28,Online,San Francisco Store,California
+931,67,2023-11-03,Online,Miami Store,Florida
+932,470,2025-10-24,In-Store,Los Angeles Store,California
+933,1725,2024-04-12,Online,Los Angeles Store,California
+934,2334,2023-06-28,Online,Miami Store,Florida
+935,1632,2024-10-06,In-Store,Los Angeles Store,California
+936,2360,2023-10-03,Online,San Francisco Store,California
+937,2357,2024-09-12,In-Store,San Francisco Store,California
+938,775,2024-09-29,Online,Houston Store,Texas
+939,1137,2025-07-18,In-Store,Los Angeles Store,California
+940,2012,2023-07-02,In-Store,Houston Store,Texas
+941,1487,2023-03-13,In-Store,Los Angeles Store,California
+942,132,2024-12-19,Online,San Francisco Store,California
+943,930,2024-12-26,In-Store,San Francisco Store,California
+944,929,2023-09-26,Online,San Francisco Store,California
+945,2169,2025-11-09,Online,Los Angeles Store,California
+946,1221,2024-07-31,Online,San Francisco Store,California
+947,1506,2025-09-21,Online,Los Angeles Store,California
+948,634,2025-03-25,In-Store,Houston Store,Texas
+949,1063,2023-05-27,In-Store,Los Angeles Store,California
+950,1185,2025-06-08,Online,Houston Store,Texas
+951,289,2023-11-06,Online,Los Angeles Store,California
+952,2248,2024-06-01,In-Store,Houston Store,Texas
+953,1812,2023-01-14,Online,San Francisco Store,California
+954,528,2023-05-12,In-Store,Houston Store,Texas
+955,917,2025-01-24,Online,San Francisco Store,California
+956,1709,2024-03-14,Online,San Francisco Store,California
+957,1407,2025-01-12,In-Store,Houston Store,Texas
+958,1242,2025-01-09,Online,Los Angeles Store,California
+959,1111,2025-03-05,In-Store,Los Angeles Store,California
+960,799,2023-09-20,Online,Miami Store,Florida
+961,1524,2024-10-04,Online,Los Angeles Store,California
+962,12,2023-09-15,Online,Miami Store,Florida
+963,833,2024-02-13,In-Store,Los Angeles Store,California
+964,1242,2025-09-01,Online,Los Angeles Store,California
+965,1673,2025-11-13,Online,San Francisco Store,California
+966,2154,2023-09-28,Online,Miami Store,Florida
+967,691,2023-05-22,Online,Los Angeles Store,California
+968,528,2025-06-20,In-Store,Miami Store,Florida
+969,1496,2025-08-31,In-Store,San Francisco Store,California
+970,893,2023-10-01,Online,San Francisco Store,California
+971,387,2023-10-03,In-Store,Miami Store,Florida
+972,1250,2024-04-09,Online,San Francisco Store,California
+973,1778,2025-11-28,Online,Houston Store,Texas
+974,408,2023-10-15,Online,Houston Store,Texas
+975,1677,2025-05-25,In-Store,San Francisco Store,California
+976,898,2025-05-27,In-Store,Houston Store,Texas
+977,711,2023-06-29,In-Store,Los Angeles Store,California
+978,1683,2024-03-22,In-Store,Miami Store,Florida
+979,918,2025-02-23,In-Store,Los Angeles Store,California
+980,2251,2024-07-14,In-Store,Miami Store,Florida
+981,417,2024-04-28,In-Store,San Francisco Store,California
+982,416,2025-04-28,In-Store,Los Angeles Store,California
+983,1472,2024-12-22,In-Store,San Francisco Store,California
+984,1536,2023-04-26,Online,San Francisco Store,California
+985,85,2024-06-18,In-Store,Miami Store,Florida
+986,167,2024-02-11,In-Store,Miami Store,Florida
+987,2432,2024-11-24,In-Store,Miami Store,Florida
+988,1096,2024-05-09,In-Store,Los Angeles Store,California
+989,810,2025-08-05,In-Store,Houston Store,Texas
+990,1545,2023-01-23,In-Store,Miami Store,Florida
+991,1817,2024-07-11,In-Store,Miami Store,Florida
+992,993,2025-07-29,In-Store,Los Angeles Store,California
+993,1282,2025-05-04,In-Store,Miami Store,Florida
+994,275,2025-11-04,In-Store,Los Angeles Store,California
+995,1774,2025-06-09,In-Store,San Francisco Store,California
+996,1757,2023-03-19,Online,Miami Store,Florida
+997,2374,2025-03-17,Online,Miami Store,Florida
+998,892,2025-11-07,In-Store,San Francisco Store,California
+999,89,2025-02-06,In-Store,San Francisco Store,California
+1000,708,2024-03-29,Online,San Francisco Store,California
+1001,2398,2025-07-16,In-Store,Miami Store,Florida
+1002,387,2023-10-04,Online,Houston Store,Texas
+1003,2135,2025-11-16,Online,Houston Store,Texas
+1004,2355,2024-05-28,Online,Houston Store,Texas
+1005,1874,2024-04-08,Online,Miami Store,Florida
+1006,1178,2025-03-17,Online,San Francisco Store,California
+1007,440,2025-04-03,In-Store,Miami Store,Florida
+1008,2312,2023-12-29,Online,San Francisco Store,California
+1009,977,2025-01-20,In-Store,Miami Store,Florida
+1010,735,2024-06-08,In-Store,Miami Store,Florida
+1011,2469,2023-02-25,Online,San Francisco Store,California
+1012,633,2024-05-03,Online,Houston Store,Texas
+1013,993,2025-11-17,In-Store,San Francisco Store,California
+1014,2459,2024-12-22,Online,Los Angeles Store,California
+1015,173,2023-02-10,Online,Los Angeles Store,California
+1016,4,2025-09-30,In-Store,San Francisco Store,California
+1017,1664,2023-09-17,In-Store,Miami Store,Florida
+1018,2016,2024-03-16,Online,Los Angeles Store,California
+1019,1496,2025-07-14,In-Store,Los Angeles Store,California
+1020,1061,2025-05-05,Online,Miami Store,Florida
+1021,1055,2023-03-25,Online,Miami Store,Florida
+1022,381,2023-02-15,Online,Houston Store,Texas
+1023,1292,2024-03-15,In-Store,Miami Store,Florida
+1024,2392,2025-09-12,In-Store,San Francisco Store,California
+1025,1593,2023-05-16,In-Store,San Francisco Store,California
+1026,166,2025-06-27,In-Store,Houston Store,Texas
+1027,2390,2025-05-10,In-Store,Los Angeles Store,California
+1028,1043,2025-02-26,Online,Los Angeles Store,California
+1029,1652,2024-08-12,Online,Miami Store,Florida
+1030,1208,2025-08-13,Online,San Francisco Store,California
+1031,545,2024-11-20,Online,Los Angeles Store,California
+1032,2240,2024-06-22,In-Store,Houston Store,Texas
+1033,2368,2024-12-08,Online,Houston Store,Texas
+1034,2475,2023-10-22,In-Store,San Francisco Store,California
+1035,97,2023-02-22,Online,Houston Store,Texas
+1036,1302,2025-03-16,In-Store,Houston Store,Texas
+1037,2057,2023-02-21,In-Store,San Francisco Store,California
+1038,457,2024-12-28,Online,Miami Store,Florida
+1039,1819,2023-03-13,Online,Miami Store,Florida
+1040,273,2023-01-28,Online,Houston Store,Texas
+1041,1032,2024-04-13,Online,Miami Store,Florida
+1042,208,2025-02-02,In-Store,Miami Store,Florida
+1043,1938,2025-06-04,Online,Houston Store,Texas
+1044,1661,2025-06-30,Online,Miami Store,Florida
+1045,1147,2024-06-30,In-Store,Houston Store,Texas
+1046,1057,2023-07-20,Online,Los Angeles Store,California
+1047,1537,2025-03-30,Online,San Francisco Store,California
+1048,204,2024-07-13,Online,San Francisco Store,California
+1049,1833,2024-01-14,Online,Miami Store,Florida
+1050,443,2025-12-11,Online,Miami Store,Florida
+1051,689,2023-03-20,In-Store,Miami Store,Florida
+1052,833,2025-04-13,Online,San Francisco Store,California
+1053,2387,2025-10-28,Online,Los Angeles Store,California
+1054,1462,2023-01-25,Online,Los Angeles Store,California
+1055,1160,2024-03-25,Online,San Francisco Store,California
+1056,387,2025-02-06,Online,Los Angeles Store,California
+1057,2042,2025-01-24,In-Store,San Francisco Store,California
+1058,1349,2023-07-17,Online,Los Angeles Store,California
+1059,1719,2024-03-12,In-Store,Houston Store,Texas
+1060,680,2024-11-20,In-Store,Houston Store,Texas
+1061,690,2024-08-09,Online,San Francisco Store,California
+1062,1569,2023-04-14,Online,Los Angeles Store,California
+1063,1170,2024-09-18,Online,Miami Store,Florida
+1064,893,2025-11-28,Online,Los Angeles Store,California
+1065,953,2024-04-02,In-Store,Houston Store,Texas
+1066,1255,2023-12-30,Online,Houston Store,Texas
+1067,784,2023-05-15,Online,Los Angeles Store,California
+1068,2047,2024-01-09,Online,Los Angeles Store,California
+1069,1872,2023-02-08,Online,Miami Store,Florida
+1070,495,2025-03-29,Online,Miami Store,Florida
+1071,747,2023-02-16,Online,Los Angeles Store,California
+1072,2485,2023-02-05,In-Store,Los Angeles Store,California
+1073,1855,2023-04-05,In-Store,Los Angeles Store,California
+1074,2393,2025-09-11,Online,Los Angeles Store,California
+1075,2192,2024-01-03,Online,San Francisco Store,California
+1076,657,2023-03-06,Online,Los Angeles Store,California
+1077,1883,2025-01-23,In-Store,Miami Store,Florida
+1078,2393,2025-03-26,Online,Houston Store,Texas
+1079,1797,2025-01-25,In-Store,San Francisco Store,California
+1080,268,2023-06-30,Online,Los Angeles Store,California
+1081,2217,2024-08-19,Online,Houston Store,Texas
+1082,1763,2025-02-25,Online,San Francisco Store,California
+1083,2081,2024-09-18,Online,Houston Store,Texas
+1084,377,2024-09-07,In-Store,Los Angeles Store,California
+1085,1586,2023-04-22,In-Store,Los Angeles Store,California
+1086,1464,2024-03-28,Online,Miami Store,Florida
+1087,2441,2025-01-25,Online,Los Angeles Store,California
+1088,489,2024-08-06,In-Store,Los Angeles Store,California
+1089,722,2023-05-19,In-Store,San Francisco Store,California
+1090,946,2023-08-19,In-Store,Miami Store,Florida
+1091,2087,2025-09-10,In-Store,San Francisco Store,California
+1092,1636,2023-09-10,Online,Houston Store,Texas
+1093,1041,2024-07-14,In-Store,Los Angeles Store,California
+1094,2274,2023-03-13,Online,Houston Store,Texas
+1095,2115,2023-08-10,In-Store,San Francisco Store,California
+1096,1678,2023-03-03,In-Store,Los Angeles Store,California
+1097,999,2025-03-16,In-Store,Los Angeles Store,California
+1098,1778,2023-05-05,In-Store,San Francisco Store,California
+1099,2285,2025-01-10,In-Store,San Francisco Store,California
+1100,957,2023-06-10,Online,San Francisco Store,California
+1101,1590,2024-06-24,Online,San Francisco Store,California
+1102,1162,2024-09-17,In-Store,San Francisco Store,California
+1103,1869,2023-04-16,In-Store,Los Angeles Store,California
+1104,553,2025-02-14,Online,San Francisco Store,California
+1105,1634,2023-01-02,In-Store,Los Angeles Store,California
+1106,695,2023-08-21,In-Store,Los Angeles Store,California
+1107,317,2024-01-04,Online,San Francisco Store,California
+1108,768,2025-08-03,In-Store,San Francisco Store,California
+1109,1972,2023-06-29,In-Store,Miami Store,Florida
+1110,2306,2023-10-20,Online,Los Angeles Store,California
+1111,1504,2024-08-06,Online,San Francisco Store,California
+1112,123,2025-03-05,Online,San Francisco Store,California
+1113,2390,2023-06-24,In-Store,San Francisco Store,California
+1114,1869,2023-05-03,Online,Miami Store,Florida
+1115,1672,2023-08-15,Online,Miami Store,Florida
+1116,1083,2024-03-19,Online,Houston Store,Texas
+1117,1729,2024-03-03,Online,Los Angeles Store,California
+1118,2308,2025-02-03,Online,Houston Store,Texas
+1119,1997,2024-09-23,Online,San Francisco Store,California
+1120,2143,2023-03-06,In-Store,Miami Store,Florida
+1121,1149,2024-03-03,In-Store,Miami Store,Florida
+1122,2089,2024-09-09,Online,Houston Store,Texas
+1123,1915,2025-07-13,Online,Miami Store,Florida
+1124,254,2025-03-22,Online,San Francisco Store,California
+1125,7,2023-04-17,In-Store,Miami Store,Florida
+1126,2117,2024-10-20,In-Store,Houston Store,Texas
+1127,542,2023-09-22,In-Store,San Francisco Store,California
+1128,89,2023-06-04,In-Store,Houston Store,Texas
+1129,1939,2025-11-02,In-Store,Miami Store,Florida
+1130,213,2025-06-14,In-Store,Houston Store,Texas
+1131,266,2025-09-19,In-Store,Houston Store,Texas
+1132,2341,2023-09-02,In-Store,Los Angeles Store,California
+1133,1231,2024-01-21,In-Store,Miami Store,Florida
+1134,2381,2025-01-28,Online,Miami Store,Florida
+1135,1005,2024-02-18,Online,Houston Store,Texas
+1136,2095,2024-12-15,Online,Los Angeles Store,California
+1137,622,2025-01-28,Online,Miami Store,Florida
+1138,427,2025-01-16,In-Store,San Francisco Store,California
+1139,210,2024-08-15,In-Store,Houston Store,Texas
+1140,888,2025-04-18,Online,Miami Store,Florida
+1141,1444,2023-01-16,In-Store,San Francisco Store,California
+1142,154,2025-09-19,Online,Miami Store,Florida
+1143,415,2025-12-04,In-Store,San Francisco Store,California
+1144,1181,2024-10-12,Online,Houston Store,Texas
+1145,1285,2023-05-28,In-Store,Miami Store,Florida
+1146,769,2023-12-21,In-Store,Miami Store,Florida
+1147,983,2024-12-03,Online,Los Angeles Store,California
+1148,1512,2024-09-04,In-Store,Houston Store,Texas
+1149,579,2023-04-15,Online,San Francisco Store,California
+1150,2211,2024-01-31,Online,Miami Store,Florida
+1151,1039,2024-08-28,Online,Miami Store,Florida
+1152,2243,2025-04-30,Online,San Francisco Store,California
+1153,542,2024-03-17,In-Store,Houston Store,Texas
+1154,359,2025-05-22,In-Store,Los Angeles Store,California
+1155,850,2024-10-28,In-Store,Los Angeles Store,California
+1156,427,2025-11-17,Online,Miami Store,Florida
+1157,486,2025-03-04,In-Store,San Francisco Store,California
+1158,1832,2024-04-19,Online,Miami Store,Florida
+1159,1473,2024-09-19,In-Store,San Francisco Store,California
+1160,1437,2024-05-16,In-Store,Los Angeles Store,California
+1161,330,2023-12-14,In-Store,Houston Store,Texas
+1162,1756,2025-10-14,Online,San Francisco Store,California
+1163,1171,2024-07-23,In-Store,Los Angeles Store,California
+1164,259,2024-11-25,In-Store,Miami Store,Florida
+1165,2340,2023-01-26,Online,San Francisco Store,California
+1166,143,2023-08-05,In-Store,Houston Store,Texas
+1167,2017,2025-04-16,Online,Miami Store,Florida
+1168,627,2025-02-12,In-Store,Miami Store,Florida
+1169,1389,2025-11-12,Online,Los Angeles Store,California
+1170,90,2024-10-31,Online,San Francisco Store,California
+1171,720,2024-12-18,In-Store,Miami Store,Florida
+1172,481,2023-11-06,Online,Houston Store,Texas
+1173,2132,2024-08-21,Online,San Francisco Store,California
+1174,1101,2023-09-24,Online,Houston Store,Texas
+1175,673,2024-10-07,Online,Miami Store,Florida
+1176,517,2025-10-19,Online,Houston Store,Texas
+1177,1614,2024-03-25,Online,Los Angeles Store,California
+1178,782,2024-07-18,In-Store,Houston Store,Texas
+1179,2152,2025-11-25,Online,San Francisco Store,California
+1180,2036,2023-01-28,Online,Houston Store,Texas
+1181,2387,2023-08-08,In-Store,Houston Store,Texas
+1182,687,2024-02-10,In-Store,Los Angeles Store,California
+1183,1590,2023-09-28,In-Store,Houston Store,Texas
+1184,900,2025-03-02,In-Store,Houston Store,Texas
+1185,1502,2025-08-20,In-Store,Miami Store,Florida
+1186,223,2025-04-13,In-Store,Miami Store,Florida
+1187,1077,2023-11-13,In-Store,San Francisco Store,California
+1188,1101,2023-12-04,Online,Miami Store,Florida
+1189,1742,2023-12-17,Online,Miami Store,Florida
+1190,503,2024-05-25,In-Store,Miami Store,Florida
+1191,1340,2024-06-08,Online,Miami Store,Florida
+1192,624,2024-05-06,Online,Los Angeles Store,California
+1193,1887,2023-01-09,Online,Miami Store,Florida
+1194,2213,2024-07-14,In-Store,Los Angeles Store,California
+1195,1051,2024-03-15,In-Store,Los Angeles Store,California
+1196,1094,2025-03-02,Online,Miami Store,Florida
+1197,1986,2023-02-02,In-Store,Houston Store,Texas
+1198,1389,2025-11-12,Online,Los Angeles Store,California
+1199,1330,2025-04-24,Online,Houston Store,Texas
+1200,1148,2024-07-19,Online,Houston Store,Texas
+1201,19,2023-02-18,Online,Miami Store,Florida
+1202,1281,2024-04-06,In-Store,San Francisco Store,California
+1203,1046,2024-08-12,In-Store,Miami Store,Florida
+1204,989,2023-12-02,In-Store,San Francisco Store,California
+1205,2498,2023-12-25,Online,San Francisco Store,California
+1206,1574,2023-12-12,In-Store,Miami Store,Florida
+1207,1072,2023-07-12,Online,Miami Store,Florida
+1208,1207,2025-01-25,In-Store,San Francisco Store,California
+1209,1459,2024-04-22,Online,Miami Store,Florida
+1210,2155,2025-04-07,Online,San Francisco Store,California
+1211,1212,2025-06-08,Online,Houston Store,Texas
+1212,776,2024-10-14,In-Store,Miami Store,Florida
+1213,1860,2024-02-12,In-Store,Houston Store,Texas
+1214,1867,2023-10-13,In-Store,Los Angeles Store,California
+1215,1161,2025-04-30,In-Store,Houston Store,Texas
+1216,1882,2023-04-21,Online,Houston Store,Texas
+1217,2384,2024-09-11,In-Store,San Francisco Store,California
+1218,1781,2025-03-03,In-Store,Houston Store,Texas
+1219,602,2023-02-19,Online,Miami Store,Florida
+1220,1595,2025-11-03,Online,San Francisco Store,California
+1221,2451,2024-08-10,Online,Los Angeles Store,California
+1222,540,2024-08-18,In-Store,Miami Store,Florida
+1223,1096,2024-10-31,Online,Los Angeles Store,California
+1224,1806,2023-11-10,Online,Houston Store,Texas
+1225,24,2024-08-28,Online,Miami Store,Florida
+1226,624,2023-10-24,In-Store,Miami Store,Florida
+1227,1836,2024-07-22,Online,Los Angeles Store,California
+1228,1080,2025-04-11,In-Store,Miami Store,Florida
+1229,986,2024-09-01,In-Store,Miami Store,Florida
+1230,223,2023-01-16,Online,Miami Store,Florida
+1231,179,2023-03-13,Online,Houston Store,Texas
+1232,2482,2023-09-27,In-Store,Los Angeles Store,California
+1233,1961,2023-10-14,Online,Miami Store,Florida
+1234,1474,2023-03-07,Online,San Francisco Store,California
+1235,793,2025-05-29,In-Store,San Francisco Store,California
+1236,884,2023-03-09,In-Store,San Francisco Store,California
+1237,1213,2025-12-14,Online,San Francisco Store,California
+1238,1602,2025-09-06,In-Store,Houston Store,Texas
+1239,810,2025-08-31,Online,Miami Store,Florida
+1240,961,2024-05-22,Online,Los Angeles Store,California
+1241,420,2025-04-16,Online,Miami Store,Florida
+1242,1188,2025-06-04,In-Store,Houston Store,Texas
+1243,1279,2025-03-04,Online,San Francisco Store,California
+1244,1441,2024-02-26,Online,Houston Store,Texas
+1245,2218,2025-02-13,Online,Miami Store,Florida
+1246,1341,2024-04-22,In-Store,Los Angeles Store,California
+1247,2222,2025-07-14,In-Store,Houston Store,Texas
+1248,2393,2023-04-30,In-Store,Los Angeles Store,California
+1249,2493,2024-05-02,In-Store,Houston Store,Texas
+1250,1042,2023-03-19,In-Store,Los Angeles Store,California
+1251,1094,2025-11-27,Online,Los Angeles Store,California
+1252,1362,2024-03-16,In-Store,San Francisco Store,California
+1253,592,2024-04-06,In-Store,Los Angeles Store,California
+1254,527,2024-09-03,In-Store,San Francisco Store,California
+1255,1293,2025-07-05,Online,Miami Store,Florida
+1256,1655,2024-08-31,In-Store,Miami Store,Florida
+1257,811,2023-01-06,In-Store,San Francisco Store,California
+1258,188,2024-11-11,Online,San Francisco Store,California
+1259,1593,2025-06-13,In-Store,Houston Store,Texas
+1260,529,2023-09-28,Online,Houston Store,Texas
+1261,434,2025-03-21,Online,Houston Store,Texas
+1262,2336,2024-07-12,Online,Miami Store,Florida
+1263,1942,2023-04-09,Online,Houston Store,Texas
+1264,1805,2024-06-09,Online,Los Angeles Store,California
+1265,303,2023-07-13,In-Store,Los Angeles Store,California
+1266,87,2024-01-31,Online,Houston Store,Texas
+1267,438,2025-02-08,Online,Los Angeles Store,California
+1268,1046,2025-10-20,In-Store,Miami Store,Florida
+1269,833,2025-05-29,Online,Los Angeles Store,California
+1270,797,2025-01-14,In-Store,Miami Store,Florida
+1271,560,2024-11-13,In-Store,San Francisco Store,California
+1272,762,2023-01-15,In-Store,San Francisco Store,California
+1273,1699,2024-01-03,Online,San Francisco Store,California
+1274,1125,2024-09-29,Online,San Francisco Store,California
+1275,685,2025-05-02,Online,Los Angeles Store,California
+1276,1165,2024-11-30,In-Store,Houston Store,Texas
+1277,138,2023-01-05,Online,Los Angeles Store,California
+1278,578,2023-08-19,Online,Miami Store,Florida
+1279,710,2025-10-08,Online,Los Angeles Store,California
+1280,228,2024-08-08,In-Store,Los Angeles Store,California
+1281,2329,2023-06-18,In-Store,Miami Store,Florida
+1282,828,2025-01-30,Online,San Francisco Store,California
+1283,431,2025-03-02,Online,San Francisco Store,California
+1284,1064,2025-09-26,Online,San Francisco Store,California
+1285,1710,2023-06-01,Online,Houston Store,Texas
+1286,1687,2025-10-12,In-Store,Miami Store,Florida
+1287,1235,2023-08-12,In-Store,Miami Store,Florida
+1288,302,2024-05-18,In-Store,Los Angeles Store,California
+1289,1110,2023-02-13,In-Store,Houston Store,Texas
+1290,1421,2024-11-27,Online,San Francisco Store,California
+1291,533,2024-05-18,Online,Houston Store,Texas
+1292,769,2025-07-18,Online,Miami Store,Florida
+1293,1939,2025-04-22,In-Store,Miami Store,Florida
+1294,1405,2023-12-17,Online,Los Angeles Store,California
+1295,444,2023-01-23,In-Store,Los Angeles Store,California
+1296,260,2024-08-20,In-Store,Miami Store,Florida
+1297,1539,2025-12-02,Online,San Francisco Store,California
+1298,1332,2024-04-10,Online,San Francisco Store,California
+1299,70,2023-02-09,Online,Houston Store,Texas
+1300,1478,2023-10-30,In-Store,Miami Store,Florida
+1301,1463,2023-06-24,Online,Miami Store,Florida
+1302,1849,2025-09-25,In-Store,San Francisco Store,California
+1303,481,2024-09-12,Online,San Francisco Store,California
+1304,1168,2023-09-01,In-Store,Miami Store,Florida
+1305,2072,2025-04-15,In-Store,Los Angeles Store,California
+1306,1199,2023-10-07,Online,Miami Store,Florida
+1307,2373,2025-11-25,In-Store,Miami Store,Florida
+1308,1893,2024-07-10,In-Store,San Francisco Store,California
+1309,1695,2025-06-16,Online,San Francisco Store,California
+1310,1884,2025-11-12,In-Store,Los Angeles Store,California
+1311,1372,2024-12-19,Online,Los Angeles Store,California
+1312,798,2025-07-20,In-Store,Houston Store,Texas
+1313,18,2023-04-01,Online,Miami Store,Florida
+1314,44,2024-01-25,Online,San Francisco Store,California
+1315,155,2024-07-03,In-Store,Los Angeles Store,California
+1316,867,2025-07-19,In-Store,Houston Store,Texas
+1317,743,2025-11-27,In-Store,Houston Store,Texas
+1318,1852,2025-01-02,In-Store,San Francisco Store,California
+1319,1426,2024-05-14,In-Store,San Francisco Store,California
+1320,225,2025-12-02,Online,Houston Store,Texas
+1321,217,2025-05-20,In-Store,Los Angeles Store,California
+1322,31,2024-05-31,Online,Houston Store,Texas
+1323,1893,2023-03-09,Online,Miami Store,Florida
+1324,1083,2023-05-03,In-Store,Miami Store,Florida
+1325,1916,2023-12-02,Online,San Francisco Store,California
+1326,898,2025-08-31,Online,Los Angeles Store,California
+1327,445,2025-02-17,Online,Los Angeles Store,California
+1328,1259,2024-02-27,Online,Miami Store,Florida
+1329,1131,2025-07-27,In-Store,Houston Store,Texas
+1330,1215,2025-03-14,Online,San Francisco Store,California
+1331,2016,2024-09-25,In-Store,Houston Store,Texas
+1332,1937,2025-12-18,In-Store,Houston Store,Texas
+1333,738,2023-04-06,Online,Houston Store,Texas
+1334,1703,2023-12-20,In-Store,Los Angeles Store,California
+1335,874,2025-08-24,In-Store,Miami Store,Florida
+1336,566,2025-07-11,In-Store,Los Angeles Store,California
+1337,2019,2024-04-17,Online,Miami Store,Florida
+1338,1886,2024-03-05,In-Store,San Francisco Store,California
+1339,2124,2025-09-01,In-Store,San Francisco Store,California
+1340,547,2024-06-20,In-Store,Houston Store,Texas
+1341,2315,2023-03-28,Online,Miami Store,Florida
+1342,317,2023-04-19,In-Store,Miami Store,Florida
+1343,1860,2025-09-20,Online,Miami Store,Florida
+1344,25,2025-04-01,Online,Houston Store,Texas
+1345,160,2025-07-25,Online,Houston Store,Texas
+1346,1138,2025-10-01,Online,San Francisco Store,California
+1347,900,2024-10-10,Online,Los Angeles Store,California
+1348,1190,2023-07-10,Online,Miami Store,Florida
+1349,703,2025-07-21,In-Store,Miami Store,Florida
+1350,1,2023-05-22,Online,Los Angeles Store,California
+1351,1923,2025-04-19,In-Store,Miami Store,Florida
+1352,2368,2023-06-17,In-Store,Houston Store,Texas
+1353,1425,2024-07-19,Online,Houston Store,Texas
+1354,382,2025-01-13,In-Store,Miami Store,Florida
+1355,1742,2024-11-03,In-Store,Houston Store,Texas
+1356,1827,2025-05-13,In-Store,Houston Store,Texas
+1357,1274,2025-04-18,In-Store,Miami Store,Florida
+1358,1549,2024-06-14,Online,San Francisco Store,California
+1359,1579,2025-08-31,In-Store,Los Angeles Store,California
+1360,898,2024-07-15,Online,Houston Store,Texas
+1361,717,2023-06-24,In-Store,San Francisco Store,California
+1362,2355,2023-10-29,In-Store,Houston Store,Texas
+1363,391,2023-07-04,Online,Houston Store,Texas
+1364,1700,2024-05-24,In-Store,Los Angeles Store,California
+1365,2346,2025-03-29,In-Store,Houston Store,Texas
+1366,233,2023-06-05,In-Store,Los Angeles Store,California
+1367,1927,2025-02-25,Online,Los Angeles Store,California
+1368,2319,2025-03-05,In-Store,Los Angeles Store,California
+1369,1320,2024-03-07,Online,San Francisco Store,California
+1370,706,2025-01-30,In-Store,Miami Store,Florida
+1371,234,2023-05-27,Online,San Francisco Store,California
+1372,1392,2024-04-25,Online,Miami Store,Florida
+1373,1256,2024-03-10,In-Store,Miami Store,Florida
+1374,1897,2023-03-10,In-Store,Los Angeles Store,California
+1375,890,2025-05-24,Online,Houston Store,Texas
+1376,592,2023-07-05,Online,Los Angeles Store,California
+1377,746,2025-06-22,In-Store,Houston Store,Texas
+1378,1720,2024-11-12,Online,Miami Store,Florida
+1379,428,2023-07-23,In-Store,Los Angeles Store,California
+1380,732,2024-07-07,In-Store,Houston Store,Texas
+1381,800,2023-01-13,In-Store,San Francisco Store,California
+1382,2412,2024-10-27,In-Store,Houston Store,Texas
+1383,202,2023-02-20,Online,Los Angeles Store,California
+1384,2194,2024-05-14,In-Store,San Francisco Store,California
+1385,836,2024-01-04,Online,Houston Store,Texas
+1386,135,2024-12-24,In-Store,Houston Store,Texas
+1387,1288,2023-12-23,Online,Houston Store,Texas
+1388,2112,2025-10-23,In-Store,Houston Store,Texas
+1389,41,2025-04-26,Online,Houston Store,Texas
+1390,913,2023-09-13,Online,San Francisco Store,California
+1391,1730,2023-10-06,In-Store,Miami Store,Florida
+1392,975,2025-12-18,In-Store,San Francisco Store,California
+1393,1134,2024-03-21,In-Store,San Francisco Store,California
+1394,2416,2023-04-23,In-Store,San Francisco Store,California
+1395,1460,2025-04-15,Online,Miami Store,Florida
+1396,2041,2025-01-24,In-Store,Los Angeles Store,California
+1397,244,2024-01-02,Online,Miami Store,Florida
+1398,166,2025-12-19,Online,San Francisco Store,California
+1399,1050,2023-11-25,In-Store,Houston Store,Texas
+1400,1498,2024-12-28,Online,Houston Store,Texas
+1401,728,2025-10-02,Online,San Francisco Store,California
+1402,1116,2024-12-20,Online,Houston Store,Texas
+1403,483,2025-12-22,Online,San Francisco Store,California
+1404,2448,2023-07-03,In-Store,Houston Store,Texas
+1405,1231,2025-10-19,In-Store,Miami Store,Florida
+1406,2149,2023-11-07,In-Store,Los Angeles Store,California
+1407,880,2023-06-26,In-Store,Los Angeles Store,California
+1408,830,2025-04-26,Online,Miami Store,Florida
+1409,2025,2023-01-09,Online,Miami Store,Florida
+1410,759,2023-08-24,In-Store,San Francisco Store,California
+1411,163,2024-12-10,In-Store,San Francisco Store,California
+1412,1197,2025-07-12,In-Store,San Francisco Store,California
+1413,1308,2024-11-15,Online,Houston Store,Texas
+1414,2429,2025-03-04,In-Store,San Francisco Store,California
+1415,1996,2025-11-17,In-Store,Miami Store,Florida
+1416,1935,2025-03-18,In-Store,Los Angeles Store,California
+1417,1557,2023-01-27,Online,Houston Store,Texas
+1418,307,2024-07-03,Online,San Francisco Store,California
+1419,1363,2023-03-26,Online,Houston Store,Texas
+1420,2103,2025-11-19,Online,Houston Store,Texas
+1421,333,2024-04-10,Online,San Francisco Store,California
+1422,2175,2023-01-12,Online,Houston Store,Texas
+1423,243,2025-10-09,Online,Los Angeles Store,California
+1424,1885,2025-11-19,Online,Miami Store,Florida
+1425,1433,2025-11-27,In-Store,Miami Store,Florida
+1426,303,2024-07-25,In-Store,Los Angeles Store,California
+1427,235,2025-07-02,Online,Houston Store,Texas
+1428,2187,2023-06-29,Online,San Francisco Store,California
+1429,195,2025-03-07,In-Store,Houston Store,Texas
+1430,1551,2025-11-10,Online,Los Angeles Store,California
+1431,1793,2024-03-16,Online,Houston Store,Texas
+1432,647,2025-06-05,Online,Miami Store,Florida
+1433,2049,2024-02-25,In-Store,Houston Store,Texas
+1434,561,2024-04-12,In-Store,Los Angeles Store,California
+1435,1120,2024-12-13,In-Store,Miami Store,Florida
+1436,713,2024-01-20,In-Store,Houston Store,Texas
+1437,413,2023-11-10,In-Store,Houston Store,Texas
+1438,538,2025-02-09,Online,Miami Store,Florida
+1439,1879,2025-08-16,In-Store,San Francisco Store,California
+1440,2477,2025-07-05,Online,Miami Store,Florida
+1441,235,2023-01-23,Online,San Francisco Store,California
+1442,2397,2023-12-05,In-Store,Los Angeles Store,California
+1443,1780,2025-04-02,In-Store,Los Angeles Store,California
+1444,1894,2024-01-01,Online,Miami Store,Florida
+1445,1505,2025-07-03,Online,Miami Store,Florida
+1446,1863,2024-04-19,Online,Los Angeles Store,California
+1447,2444,2023-01-27,In-Store,San Francisco Store,California
+1448,1375,2025-07-30,In-Store,Los Angeles Store,California
+1449,416,2025-03-12,In-Store,Miami Store,Florida
+1450,1910,2025-03-11,In-Store,Los Angeles Store,California
+1451,916,2025-05-09,In-Store,Miami Store,Florida
+1452,81,2025-05-13,Online,Miami Store,Florida
+1453,2084,2024-11-20,In-Store,Los Angeles Store,California
+1454,1091,2025-01-08,Online,San Francisco Store,California
+1455,1691,2024-02-19,Online,Houston Store,Texas
+1456,757,2025-09-08,Online,Los Angeles Store,California
+1457,468,2024-03-04,In-Store,Houston Store,Texas
+1458,1166,2023-02-10,In-Store,Los Angeles Store,California
+1459,2404,2025-06-23,In-Store,Houston Store,Texas
+1460,1495,2025-10-08,Online,San Francisco Store,California
+1461,1645,2024-12-03,Online,San Francisco Store,California
+1462,1020,2023-03-20,Online,Los Angeles Store,California
+1463,1615,2024-12-17,Online,Miami Store,Florida
+1464,902,2024-06-27,Online,Houston Store,Texas
+1465,673,2024-04-18,Online,Miami Store,Florida
+1466,439,2023-10-21,In-Store,Miami Store,Florida
+1467,127,2024-09-01,In-Store,Miami Store,Florida
+1468,2253,2023-05-16,In-Store,San Francisco Store,California
+1469,2077,2024-04-28,In-Store,Los Angeles Store,California
+1470,445,2025-03-24,Online,Los Angeles Store,California
+1471,966,2024-07-08,Online,San Francisco Store,California
+1472,464,2023-02-15,In-Store,San Francisco Store,California
+1473,2199,2025-12-07,Online,Los Angeles Store,California
+1474,2288,2023-07-17,In-Store,Miami Store,Florida
+1475,2314,2023-03-25,In-Store,Houston Store,Texas
+1476,913,2024-06-26,In-Store,Houston Store,Texas
+1477,497,2023-03-12,Online,Houston Store,Texas
+1478,1464,2024-06-03,In-Store,Miami Store,Florida
+1479,1772,2025-06-16,In-Store,Los Angeles Store,California
+1480,158,2025-07-01,In-Store,San Francisco Store,California
+1481,172,2025-12-11,Online,Los Angeles Store,California
+1482,494,2025-12-04,Online,Miami Store,Florida
+1483,970,2023-10-20,In-Store,San Francisco Store,California
+1484,1335,2025-07-26,Online,Miami Store,Florida
+1485,1427,2025-03-22,Online,Houston Store,Texas
+1486,1693,2025-05-16,Online,Houston Store,Texas
+1487,1794,2024-01-15,Online,Miami Store,Florida
+1488,659,2025-10-03,Online,San Francisco Store,California
+1489,666,2023-09-19,Online,San Francisco Store,California
+1490,367,2024-08-02,Online,Los Angeles Store,California
+1491,550,2023-12-23,Online,Houston Store,Texas
+1492,643,2024-11-28,Online,Los Angeles Store,California
+1493,1894,2025-11-02,Online,Los Angeles Store,California
+1494,255,2024-03-18,In-Store,Miami Store,Florida
+1495,208,2024-12-26,In-Store,Miami Store,Florida
+1496,2498,2023-10-13,Online,Los Angeles Store,California
+1497,95,2024-07-23,In-Store,Houston Store,Texas
+1498,1884,2025-04-19,In-Store,Miami Store,Florida
+1499,478,2024-05-12,Online,Los Angeles Store,California
+1500,762,2024-12-05,Online,Los Angeles Store,California
+1501,190,2024-07-15,Online,Los Angeles Store,California
+1502,1508,2023-02-01,In-Store,Los Angeles Store,California
+1503,1757,2023-02-12,In-Store,Los Angeles Store,California
+1504,1560,2024-07-12,Online,Los Angeles Store,California
+1505,756,2023-09-27,Online,Miami Store,Florida
+1506,1447,2025-07-31,Online,Houston Store,Texas
+1507,836,2025-11-08,In-Store,Los Angeles Store,California
+1508,1664,2023-02-06,In-Store,San Francisco Store,California
+1509,1629,2023-04-02,In-Store,Miami Store,Florida
+1510,1836,2023-07-04,In-Store,Miami Store,Florida
+1511,133,2024-12-28,Online,Los Angeles Store,California
+1512,55,2025-11-17,Online,Miami Store,Florida
+1513,510,2024-01-07,Online,Los Angeles Store,California
+1514,670,2025-04-11,Online,Houston Store,Texas
+1515,2458,2023-12-11,In-Store,Houston Store,Texas
+1516,1690,2023-03-19,In-Store,Miami Store,Florida
+1517,1317,2023-06-16,Online,Miami Store,Florida
+1518,734,2023-09-21,Online,San Francisco Store,California
+1519,1694,2024-12-24,In-Store,Miami Store,Florida
+1520,259,2024-05-26,Online,San Francisco Store,California
+1521,1146,2024-07-29,In-Store,Houston Store,Texas
+1522,299,2024-12-22,Online,Houston Store,Texas
+1523,561,2024-03-06,Online,Los Angeles Store,California
+1524,1913,2025-02-06,Online,Houston Store,Texas
+1525,1865,2024-04-07,Online,San Francisco Store,California
+1526,297,2023-04-11,Online,Miami Store,Florida
+1527,2410,2025-11-05,Online,Los Angeles Store,California
+1528,1462,2023-09-01,Online,San Francisco Store,California
+1529,2175,2023-04-15,In-Store,Miami Store,Florida
+1530,197,2024-11-24,In-Store,Los Angeles Store,California
+1531,2269,2025-12-06,In-Store,Houston Store,Texas
+1532,995,2025-12-02,In-Store,San Francisco Store,California
+1533,2139,2025-03-28,In-Store,Miami Store,Florida
+1534,2459,2023-08-09,Online,Los Angeles Store,California
+1535,8,2023-05-24,Online,Los Angeles Store,California
+1536,320,2025-06-08,In-Store,Houston Store,Texas
+1537,1418,2025-11-17,Online,Miami Store,Florida
+1538,2317,2025-02-28,In-Store,Houston Store,Texas
+1539,1699,2024-07-06,In-Store,Houston Store,Texas
+1540,2109,2025-04-23,Online,Miami Store,Florida
+1541,1462,2024-10-20,Online,Miami Store,Florida
+1542,1288,2025-04-16,Online,Miami Store,Florida
+1543,1119,2025-10-15,In-Store,San Francisco Store,California
+1544,553,2025-01-20,Online,Miami Store,Florida
+1545,661,2023-09-06,In-Store,Los Angeles Store,California
+1546,716,2025-02-13,In-Store,Houston Store,Texas
+1547,2242,2025-02-02,In-Store,San Francisco Store,California
+1548,1459,2024-11-22,Online,Miami Store,Florida
+1549,855,2025-03-30,Online,San Francisco Store,California
+1550,2260,2024-12-19,In-Store,Miami Store,Florida
+1551,665,2023-08-22,Online,San Francisco Store,California
+1552,1898,2023-01-24,Online,Houston Store,Texas
+1553,1675,2025-11-15,Online,Houston Store,Texas
+1554,2269,2025-10-02,In-Store,Los Angeles Store,California
+1555,273,2024-06-05,In-Store,Los Angeles Store,California
+1556,1178,2023-01-17,Online,Miami Store,Florida
+1557,1273,2023-09-02,In-Store,Houston Store,Texas
+1558,279,2024-12-18,Online,San Francisco Store,California
+1559,816,2025-02-08,Online,San Francisco Store,California
+1560,276,2024-12-17,Online,San Francisco Store,California
+1561,1005,2023-04-28,Online,Los Angeles Store,California
+1562,923,2023-01-09,In-Store,San Francisco Store,California
+1563,642,2024-08-20,In-Store,Los Angeles Store,California
+1564,505,2023-01-23,In-Store,Los Angeles Store,California
+1565,772,2023-08-28,Online,Miami Store,Florida
+1566,1265,2023-01-27,Online,San Francisco Store,California
+1567,1260,2025-09-10,Online,San Francisco Store,California
+1568,1014,2023-07-18,In-Store,Houston Store,Texas
+1569,128,2025-02-13,Online,Miami Store,Florida
+1570,1224,2023-04-02,In-Store,Houston Store,Texas
+1571,1526,2025-04-30,In-Store,Miami Store,Florida
+1572,1674,2023-10-27,In-Store,San Francisco Store,California
+1573,492,2023-10-23,In-Store,Los Angeles Store,California
+1574,1258,2024-10-08,In-Store,Los Angeles Store,California
+1575,1667,2025-09-27,In-Store,Los Angeles Store,California
+1576,416,2025-12-18,Online,Los Angeles Store,California
+1577,2196,2025-06-27,Online,Los Angeles Store,California
+1578,970,2025-05-20,In-Store,Houston Store,Texas
+1579,2077,2025-01-22,In-Store,Miami Store,Florida
+1580,1385,2023-12-08,Online,San Francisco Store,California
+1581,308,2023-03-03,In-Store,Houston Store,Texas
+1582,2210,2025-02-14,In-Store,Miami Store,Florida
+1583,61,2024-09-16,Online,Los Angeles Store,California
+1584,2173,2023-09-13,In-Store,Miami Store,Florida
+1585,1480,2025-04-07,In-Store,Miami Store,Florida
+1586,1931,2025-10-10,In-Store,Los Angeles Store,California
+1587,2291,2024-09-06,Online,Los Angeles Store,California
+1588,1514,2023-09-02,Online,Los Angeles Store,California
+1589,473,2025-01-26,Online,San Francisco Store,California
+1590,959,2025-04-03,In-Store,Los Angeles Store,California
+1591,533,2025-02-18,In-Store,San Francisco Store,California
+1592,494,2025-01-01,Online,Los Angeles Store,California
+1593,82,2025-05-27,In-Store,San Francisco Store,California
+1594,879,2024-05-30,In-Store,Miami Store,Florida
+1595,1546,2024-04-18,In-Store,Houston Store,Texas
+1596,12,2023-02-05,In-Store,Miami Store,Florida
+1597,1287,2025-11-06,In-Store,Miami Store,Florida
+1598,449,2025-04-09,Online,Los Angeles Store,California
+1599,762,2025-12-07,In-Store,San Francisco Store,California
+1600,26,2025-12-21,Online,Houston Store,Texas
+1601,1807,2025-12-28,In-Store,Los Angeles Store,California
+1602,1569,2024-01-01,Online,Los Angeles Store,California
+1603,62,2025-08-02,In-Store,Los Angeles Store,California
+1604,229,2025-09-02,Online,Miami Store,Florida
+1605,1839,2024-03-06,In-Store,San Francisco Store,California
+1606,607,2025-05-08,Online,San Francisco Store,California
+1607,1059,2023-08-18,In-Store,Houston Store,Texas
+1608,1729,2024-01-05,Online,San Francisco Store,California
+1609,1480,2023-06-27,In-Store,San Francisco Store,California
+1610,1526,2024-07-21,Online,Los Angeles Store,California
+1611,761,2025-03-03,Online,Los Angeles Store,California
+1612,595,2025-06-18,In-Store,Miami Store,Florida
+1613,1593,2025-09-01,In-Store,Los Angeles Store,California
+1614,1056,2023-03-23,Online,Los Angeles Store,California
+1615,1855,2025-04-25,In-Store,Los Angeles Store,California
+1616,2049,2025-01-31,Online,Los Angeles Store,California
+1617,1459,2024-09-09,Online,Miami Store,Florida
+1618,1862,2025-10-30,Online,Los Angeles Store,California
+1619,1160,2023-08-04,In-Store,Houston Store,Texas
+1620,1220,2023-10-17,Online,Houston Store,Texas
+1621,133,2024-03-20,Online,Houston Store,Texas
+1622,86,2025-07-11,In-Store,Houston Store,Texas
+1623,1500,2024-07-05,In-Store,Los Angeles Store,California
+1624,1831,2023-07-12,In-Store,Houston Store,Texas
+1625,1204,2023-10-16,In-Store,Los Angeles Store,California
+1626,175,2024-08-05,Online,Miami Store,Florida
+1627,1976,2025-05-06,Online,Houston Store,Texas
+1628,578,2025-02-19,Online,San Francisco Store,California
+1629,1799,2025-06-14,Online,Houston Store,Texas
+1630,2097,2025-07-08,In-Store,Houston Store,Texas
+1631,145,2024-07-17,Online,Los Angeles Store,California
+1632,762,2023-01-13,Online,Houston Store,Texas
+1633,1378,2025-09-13,In-Store,San Francisco Store,California
+1634,1826,2023-12-06,Online,Los Angeles Store,California
+1635,929,2025-05-14,Online,Los Angeles Store,California
+1636,794,2023-11-08,Online,Miami Store,Florida
+1637,1602,2025-01-02,Online,Miami Store,Florida
+1638,1661,2023-12-05,Online,Houston Store,Texas
+1639,319,2023-10-27,Online,Miami Store,Florida
+1640,1111,2023-12-25,In-Store,Miami Store,Florida
+1641,1577,2023-06-18,In-Store,Miami Store,Florida
+1642,698,2025-01-30,Online,Los Angeles Store,California
+1643,847,2025-02-06,Online,Los Angeles Store,California
+1644,1802,2025-09-08,In-Store,Los Angeles Store,California
+1645,783,2023-02-11,Online,Miami Store,Florida
+1646,2090,2023-07-21,Online,Los Angeles Store,California
+1647,1117,2025-08-27,Online,Miami Store,Florida
+1648,1751,2024-04-08,In-Store,Los Angeles Store,California
+1649,1650,2024-03-24,Online,Los Angeles Store,California
+1650,292,2025-07-01,In-Store,San Francisco Store,California
+1651,969,2025-03-08,Online,Houston Store,Texas
+1652,1488,2025-03-04,In-Store,Miami Store,Florida
+1653,1843,2024-03-12,In-Store,San Francisco Store,California
+1654,97,2024-06-14,Online,Los Angeles Store,California
+1655,1119,2024-07-18,In-Store,Miami Store,Florida
+1656,74,2025-05-21,Online,Los Angeles Store,California
+1657,1360,2023-08-01,In-Store,Houston Store,Texas
+1658,1092,2025-08-06,Online,San Francisco Store,California
+1659,758,2023-07-11,Online,Houston Store,Texas
+1660,1942,2024-12-05,In-Store,San Francisco Store,California
+1661,208,2024-07-02,Online,Los Angeles Store,California
+1662,1245,2023-06-03,Online,Houston Store,Texas
+1663,1286,2024-07-24,In-Store,Houston Store,Texas
+1664,410,2023-08-28,Online,Los Angeles Store,California
+1665,2379,2024-01-09,Online,Houston Store,Texas
+1666,2392,2025-03-15,In-Store,Miami Store,Florida
+1667,771,2025-03-09,In-Store,San Francisco Store,California
+1668,1844,2024-09-02,Online,San Francisco Store,California
+1669,74,2024-11-18,Online,San Francisco Store,California
+1670,1661,2025-02-12,In-Store,Miami Store,Florida
+1671,254,2023-05-23,In-Store,San Francisco Store,California
+1672,820,2023-09-29,Online,Los Angeles Store,California
+1673,986,2024-03-01,In-Store,Houston Store,Texas
+1674,332,2023-02-15,Online,Miami Store,Florida
+1675,1422,2023-04-05,Online,San Francisco Store,California
+1676,836,2023-03-05,Online,Los Angeles Store,California
+1677,1692,2024-02-17,Online,Houston Store,Texas
+1678,455,2025-10-29,Online,Houston Store,Texas
+1679,1930,2024-04-03,In-Store,Miami Store,Florida
+1680,1139,2024-04-14,In-Store,Miami Store,Florida
+1681,313,2025-03-20,In-Store,Miami Store,Florida
+1682,1018,2024-05-20,In-Store,Los Angeles Store,California
+1683,228,2023-03-25,Online,Los Angeles Store,California
+1684,858,2023-02-28,Online,Miami Store,Florida
+1685,1269,2025-11-10,Online,San Francisco Store,California
+1686,1018,2025-07-06,Online,Houston Store,Texas
+1687,950,2023-06-06,In-Store,Houston Store,Texas
+1688,427,2024-07-29,Online,Los Angeles Store,California
+1689,2090,2025-04-16,Online,Houston Store,Texas
+1690,465,2024-11-10,In-Store,San Francisco Store,California
+1691,1646,2023-07-22,In-Store,Houston Store,Texas
+1692,278,2023-11-14,In-Store,Los Angeles Store,California
+1693,19,2024-02-10,In-Store,Los Angeles Store,California
+1694,66,2025-09-12,Online,San Francisco Store,California
+1695,167,2025-08-06,Online,San Francisco Store,California
+1696,1609,2025-12-29,In-Store,Houston Store,Texas
+1697,403,2024-05-09,Online,Houston Store,Texas
+1698,409,2024-11-09,Online,Los Angeles Store,California
+1699,2160,2025-04-14,Online,San Francisco Store,California
+1700,597,2023-07-13,In-Store,San Francisco Store,California
+1701,1063,2023-11-04,Online,San Francisco Store,California
+1702,2153,2024-05-20,In-Store,Houston Store,Texas
+1703,324,2023-10-08,Online,San Francisco Store,California
+1704,1983,2024-11-05,Online,Los Angeles Store,California
+1705,1438,2025-07-21,Online,Los Angeles Store,California
+1706,429,2024-12-15,In-Store,Houston Store,Texas
+1707,1085,2024-08-30,Online,Miami Store,Florida
+1708,1636,2024-04-27,In-Store,Houston Store,Texas
+1709,1378,2023-04-27,In-Store,Miami Store,Florida
+1710,393,2025-08-25,In-Store,San Francisco Store,California
+1711,2252,2023-07-11,Online,Houston Store,Texas
+1712,2306,2025-02-26,Online,Los Angeles Store,California
+1713,1541,2024-09-09,Online,San Francisco Store,California
+1714,446,2024-05-30,Online,Los Angeles Store,California
+1715,1204,2023-11-03,In-Store,San Francisco Store,California
+1716,1024,2024-06-15,In-Store,Houston Store,Texas
+1717,342,2023-05-02,In-Store,Miami Store,Florida
+1718,133,2024-10-10,Online,San Francisco Store,California
+1719,2491,2024-08-14,In-Store,Miami Store,Florida
+1720,1860,2025-05-19,Online,San Francisco Store,California
+1721,2301,2023-02-28,In-Store,Los Angeles Store,California
+1722,265,2023-10-28,Online,Los Angeles Store,California
+1723,93,2024-07-06,Online,San Francisco Store,California
+1724,1686,2024-02-03,In-Store,Miami Store,Florida
+1725,1435,2024-05-29,In-Store,Houston Store,Texas
+1726,2186,2025-03-15,In-Store,Houston Store,Texas
+1727,1232,2024-05-12,In-Store,Los Angeles Store,California
+1728,1002,2025-07-30,Online,Houston Store,Texas
+1729,1661,2024-06-11,In-Store,Los Angeles Store,California
+1730,1597,2024-02-02,In-Store,Houston Store,Texas
+1731,2355,2024-03-11,In-Store,San Francisco Store,California
+1732,266,2025-04-19,Online,Los Angeles Store,California
+1733,646,2023-12-26,Online,Los Angeles Store,California
+1734,2366,2025-05-13,In-Store,San Francisco Store,California
+1735,1137,2024-09-25,Online,Los Angeles Store,California
+1736,1402,2023-08-02,In-Store,Houston Store,Texas
+1737,454,2025-07-04,Online,Houston Store,Texas
+1738,2239,2024-08-14,Online,Los Angeles Store,California
+1739,1915,2023-05-15,Online,Houston Store,Texas
+1740,1464,2025-01-23,Online,Miami Store,Florida
+1741,1211,2024-01-21,In-Store,Los Angeles Store,California
+1742,831,2024-01-24,In-Store,San Francisco Store,California
+1743,1391,2025-01-13,In-Store,Miami Store,Florida
+1744,1113,2024-12-04,Online,Los Angeles Store,California
+1745,2235,2025-07-13,In-Store,San Francisco Store,California
+1746,1970,2025-02-11,In-Store,Houston Store,Texas
+1747,2180,2025-05-13,In-Store,San Francisco Store,California
+1748,872,2025-11-25,Online,Miami Store,Florida
+1749,635,2023-03-20,Online,Houston Store,Texas
+1750,1400,2024-11-04,Online,Los Angeles Store,California
+1751,691,2023-11-08,In-Store,Houston Store,Texas
+1752,1866,2023-07-23,In-Store,Los Angeles Store,California
+1753,1058,2025-09-11,In-Store,Los Angeles Store,California
+1754,1956,2023-01-17,Online,San Francisco Store,California
+1755,582,2024-04-20,Online,San Francisco Store,California
+1756,2219,2025-10-13,In-Store,San Francisco Store,California
+1757,1390,2023-07-29,Online,Miami Store,Florida
+1758,784,2024-05-13,Online,Miami Store,Florida
+1759,181,2024-03-04,Online,San Francisco Store,California
+1760,19,2023-02-27,Online,Miami Store,Florida
+1761,1250,2025-09-20,In-Store,Houston Store,Texas
+1762,1617,2024-06-05,Online,Houston Store,Texas
+1763,2223,2024-08-03,Online,Miami Store,Florida
+1764,1246,2025-06-17,Online,Miami Store,Florida
+1765,1639,2024-09-12,Online,Houston Store,Texas
+1766,54,2025-12-03,In-Store,Los Angeles Store,California
+1767,1427,2025-08-23,In-Store,Houston Store,Texas
+1768,2397,2025-06-28,Online,Houston Store,Texas
+1769,443,2024-05-07,Online,Miami Store,Florida
+1770,580,2024-05-13,Online,Houston Store,Texas
+1771,282,2025-11-07,Online,Miami Store,Florida
+1772,2408,2024-08-27,Online,Miami Store,Florida
+1773,823,2025-08-05,Online,San Francisco Store,California
+1774,1670,2023-10-21,In-Store,Houston Store,Texas
+1775,641,2023-06-21,Online,Los Angeles Store,California
+1776,1032,2024-06-14,In-Store,San Francisco Store,California
+1777,2017,2023-03-07,In-Store,Miami Store,Florida
+1778,563,2023-05-21,Online,Miami Store,Florida
+1779,341,2024-03-21,In-Store,Los Angeles Store,California
+1780,472,2023-07-08,In-Store,Miami Store,Florida
+1781,1711,2023-06-07,In-Store,Houston Store,Texas
+1782,2297,2024-10-31,In-Store,San Francisco Store,California
+1783,235,2023-09-03,In-Store,Miami Store,Florida
+1784,1107,2025-05-05,In-Store,Miami Store,Florida
+1785,1117,2025-08-01,Online,Los Angeles Store,California
+1786,1909,2025-01-17,In-Store,Houston Store,Texas
+1787,1418,2025-11-22,In-Store,Miami Store,Florida
+1788,824,2023-11-26,In-Store,Los Angeles Store,California
+1789,1292,2024-05-26,Online,Miami Store,Florida
+1790,632,2025-04-29,In-Store,Los Angeles Store,California
+1791,529,2025-12-30,Online,Los Angeles Store,California
+1792,1981,2023-03-20,In-Store,Houston Store,Texas
+1793,2170,2023-06-18,Online,Miami Store,Florida
+1794,2058,2025-03-20,Online,Houston Store,Texas
+1795,1340,2025-09-09,In-Store,Los Angeles Store,California
+1796,1297,2023-06-29,In-Store,San Francisco Store,California
+1797,1330,2023-09-17,Online,Miami Store,Florida
+1798,1234,2025-10-25,In-Store,San Francisco Store,California
+1799,1982,2023-10-24,Online,Miami Store,Florida
+1800,1754,2024-09-11,Online,Houston Store,Texas
+1801,1949,2025-05-04,Online,Houston Store,Texas
+1802,2128,2023-12-26,Online,Houston Store,Texas
+1803,902,2023-04-27,Online,Houston Store,Texas
+1804,891,2023-12-23,In-Store,Houston Store,Texas
+1805,1571,2025-08-14,Online,San Francisco Store,California
+1806,1825,2024-03-14,Online,Houston Store,Texas
+1807,2066,2024-06-05,In-Store,Los Angeles Store,California
+1808,1189,2023-07-18,Online,Los Angeles Store,California
+1809,1549,2025-12-09,In-Store,San Francisco Store,California
+1810,202,2024-10-31,In-Store,Miami Store,Florida
+1811,741,2025-11-19,In-Store,Los Angeles Store,California
+1812,1370,2023-01-31,Online,Miami Store,Florida
+1813,1390,2025-10-04,Online,San Francisco Store,California
+1814,2001,2023-11-29,Online,Miami Store,Florida
+1815,1472,2024-10-21,In-Store,Miami Store,Florida
+1816,1537,2023-06-26,Online,Miami Store,Florida
+1817,319,2024-01-05,In-Store,Miami Store,Florida
+1818,2265,2024-06-30,Online,San Francisco Store,California
+1819,1058,2024-06-18,In-Store,Los Angeles Store,California
+1820,1895,2023-04-07,Online,Houston Store,Texas
+1821,2314,2023-08-18,Online,Miami Store,Florida
+1822,724,2023-08-15,Online,Los Angeles Store,California
+1823,1701,2024-01-06,In-Store,Los Angeles Store,California
+1824,413,2023-02-24,In-Store,San Francisco Store,California
+1825,1276,2024-02-28,Online,Los Angeles Store,California
+1826,401,2023-11-11,Online,San Francisco Store,California
+1827,1840,2023-02-01,In-Store,Miami Store,Florida
+1828,724,2023-04-03,In-Store,Miami Store,Florida
+1829,2330,2024-06-02,In-Store,Houston Store,Texas
+1830,1136,2025-05-02,Online,Houston Store,Texas
+1831,751,2025-01-21,In-Store,Houston Store,Texas
+1832,268,2024-02-20,Online,Los Angeles Store,California
+1833,2346,2024-07-10,In-Store,Miami Store,Florida
+1834,1341,2024-01-01,Online,San Francisco Store,California
+1835,570,2024-08-21,In-Store,Houston Store,Texas
+1836,1974,2023-11-27,In-Store,San Francisco Store,California
+1837,546,2024-11-19,In-Store,San Francisco Store,California
+1838,365,2023-01-11,In-Store,Houston Store,Texas
+1839,547,2025-03-28,In-Store,Miami Store,Florida
+1840,271,2024-02-23,Online,Houston Store,Texas
+1841,739,2025-06-29,In-Store,San Francisco Store,California
+1842,1258,2023-12-14,In-Store,Houston Store,Texas
+1843,59,2025-08-15,In-Store,San Francisco Store,California
+1844,1275,2024-02-16,Online,San Francisco Store,California
+1845,1871,2023-06-02,In-Store,Houston Store,Texas
+1846,86,2023-04-02,Online,Los Angeles Store,California
+1847,763,2023-11-27,In-Store,Houston Store,Texas
+1848,390,2025-08-12,In-Store,Los Angeles Store,California
+1849,1204,2025-08-27,Online,San Francisco Store,California
+1850,719,2024-07-07,In-Store,San Francisco Store,California
+1851,149,2025-07-18,Online,Los Angeles Store,California
+1852,583,2023-07-13,Online,San Francisco Store,California
+1853,121,2024-06-13,In-Store,Los Angeles Store,California
+1854,2304,2025-04-24,Online,Los Angeles Store,California
+1855,766,2024-09-30,In-Store,San Francisco Store,California
+1856,800,2024-04-22,In-Store,Miami Store,Florida
+1857,2107,2024-04-24,Online,Los Angeles Store,California
+1858,1022,2023-10-15,Online,Houston Store,Texas
+1859,1470,2024-11-28,Online,Houston Store,Texas
+1860,2436,2024-11-25,Online,San Francisco Store,California
+1861,1110,2024-06-23,In-Store,Miami Store,Florida
+1862,1251,2023-11-26,In-Store,San Francisco Store,California
+1863,1650,2024-04-14,Online,Miami Store,Florida
+1864,1816,2025-04-28,In-Store,Los Angeles Store,California
+1865,1346,2024-06-17,In-Store,Los Angeles Store,California
+1866,1342,2024-04-11,In-Store,Los Angeles Store,California
+1867,2447,2025-09-03,In-Store,Los Angeles Store,California
+1868,1733,2024-02-24,Online,Houston Store,Texas
+1869,899,2025-01-31,Online,Houston Store,Texas
+1870,2341,2025-10-02,In-Store,San Francisco Store,California
+1871,485,2025-06-09,Online,Miami Store,Florida
+1872,803,2023-11-04,Online,Los Angeles Store,California
+1873,1716,2025-07-12,Online,Los Angeles Store,California
+1874,1916,2023-11-30,In-Store,Miami Store,Florida
+1875,1758,2025-08-11,In-Store,Miami Store,Florida
+1876,1810,2025-10-18,In-Store,San Francisco Store,California
+1877,2292,2025-02-27,Online,Miami Store,Florida
+1878,1444,2025-04-11,In-Store,Los Angeles Store,California
+1879,1953,2025-04-23,In-Store,Los Angeles Store,California
+1880,2321,2023-09-07,Online,Los Angeles Store,California
+1881,1671,2023-07-03,In-Store,Los Angeles Store,California
+1882,1849,2025-03-09,In-Store,Los Angeles Store,California
+1883,520,2023-07-05,Online,San Francisco Store,California
+1884,1152,2025-12-28,Online,Los Angeles Store,California
+1885,1397,2025-04-17,Online,San Francisco Store,California
+1886,2207,2024-09-18,In-Store,Los Angeles Store,California
+1887,652,2025-05-08,In-Store,Houston Store,Texas
+1888,2224,2023-01-08,In-Store,Houston Store,Texas
+1889,1951,2025-02-21,Online,Houston Store,Texas
+1890,211,2025-02-13,Online,Houston Store,Texas
+1891,2495,2025-10-03,In-Store,San Francisco Store,California
+1892,586,2024-11-07,In-Store,San Francisco Store,California
+1893,167,2023-07-30,Online,Miami Store,Florida
+1894,1257,2024-05-04,Online,Los Angeles Store,California
+1895,1206,2024-09-30,Online,Houston Store,Texas
+1896,1739,2023-07-10,Online,San Francisco Store,California
+1897,1053,2024-11-01,In-Store,Los Angeles Store,California
+1898,714,2025-04-22,Online,Los Angeles Store,California
+1899,688,2023-12-01,In-Store,San Francisco Store,California
+1900,330,2024-08-01,In-Store,Houston Store,Texas
+1901,1747,2023-03-03,In-Store,Miami Store,Florida
+1902,1208,2024-01-22,Online,Los Angeles Store,California
+1903,2143,2023-06-02,Online,Miami Store,Florida
+1904,785,2024-09-10,Online,Houston Store,Texas
+1905,2401,2024-11-28,Online,Houston Store,Texas
+1906,941,2023-06-27,In-Store,Miami Store,Florida
+1907,1289,2025-04-26,Online,Houston Store,Texas
+1908,1680,2024-05-01,Online,Los Angeles Store,California
+1909,626,2024-05-14,In-Store,Miami Store,Florida
+1910,139,2024-06-24,Online,Houston Store,Texas
+1911,762,2023-01-13,In-Store,Miami Store,Florida
+1912,1834,2023-05-31,In-Store,Los Angeles Store,California
+1913,2303,2025-12-09,In-Store,Houston Store,Texas
+1914,1556,2025-09-17,In-Store,Los Angeles Store,California
+1915,676,2024-10-05,In-Store,Houston Store,Texas
+1916,92,2024-01-07,In-Store,San Francisco Store,California
+1917,1093,2023-09-09,In-Store,Houston Store,Texas
+1918,37,2023-02-22,In-Store,Miami Store,Florida
+1919,1788,2023-07-12,Online,Houston Store,Texas
+1920,2188,2024-08-13,Online,Los Angeles Store,California
+1921,1202,2025-12-16,Online,Los Angeles Store,California
+1922,1837,2023-04-07,Online,Houston Store,Texas
+1923,1895,2023-07-17,In-Store,Miami Store,Florida
+1924,137,2023-05-27,Online,San Francisco Store,California
+1925,2238,2024-12-23,In-Store,Miami Store,Florida
+1926,1664,2024-11-14,Online,San Francisco Store,California
+1927,2390,2025-11-01,Online,Los Angeles Store,California
+1928,1583,2023-11-29,Online,Miami Store,Florida
+1929,972,2024-05-26,In-Store,San Francisco Store,California
+1930,662,2023-06-21,Online,Houston Store,Texas
+1931,2291,2024-07-17,In-Store,Los Angeles Store,California
+1932,1811,2024-05-26,In-Store,Houston Store,Texas
+1933,415,2023-04-15,Online,Los Angeles Store,California
+1934,343,2024-11-04,Online,Miami Store,Florida
+1935,146,2025-03-17,Online,Miami Store,Florida
+1936,323,2025-11-30,In-Store,Los Angeles Store,California
+1937,2170,2025-06-07,Online,Los Angeles Store,California
+1938,1276,2025-05-25,In-Store,Los Angeles Store,California
+1939,1879,2024-11-07,In-Store,Miami Store,Florida
+1940,2359,2023-11-17,Online,San Francisco Store,California
+1941,601,2023-12-01,Online,Houston Store,Texas
+1942,475,2023-09-21,In-Store,Houston Store,Texas
+1943,1516,2025-05-14,In-Store,Miami Store,Florida
+1944,575,2023-12-18,In-Store,Houston Store,Texas
+1945,347,2024-11-06,Online,Los Angeles Store,California
+1946,1511,2025-07-07,In-Store,San Francisco Store,California
+1947,382,2023-01-05,Online,Houston Store,Texas
+1948,1304,2023-02-03,In-Store,San Francisco Store,California
+1949,72,2023-12-17,In-Store,Los Angeles Store,California
+1950,1118,2024-08-05,Online,Houston Store,Texas
+1951,1397,2024-04-09,In-Store,Miami Store,Florida
+1952,2387,2023-12-14,Online,San Francisco Store,California
+1953,1360,2023-05-05,Online,Los Angeles Store,California
+1954,664,2023-12-23,In-Store,San Francisco Store,California
+1955,1516,2024-06-10,Online,Houston Store,Texas
+1956,1892,2024-05-12,Online,Houston Store,Texas
+1957,40,2023-02-22,In-Store,Miami Store,Florida
+1958,1383,2023-05-29,Online,Los Angeles Store,California
+1959,2031,2024-05-17,Online,Los Angeles Store,California
+1960,1278,2025-05-19,Online,Miami Store,Florida
+1961,966,2023-08-07,In-Store,Miami Store,Florida
+1962,1901,2024-03-27,Online,Los Angeles Store,California
+1963,2218,2023-03-24,In-Store,San Francisco Store,California
+1964,701,2025-01-07,In-Store,San Francisco Store,California
+1965,511,2024-06-10,Online,Miami Store,Florida
+1966,1284,2024-02-08,Online,San Francisco Store,California
+1967,584,2023-10-17,Online,Los Angeles Store,California
+1968,984,2024-02-24,In-Store,Houston Store,Texas
+1969,459,2023-12-05,Online,Houston Store,Texas
+1970,1906,2025-02-15,Online,San Francisco Store,California
+1971,2389,2024-12-11,Online,Miami Store,Florida
+1972,2105,2025-09-13,Online,Miami Store,Florida
+1973,2266,2025-08-16,Online,Miami Store,Florida
+1974,816,2024-11-16,In-Store,Miami Store,Florida
+1975,247,2025-11-25,In-Store,Miami Store,Florida
+1976,730,2024-01-08,Online,San Francisco Store,California
+1977,2421,2025-09-20,Online,Houston Store,Texas
+1978,417,2024-06-14,Online,Houston Store,Texas
+1979,1055,2025-07-12,Online,San Francisco Store,California
+1980,368,2023-01-23,In-Store,Miami Store,Florida
+1981,108,2023-04-14,Online,San Francisco Store,California
+1982,839,2023-08-29,In-Store,Houston Store,Texas
+1983,418,2025-10-01,In-Store,Los Angeles Store,California
+1984,1644,2025-06-21,Online,San Francisco Store,California
+1985,821,2025-03-24,In-Store,Miami Store,Florida
+1986,1422,2024-10-16,In-Store,Houston Store,Texas
+1987,683,2025-02-21,In-Store,Houston Store,Texas
+1988,256,2023-11-03,In-Store,Houston Store,Texas
+1989,838,2023-01-08,Online,Houston Store,Texas
+1990,2283,2025-12-28,Online,Miami Store,Florida
+1991,553,2024-07-28,In-Store,Los Angeles Store,California
+1992,181,2025-12-27,Online,Houston Store,Texas
+1993,157,2025-06-30,Online,San Francisco Store,California
+1994,1478,2024-06-01,Online,Los Angeles Store,California
+1995,571,2025-11-20,Online,Houston Store,Texas
+1996,857,2024-04-27,Online,Los Angeles Store,California
+1997,1785,2023-07-26,In-Store,San Francisco Store,California
+1998,1728,2024-10-30,Online,Houston Store,Texas
+1999,1048,2024-08-01,Online,San Francisco Store,California
+2000,1497,2024-01-22,Online,Miami Store,Florida
+2001,1424,2024-02-16,Online,Houston Store,Texas
+2002,592,2025-06-09,In-Store,Houston Store,Texas
+2003,2182,2025-06-24,In-Store,Houston Store,Texas
+2004,421,2025-08-20,In-Store,Houston Store,Texas
+2005,2261,2025-08-22,In-Store,Miami Store,Florida
+2006,348,2023-05-20,Online,Houston Store,Texas
+2007,166,2023-10-27,In-Store,Los Angeles Store,California
+2008,937,2025-11-02,Online,Houston Store,Texas
+2009,348,2024-10-25,Online,Miami Store,Florida
+2010,398,2025-04-04,Online,Houston Store,Texas
+2011,583,2024-02-04,Online,Los Angeles Store,California
+2012,1601,2025-09-18,Online,Miami Store,Florida
+2013,308,2023-05-29,In-Store,Miami Store,Florida
+2014,99,2023-11-03,In-Store,Los Angeles Store,California
+2015,1266,2025-12-19,In-Store,Los Angeles Store,California
+2016,158,2024-03-10,In-Store,Los Angeles Store,California
+2017,554,2023-01-21,Online,Los Angeles Store,California
+2018,651,2025-05-24,In-Store,Los Angeles Store,California
+2019,2275,2024-01-17,Online,Miami Store,Florida
+2020,2471,2023-09-02,In-Store,Miami Store,Florida
+2021,2291,2024-11-28,Online,Houston Store,Texas
+2022,1069,2024-08-12,Online,Houston Store,Texas
+2023,1496,2024-01-25,In-Store,San Francisco Store,California
+2024,2419,2024-07-21,Online,Houston Store,Texas
+2025,1879,2023-09-16,Online,Houston Store,Texas
+2026,734,2024-03-01,In-Store,Los Angeles Store,California
+2027,1951,2025-10-26,Online,Los Angeles Store,California
+2028,92,2023-01-06,In-Store,Houston Store,Texas
+2029,2220,2023-07-10,In-Store,San Francisco Store,California
+2030,1628,2023-05-28,In-Store,Los Angeles Store,California
+2031,1216,2024-02-09,Online,Houston Store,Texas
+2032,1101,2023-09-15,Online,Houston Store,Texas
+2033,1305,2024-12-30,Online,Miami Store,Florida
+2034,1388,2023-03-31,In-Store,San Francisco Store,California
+2035,179,2025-04-03,Online,Miami Store,Florida
+2036,2286,2023-01-10,In-Store,San Francisco Store,California
+2037,280,2025-04-17,In-Store,Los Angeles Store,California
+2038,1043,2025-09-14,Online,San Francisco Store,California
+2039,1619,2024-09-16,In-Store,Houston Store,Texas
+2040,371,2023-01-30,Online,Houston Store,Texas
+2041,1801,2023-05-08,Online,San Francisco Store,California
+2042,1704,2024-02-25,Online,San Francisco Store,California
+2043,2269,2025-12-14,Online,San Francisco Store,California
+2044,304,2023-11-01,Online,Miami Store,Florida
+2045,1349,2024-06-29,In-Store,San Francisco Store,California
+2046,1461,2023-01-22,In-Store,Los Angeles Store,California
+2047,2486,2024-01-26,In-Store,Miami Store,Florida
+2048,1194,2024-09-08,Online,Miami Store,Florida
+2049,2423,2023-05-29,Online,San Francisco Store,California
+2050,2429,2023-10-26,Online,Los Angeles Store,California
+2051,2062,2023-06-21,In-Store,Miami Store,Florida
+2052,669,2023-02-16,Online,Houston Store,Texas
+2053,500,2024-09-17,In-Store,Miami Store,Florida
+2054,1415,2023-07-26,In-Store,San Francisco Store,California
+2055,1573,2024-03-28,Online,Los Angeles Store,California
+2056,530,2025-07-13,Online,San Francisco Store,California
+2057,2007,2025-01-23,In-Store,Houston Store,Texas
+2058,1220,2024-12-08,Online,Houston Store,Texas
+2059,755,2025-10-05,In-Store,Houston Store,Texas
+2060,2348,2024-11-06,Online,San Francisco Store,California
+2061,815,2025-05-04,Online,Miami Store,Florida
+2062,727,2025-02-21,In-Store,San Francisco Store,California
+2063,731,2024-11-14,Online,Los Angeles Store,California
+2064,828,2025-08-20,In-Store,Miami Store,Florida
+2065,1332,2025-05-13,Online,Houston Store,Texas
+2066,2047,2023-06-17,In-Store,San Francisco Store,California
+2067,875,2023-03-27,In-Store,Houston Store,Texas
+2068,2179,2025-04-28,Online,Houston Store,Texas
+2069,2004,2025-12-10,In-Store,Los Angeles Store,California
+2070,1678,2024-03-17,Online,Miami Store,Florida
+2071,608,2023-09-28,Online,Los Angeles Store,California
+2072,2074,2023-12-10,Online,Los Angeles Store,California
+2073,1478,2024-05-17,In-Store,Los Angeles Store,California
+2074,635,2025-10-30,In-Store,Houston Store,Texas
+2075,1210,2024-05-08,Online,Los Angeles Store,California
+2076,484,2023-09-01,Online,Los Angeles Store,California
+2077,1075,2023-09-24,In-Store,Miami Store,Florida
+2078,1915,2025-06-11,Online,Miami Store,Florida
+2079,2053,2023-07-20,Online,Los Angeles Store,California
+2080,589,2023-08-27,In-Store,Miami Store,Florida
+2081,2256,2025-07-03,Online,Miami Store,Florida
+2082,2305,2025-08-26,In-Store,Los Angeles Store,California
+2083,1229,2024-04-28,Online,Houston Store,Texas
+2084,1974,2023-09-03,In-Store,Los Angeles Store,California
+2085,2059,2025-10-28,Online,Miami Store,Florida
+2086,949,2023-06-01,Online,Houston Store,Texas
+2087,2056,2023-07-30,In-Store,San Francisco Store,California
+2088,2080,2024-01-02,Online,Houston Store,Texas
+2089,2008,2025-08-01,In-Store,Miami Store,Florida
+2090,1742,2023-03-27,Online,Houston Store,Texas
+2091,387,2025-12-14,In-Store,Los Angeles Store,California
+2092,1252,2024-03-21,In-Store,San Francisco Store,California
+2093,1791,2024-09-11,In-Store,San Francisco Store,California
+2094,1499,2023-10-31,In-Store,San Francisco Store,California
+2095,207,2023-05-12,Online,Miami Store,Florida
+2096,1819,2025-06-22,Online,Miami Store,Florida
+2097,1781,2025-09-14,In-Store,San Francisco Store,California
+2098,2396,2023-02-16,In-Store,Houston Store,Texas
+2099,793,2025-01-26,In-Store,San Francisco Store,California
+2100,2282,2024-11-20,Online,Houston Store,Texas
+2101,1725,2025-11-13,Online,Houston Store,Texas
+2102,1006,2024-11-17,Online,Miami Store,Florida
+2103,942,2025-02-24,Online,Houston Store,Texas
+2104,1166,2023-12-06,In-Store,San Francisco Store,California
+2105,2224,2024-02-16,In-Store,Miami Store,Florida
+2106,1678,2023-10-13,In-Store,Los Angeles Store,California
+2107,449,2025-04-29,Online,Los Angeles Store,California
+2108,592,2024-03-05,Online,Miami Store,Florida
+2109,82,2023-01-31,Online,San Francisco Store,California
+2110,2183,2024-08-25,In-Store,Los Angeles Store,California
+2111,1407,2024-03-15,In-Store,Los Angeles Store,California
+2112,1481,2025-09-11,Online,Houston Store,Texas
+2113,2488,2024-02-16,In-Store,Houston Store,Texas
+2114,1080,2024-06-11,Online,San Francisco Store,California
+2115,419,2023-11-06,Online,Miami Store,Florida
+2116,88,2025-08-06,In-Store,San Francisco Store,California
+2117,215,2024-11-04,Online,Miami Store,Florida
+2118,1759,2024-03-12,In-Store,Los Angeles Store,California
+2119,1521,2024-12-04,Online,Houston Store,Texas
+2120,1718,2024-10-24,In-Store,San Francisco Store,California
+2121,2293,2023-12-31,In-Store,San Francisco Store,California
+2122,1502,2025-07-11,In-Store,Miami Store,Florida
+2123,309,2023-04-23,Online,Miami Store,Florida
+2124,231,2023-06-25,Online,San Francisco Store,California
+2125,155,2025-07-24,In-Store,Miami Store,Florida
+2126,1199,2024-01-17,In-Store,San Francisco Store,California
+2127,115,2023-11-02,Online,San Francisco Store,California
+2128,1414,2024-08-24,Online,San Francisco Store,California
+2129,311,2023-12-09,Online,Los Angeles Store,California
+2130,993,2023-06-05,In-Store,Miami Store,Florida
+2131,2348,2024-12-12,Online,Houston Store,Texas
+2132,1042,2025-12-14,Online,Houston Store,Texas
+2133,12,2024-02-07,In-Store,Miami Store,Florida
+2134,1428,2024-09-05,Online,San Francisco Store,California
+2135,2280,2025-03-07,Online,Houston Store,Texas
+2136,2014,2024-09-14,Online,Houston Store,Texas
+2137,730,2024-08-25,In-Store,Miami Store,Florida
+2138,1302,2023-06-26,In-Store,Houston Store,Texas
+2139,1377,2024-03-24,In-Store,San Francisco Store,California
+2140,2037,2025-01-12,In-Store,Miami Store,Florida
+2141,2351,2023-10-28,In-Store,San Francisco Store,California
+2142,541,2024-12-07,In-Store,Houston Store,Texas
+2143,77,2023-11-03,In-Store,Houston Store,Texas
+2144,24,2025-01-20,Online,San Francisco Store,California
+2145,1039,2025-05-18,Online,Los Angeles Store,California
+2146,676,2023-08-02,In-Store,Houston Store,Texas
+2147,2395,2024-04-27,Online,Los Angeles Store,California
+2148,172,2025-12-26,Online,Houston Store,Texas
+2149,1893,2023-05-13,In-Store,Los Angeles Store,California
+2150,489,2024-05-26,Online,Los Angeles Store,California
+2151,1486,2023-07-30,Online,Los Angeles Store,California
+2152,2426,2025-09-14,Online,San Francisco Store,California
+2153,2420,2025-09-13,Online,Los Angeles Store,California
+2154,757,2024-12-17,Online,Los Angeles Store,California
+2155,2430,2023-09-10,In-Store,Los Angeles Store,California
+2156,155,2023-02-07,In-Store,Houston Store,Texas
+2157,257,2025-12-02,In-Store,Los Angeles Store,California
+2158,1780,2024-09-20,Online,Houston Store,Texas
+2159,674,2025-09-13,In-Store,Los Angeles Store,California
+2160,2116,2023-02-15,Online,Los Angeles Store,California
+2161,2392,2023-11-01,Online,San Francisco Store,California
+2162,673,2023-08-21,Online,Houston Store,Texas
+2163,2439,2023-09-02,Online,Los Angeles Store,California
+2164,1473,2025-01-29,In-Store,Houston Store,Texas
+2165,259,2025-04-18,In-Store,Houston Store,Texas
+2166,307,2023-06-07,Online,Miami Store,Florida
+2167,1119,2025-10-21,In-Store,San Francisco Store,California
+2168,246,2023-08-05,Online,San Francisco Store,California
+2169,1659,2025-07-16,In-Store,San Francisco Store,California
+2170,187,2024-05-21,In-Store,Miami Store,Florida
+2171,1798,2025-01-30,Online,Miami Store,Florida
+2172,925,2025-06-22,In-Store,San Francisco Store,California
+2173,785,2024-08-03,Online,Miami Store,Florida
+2174,1596,2025-11-19,In-Store,Miami Store,Florida
+2175,2456,2024-09-18,Online,Miami Store,Florida
+2176,1361,2024-06-03,Online,San Francisco Store,California
+2177,341,2023-10-02,In-Store,San Francisco Store,California
+2178,563,2024-05-06,In-Store,San Francisco Store,California
+2179,651,2025-04-06,Online,Miami Store,Florida
+2180,1194,2025-08-08,In-Store,San Francisco Store,California
+2181,69,2025-07-14,In-Store,Miami Store,Florida
+2182,1584,2025-04-26,Online,Los Angeles Store,California
+2183,2429,2025-11-25,Online,Miami Store,Florida
+2184,2105,2025-12-03,In-Store,Houston Store,Texas
+2185,1301,2023-02-08,Online,San Francisco Store,California
+2186,1123,2023-08-27,Online,San Francisco Store,California
+2187,916,2025-11-02,Online,Houston Store,Texas
+2188,2373,2023-05-02,In-Store,Miami Store,Florida
+2189,461,2023-05-24,In-Store,Los Angeles Store,California
+2190,2227,2024-11-14,Online,Houston Store,Texas
+2191,844,2024-03-30,In-Store,Houston Store,Texas
+2192,574,2024-01-03,Online,Miami Store,Florida
+2193,119,2025-01-28,In-Store,San Francisco Store,California
+2194,646,2023-09-04,Online,Miami Store,Florida
+2195,1479,2025-07-11,Online,Houston Store,Texas
+2196,2074,2025-12-04,In-Store,Houston Store,Texas
+2197,1514,2025-02-03,Online,San Francisco Store,California
+2198,2032,2024-01-10,In-Store,San Francisco Store,California
+2199,1032,2023-07-26,In-Store,San Francisco Store,California
+2200,969,2024-06-02,Online,Miami Store,Florida
+2201,2011,2023-08-30,Online,San Francisco Store,California
+2202,1540,2025-03-29,In-Store,Houston Store,Texas
+2203,2197,2023-10-29,Online,Houston Store,Texas
+2204,1512,2024-12-01,Online,Los Angeles Store,California
+2205,1049,2023-10-15,Online,Miami Store,Florida
+2206,655,2023-06-03,Online,Los Angeles Store,California
+2207,1955,2024-02-27,Online,Houston Store,Texas
+2208,555,2025-04-29,In-Store,Los Angeles Store,California
+2209,425,2023-02-19,In-Store,Houston Store,Texas
+2210,293,2024-07-17,Online,Los Angeles Store,California
+2211,1209,2025-05-03,Online,San Francisco Store,California
+2212,431,2025-06-01,Online,Los Angeles Store,California
+2213,317,2024-10-23,In-Store,San Francisco Store,California
+2214,398,2024-07-18,Online,San Francisco Store,California
+2215,1348,2023-08-01,In-Store,Miami Store,Florida
+2216,1589,2025-12-25,In-Store,San Francisco Store,California
+2217,596,2025-03-21,In-Store,San Francisco Store,California
+2218,2124,2025-04-29,Online,Los Angeles Store,California
+2219,1944,2025-05-30,In-Store,Houston Store,Texas
+2220,916,2025-12-24,Online,Miami Store,Florida
+2221,1256,2023-11-30,In-Store,San Francisco Store,California
+2222,976,2023-02-01,Online,Miami Store,Florida
+2223,1076,2025-05-17,In-Store,Los Angeles Store,California
+2224,1245,2025-06-16,Online,San Francisco Store,California
+2225,1452,2024-08-23,In-Store,Los Angeles Store,California
+2226,1167,2025-09-14,Online,Miami Store,Florida
+2227,2029,2024-08-21,Online,Los Angeles Store,California
+2228,363,2024-06-03,Online,Miami Store,Florida
+2229,2430,2025-05-18,Online,Los Angeles Store,California
+2230,2319,2023-01-16,In-Store,Miami Store,Florida
+2231,2346,2023-10-10,In-Store,Houston Store,Texas
+2232,234,2023-12-27,Online,Los Angeles Store,California
+2233,1732,2025-11-24,In-Store,Los Angeles Store,California
+2234,27,2023-04-23,Online,Houston Store,Texas
+2235,1495,2023-11-04,Online,Houston Store,Texas
+2236,93,2025-08-16,In-Store,Los Angeles Store,California
+2237,309,2025-12-12,Online,Houston Store,Texas
+2238,52,2025-04-13,Online,San Francisco Store,California
+2239,319,2023-08-30,In-Store,Miami Store,Florida
+2240,1993,2023-01-31,Online,Miami Store,Florida
+2241,181,2024-12-04,Online,Miami Store,Florida
+2242,1593,2025-05-18,Online,San Francisco Store,California
+2243,647,2023-08-21,Online,Houston Store,Texas
+2244,1962,2025-11-23,In-Store,Houston Store,Texas
+2245,1284,2025-08-08,In-Store,Los Angeles Store,California
+2246,2245,2023-02-28,In-Store,Houston Store,Texas
+2247,2303,2025-02-09,Online,Los Angeles Store,California
+2248,2025,2024-12-18,Online,San Francisco Store,California
+2249,336,2023-10-29,In-Store,Miami Store,Florida
+2250,1577,2025-03-13,Online,Miami Store,Florida
+2251,1526,2025-06-15,Online,Miami Store,Florida
+2252,990,2023-04-22,Online,Houston Store,Texas
+2253,1279,2023-11-13,Online,Los Angeles Store,California
+2254,514,2024-10-29,In-Store,Los Angeles Store,California
+2255,2030,2024-11-20,In-Store,San Francisco Store,California
+2256,242,2023-01-18,In-Store,Houston Store,Texas
+2257,2197,2025-02-16,Online,San Francisco Store,California
+2258,1734,2023-12-26,In-Store,Los Angeles Store,California
+2259,2260,2023-11-28,In-Store,Los Angeles Store,California
+2260,668,2024-06-11,Online,Miami Store,Florida
+2261,594,2023-01-12,Online,Houston Store,Texas
+2262,2179,2023-07-31,In-Store,Los Angeles Store,California
+2263,256,2024-10-02,In-Store,Miami Store,Florida
+2264,1503,2023-10-10,In-Store,Houston Store,Texas
+2265,561,2025-02-18,In-Store,San Francisco Store,California
+2266,2111,2025-11-19,Online,Houston Store,Texas
+2267,1335,2025-10-29,In-Store,Houston Store,Texas
+2268,407,2024-11-07,In-Store,Los Angeles Store,California
+2269,1861,2024-12-05,Online,Los Angeles Store,California
+2270,2063,2024-03-01,In-Store,Houston Store,Texas
+2271,1711,2024-08-13,Online,Los Angeles Store,California
+2272,259,2023-04-01,Online,Los Angeles Store,California
+2273,723,2024-03-31,Online,Los Angeles Store,California
+2274,1283,2024-03-19,In-Store,Miami Store,Florida
+2275,614,2023-03-20,In-Store,Miami Store,Florida
+2276,1695,2025-07-15,Online,Houston Store,Texas
+2277,1979,2023-04-13,In-Store,Los Angeles Store,California
+2278,813,2024-09-14,In-Store,Miami Store,Florida
+2279,1787,2025-09-16,Online,Houston Store,Texas
+2280,331,2023-08-22,Online,Los Angeles Store,California
+2281,2213,2024-10-05,In-Store,San Francisco Store,California
+2282,1217,2025-02-28,Online,Los Angeles Store,California
+2283,1545,2024-01-22,In-Store,Los Angeles Store,California
+2284,1398,2025-04-26,In-Store,Miami Store,Florida
+2285,387,2023-02-07,In-Store,Houston Store,Texas
+2286,1519,2023-08-29,In-Store,Houston Store,Texas
+2287,1818,2025-11-15,Online,Miami Store,Florida
+2288,1818,2024-07-15,Online,Los Angeles Store,California
+2289,1815,2025-03-16,Online,San Francisco Store,California
+2290,2376,2023-10-25,Online,Los Angeles Store,California
+2291,1516,2025-03-15,In-Store,Los Angeles Store,California
+2292,1241,2023-06-03,In-Store,San Francisco Store,California
+2293,320,2025-01-01,Online,Miami Store,Florida
+2294,399,2024-04-12,In-Store,Houston Store,Texas
+2295,1915,2023-02-18,In-Store,Miami Store,Florida
+2296,105,2023-02-15,In-Store,Miami Store,Florida
+2297,696,2025-02-18,Online,Los Angeles Store,California
+2298,330,2023-03-23,Online,Houston Store,Texas
+2299,660,2025-12-03,Online,Houston Store,Texas
+2300,821,2025-08-12,In-Store,Miami Store,Florida
+2301,1973,2023-09-30,Online,San Francisco Store,California
+2302,1794,2024-01-29,Online,Miami Store,Florida
+2303,2362,2025-02-28,Online,San Francisco Store,California
+2304,462,2024-08-17,Online,Houston Store,Texas
+2305,1608,2023-02-27,Online,Miami Store,Florida
+2306,1676,2024-07-18,Online,Los Angeles Store,California
+2307,2458,2023-01-01,In-Store,Miami Store,Florida
+2308,2075,2023-08-04,In-Store,Houston Store,Texas
+2309,271,2025-02-04,Online,Los Angeles Store,California
+2310,385,2024-11-01,Online,Los Angeles Store,California
+2311,60,2024-05-25,In-Store,San Francisco Store,California
+2312,1131,2025-07-03,In-Store,Los Angeles Store,California
+2313,220,2023-04-05,Online,Los Angeles Store,California
+2314,1465,2024-05-07,Online,Miami Store,Florida
+2315,1907,2025-02-03,Online,Houston Store,Texas
+2316,1596,2025-10-18,Online,San Francisco Store,California
+2317,96,2023-05-30,In-Store,Miami Store,Florida
+2318,989,2025-11-12,Online,Los Angeles Store,California
+2319,1113,2025-01-25,Online,Los Angeles Store,California
+2320,1946,2024-02-03,Online,San Francisco Store,California
+2321,2279,2024-02-14,Online,Houston Store,Texas
+2322,968,2023-05-11,In-Store,San Francisco Store,California
+2323,2323,2025-05-04,In-Store,Miami Store,Florida
+2324,246,2023-05-28,In-Store,San Francisco Store,California
+2325,2159,2024-01-16,Online,Los Angeles Store,California
+2326,234,2024-07-05,Online,Miami Store,Florida
+2327,2465,2023-10-22,In-Store,Los Angeles Store,California
+2328,1152,2024-03-31,Online,Houston Store,Texas
+2329,1261,2023-06-18,Online,Los Angeles Store,California
+2330,803,2024-12-10,In-Store,Los Angeles Store,California
+2331,1418,2023-02-06,In-Store,San Francisco Store,California
+2332,655,2023-08-19,In-Store,Los Angeles Store,California
+2333,2443,2023-09-11,In-Store,Miami Store,Florida
+2334,111,2023-11-25,Online,Miami Store,Florida
+2335,90,2025-09-06,Online,Houston Store,Texas
+2336,763,2023-01-10,In-Store,Miami Store,Florida
+2337,1304,2024-03-21,Online,San Francisco Store,California
+2338,1357,2025-07-10,In-Store,Houston Store,Texas
+2339,2180,2025-04-15,In-Store,Miami Store,Florida
+2340,1037,2023-03-19,Online,San Francisco Store,California
+2341,1465,2023-07-12,In-Store,Miami Store,Florida
+2342,98,2024-02-05,Online,Miami Store,Florida
+2343,1144,2023-04-19,Online,Los Angeles Store,California
+2344,293,2025-03-02,Online,Miami Store,Florida
+2345,1840,2023-09-20,Online,Miami Store,Florida
+2346,1735,2023-11-25,In-Store,San Francisco Store,California
+2347,1025,2023-12-29,Online,San Francisco Store,California
+2348,2298,2023-09-16,In-Store,Los Angeles Store,California
+2349,652,2023-03-26,In-Store,Miami Store,Florida
+2350,2197,2023-11-04,In-Store,Los Angeles Store,California
+2351,2092,2023-09-19,In-Store,Miami Store,Florida
+2352,1907,2025-03-07,Online,Houston Store,Texas
+2353,1722,2024-09-22,Online,Houston Store,Texas
+2354,1068,2024-11-10,In-Store,Los Angeles Store,California
+2355,2210,2025-05-14,In-Store,Los Angeles Store,California
+2356,1817,2023-11-20,Online,Los Angeles Store,California
+2357,253,2025-07-13,In-Store,San Francisco Store,California
+2358,132,2024-12-27,Online,San Francisco Store,California
+2359,1908,2025-09-04,In-Store,San Francisco Store,California
+2360,1911,2023-08-05,Online,Los Angeles Store,California
+2361,1680,2024-03-23,In-Store,Miami Store,Florida
+2362,1133,2023-11-15,In-Store,Houston Store,Texas
+2363,1059,2025-09-20,Online,Los Angeles Store,California
+2364,1926,2023-02-06,In-Store,San Francisco Store,California
+2365,2323,2024-12-31,In-Store,San Francisco Store,California
+2366,187,2025-10-07,Online,Los Angeles Store,California
+2367,949,2025-11-23,In-Store,Los Angeles Store,California
+2368,2291,2023-02-08,Online,San Francisco Store,California
+2369,264,2023-07-28,Online,Miami Store,Florida
+2370,1998,2025-04-09,In-Store,San Francisco Store,California
+2371,522,2025-05-05,In-Store,San Francisco Store,California
+2372,1565,2025-06-17,In-Store,Los Angeles Store,California
+2373,783,2024-08-23,In-Store,Miami Store,Florida
+2374,535,2025-01-29,In-Store,San Francisco Store,California
+2375,210,2024-03-09,In-Store,San Francisco Store,California
+2376,2094,2025-04-21,In-Store,Houston Store,Texas
+2377,1564,2023-02-01,Online,Los Angeles Store,California
+2378,26,2024-01-28,In-Store,Houston Store,Texas
+2379,175,2025-06-28,Online,Houston Store,Texas
+2380,1540,2023-07-11,In-Store,San Francisco Store,California
+2381,1335,2023-09-27,In-Store,Los Angeles Store,California
+2382,322,2025-01-07,Online,Miami Store,Florida
+2383,1603,2023-03-18,In-Store,San Francisco Store,California
+2384,1159,2025-01-04,In-Store,Miami Store,Florida
+2385,55,2025-06-02,Online,Miami Store,Florida
+2386,1567,2023-10-11,In-Store,Los Angeles Store,California
+2387,1610,2024-06-27,In-Store,Houston Store,Texas
+2388,1873,2024-10-10,In-Store,Los Angeles Store,California
+2389,2195,2023-09-07,Online,Miami Store,Florida
+2390,1509,2023-04-05,In-Store,San Francisco Store,California
+2391,2068,2023-01-17,In-Store,Miami Store,Florida
+2392,333,2023-04-27,In-Store,San Francisco Store,California
+2393,1579,2025-09-09,In-Store,San Francisco Store,California
+2394,907,2023-11-29,Online,Los Angeles Store,California
+2395,911,2024-10-07,Online,Miami Store,Florida
+2396,401,2023-04-26,In-Store,Houston Store,Texas
+2397,950,2025-08-20,In-Store,Miami Store,Florida
+2398,1330,2025-04-26,Online,Miami Store,Florida
+2399,2076,2023-11-12,Online,Houston Store,Texas
+2400,1911,2025-03-20,In-Store,Los Angeles Store,California
+2401,101,2024-01-07,Online,Miami Store,Florida
+2402,551,2025-01-29,In-Store,Miami Store,Florida
+2403,2401,2025-05-26,Online,San Francisco Store,California
+2404,1706,2025-09-03,Online,Miami Store,Florida
+2405,2344,2023-06-05,Online,Houston Store,Texas
+2406,353,2024-09-05,Online,San Francisco Store,California
+2407,1019,2025-11-02,In-Store,Los Angeles Store,California
+2408,1180,2024-05-22,Online,San Francisco Store,California
+2409,1098,2024-04-09,Online,Houston Store,Texas
+2410,980,2025-02-21,In-Store,Houston Store,Texas
+2411,1356,2025-03-14,Online,San Francisco Store,California
+2412,739,2023-08-08,Online,Los Angeles Store,California
+2413,977,2023-01-15,In-Store,San Francisco Store,California
+2414,1372,2023-04-27,Online,Los Angeles Store,California
+2415,2281,2023-11-27,In-Store,San Francisco Store,California
+2416,1802,2023-02-25,In-Store,Houston Store,Texas
+2417,2150,2023-11-04,In-Store,Miami Store,Florida
+2418,953,2023-08-10,In-Store,Miami Store,Florida
+2419,481,2025-03-07,Online,Los Angeles Store,California
+2420,1238,2023-05-31,In-Store,Los Angeles Store,California
+2421,108,2023-04-22,Online,Los Angeles Store,California
+2422,973,2024-11-13,Online,Houston Store,Texas
+2423,1627,2023-11-28,Online,San Francisco Store,California
+2424,704,2025-06-11,Online,Houston Store,Texas
+2425,2383,2023-06-10,Online,Miami Store,Florida
+2426,2134,2023-10-05,Online,Los Angeles Store,California
+2427,875,2025-06-15,Online,San Francisco Store,California
+2428,1448,2024-05-11,Online,Miami Store,Florida
+2429,2412,2024-10-16,Online,Miami Store,Florida
+2430,2108,2025-11-25,Online,Miami Store,Florida
+2431,1274,2023-10-30,In-Store,Houston Store,Texas
+2432,560,2024-03-13,In-Store,Los Angeles Store,California
+2433,117,2024-12-26,In-Store,Miami Store,Florida
+2434,874,2025-11-21,Online,Los Angeles Store,California
+2435,968,2023-07-05,In-Store,Houston Store,Texas
+2436,1569,2024-11-03,In-Store,Miami Store,Florida
+2437,44,2025-09-27,In-Store,Houston Store,Texas
+2438,509,2023-10-06,Online,Houston Store,Texas
+2439,2012,2024-11-13,Online,Los Angeles Store,California
+2440,1189,2025-10-22,Online,Miami Store,Florida
+2441,1316,2025-10-07,Online,Houston Store,Texas
+2442,849,2025-07-13,In-Store,Miami Store,Florida
+2443,1880,2024-01-15,In-Store,Los Angeles Store,California
+2444,917,2025-04-14,In-Store,Houston Store,Texas
+2445,799,2025-09-25,In-Store,Los Angeles Store,California
+2446,876,2023-10-12,Online,Miami Store,Florida
+2447,1761,2024-02-25,Online,Miami Store,Florida
+2448,2334,2023-04-23,Online,Los Angeles Store,California
+2449,819,2025-10-14,In-Store,San Francisco Store,California
+2450,2169,2023-08-16,Online,Houston Store,Texas
+2451,945,2024-06-11,Online,Miami Store,Florida
+2452,907,2024-05-10,In-Store,Miami Store,Florida
+2453,13,2023-01-31,In-Store,Houston Store,Texas
+2454,603,2023-06-11,Online,Los Angeles Store,California
+2455,200,2024-12-05,Online,Los Angeles Store,California
+2456,1792,2024-12-22,Online,Los Angeles Store,California
+2457,448,2024-03-21,Online,San Francisco Store,California
+2458,1812,2025-01-13,Online,San Francisco Store,California
+2459,841,2024-03-02,Online,Miami Store,Florida
+2460,590,2024-05-18,In-Store,Los Angeles Store,California
+2461,1154,2024-12-21,In-Store,Houston Store,Texas
+2462,2091,2024-11-14,In-Store,Miami Store,Florida
+2463,520,2024-08-04,Online,Houston Store,Texas
+2464,1037,2025-11-23,In-Store,Miami Store,Florida
+2465,725,2025-01-05,Online,San Francisco Store,California
+2466,988,2024-11-21,Online,Miami Store,Florida
+2467,803,2025-01-27,In-Store,San Francisco Store,California
+2468,2350,2025-01-23,Online,Miami Store,Florida
+2469,527,2023-01-24,Online,Los Angeles Store,California
+2470,1666,2023-02-24,In-Store,Houston Store,Texas
+2471,1139,2025-11-15,In-Store,Los Angeles Store,California
+2472,460,2025-03-14,In-Store,Miami Store,Florida
+2473,932,2023-11-23,Online,Miami Store,Florida
+2474,1987,2025-08-27,In-Store,Miami Store,Florida
+2475,325,2023-07-05,In-Store,San Francisco Store,California
+2476,579,2024-05-09,Online,Houston Store,Texas
+2477,1538,2025-11-01,In-Store,Houston Store,Texas
+2478,2001,2024-03-09,In-Store,Miami Store,Florida
+2479,2382,2023-07-27,In-Store,Miami Store,Florida
+2480,2332,2023-05-13,Online,San Francisco Store,California
+2481,475,2024-01-04,Online,Los Angeles Store,California
+2482,1078,2024-02-27,Online,Los Angeles Store,California
+2483,1482,2025-10-29,Online,Houston Store,Texas
+2484,1603,2023-09-01,In-Store,San Francisco Store,California
+2485,1444,2025-02-20,Online,Miami Store,Florida
+2486,632,2024-09-15,Online,Houston Store,Texas
+2487,703,2024-07-20,In-Store,San Francisco Store,California
+2488,2457,2024-06-10,In-Store,Los Angeles Store,California
+2489,982,2023-02-06,In-Store,San Francisco Store,California
+2490,1328,2023-06-27,Online,Los Angeles Store,California
+2491,1959,2024-09-30,Online,San Francisco Store,California
+2492,559,2025-05-01,Online,Houston Store,Texas
+2493,222,2023-03-13,In-Store,Los Angeles Store,California
+2494,1557,2023-12-18,In-Store,Houston Store,Texas
+2495,2206,2024-09-14,Online,Houston Store,Texas
+2496,348,2023-04-15,In-Store,Los Angeles Store,California
+2497,1183,2023-08-09,In-Store,Los Angeles Store,California
+2498,889,2025-05-12,In-Store,Miami Store,Florida
+2499,922,2024-06-01,Online,Miami Store,Florida
+2500,1259,2023-10-26,In-Store,Miami Store,Florida
+2501,405,2025-05-10,In-Store,Houston Store,Texas
+2502,1281,2023-02-11,Online,Houston Store,Texas
+2503,677,2025-02-09,Online,Miami Store,Florida
+2504,589,2025-06-15,In-Store,Houston Store,Texas
+2505,1621,2024-05-06,In-Store,Houston Store,Texas
+2506,1595,2025-12-06,Online,Los Angeles Store,California
+2507,566,2023-03-26,Online,Los Angeles Store,California
+2508,704,2025-12-17,In-Store,Houston Store,Texas
+2509,858,2025-09-17,In-Store,Miami Store,Florida
+2510,1285,2024-12-11,In-Store,San Francisco Store,California
+2511,585,2023-07-28,In-Store,Miami Store,Florida
+2512,232,2023-02-08,Online,San Francisco Store,California
+2513,2318,2025-07-14,In-Store,Miami Store,Florida
+2514,1246,2025-01-31,In-Store,Los Angeles Store,California
+2515,52,2025-08-03,Online,Houston Store,Texas
+2516,2164,2023-02-21,In-Store,Houston Store,Texas
+2517,538,2024-01-09,Online,Los Angeles Store,California
+2518,541,2025-07-19,In-Store,San Francisco Store,California
+2519,1043,2023-06-05,In-Store,San Francisco Store,California
+2520,815,2024-11-09,Online,San Francisco Store,California
+2521,1416,2023-12-17,Online,Los Angeles Store,California
+2522,1653,2023-03-10,In-Store,San Francisco Store,California
+2523,419,2025-12-11,In-Store,Los Angeles Store,California
+2524,2357,2024-10-15,In-Store,Miami Store,Florida
+2525,864,2023-03-04,Online,Miami Store,Florida
+2526,186,2024-05-23,In-Store,Los Angeles Store,California
+2527,261,2023-10-19,Online,Houston Store,Texas
+2528,1552,2025-03-31,Online,Miami Store,Florida
+2529,1297,2023-05-30,In-Store,San Francisco Store,California
+2530,2208,2025-05-30,Online,Los Angeles Store,California
+2531,762,2024-12-04,In-Store,San Francisco Store,California
+2532,224,2024-05-30,In-Store,San Francisco Store,California
+2533,1280,2023-01-30,In-Store,Houston Store,Texas
+2534,180,2023-11-22,In-Store,San Francisco Store,California
+2535,2068,2025-08-06,In-Store,Houston Store,Texas
+2536,1648,2023-01-16,Online,Miami Store,Florida
+2537,632,2023-04-21,Online,Los Angeles Store,California
+2538,1537,2025-05-21,In-Store,San Francisco Store,California
+2539,2106,2024-12-13,In-Store,Los Angeles Store,California
+2540,1964,2023-04-17,Online,San Francisco Store,California
+2541,615,2024-01-14,Online,Los Angeles Store,California
+2542,562,2023-06-11,Online,San Francisco Store,California
+2543,2422,2023-10-10,Online,San Francisco Store,California
+2544,622,2023-09-26,In-Store,San Francisco Store,California
+2545,2136,2024-04-28,In-Store,San Francisco Store,California
+2546,1014,2024-10-28,Online,San Francisco Store,California
+2547,2062,2024-08-20,In-Store,San Francisco Store,California
+2548,2181,2025-03-09,Online,San Francisco Store,California
+2549,1961,2025-03-08,In-Store,San Francisco Store,California
+2550,1058,2024-01-25,Online,San Francisco Store,California
+2551,592,2024-02-20,In-Store,Los Angeles Store,California
+2552,583,2024-03-01,Online,Houston Store,Texas
+2553,1614,2025-09-23,Online,San Francisco Store,California
+2554,1102,2025-05-16,In-Store,Houston Store,Texas
+2555,289,2023-03-27,Online,San Francisco Store,California
+2556,1569,2024-02-27,In-Store,San Francisco Store,California
+2557,1444,2023-04-28,In-Store,Los Angeles Store,California
+2558,7,2025-08-16,Online,Miami Store,Florida
+2559,1184,2025-05-31,In-Store,Miami Store,Florida
+2560,240,2025-09-18,In-Store,Los Angeles Store,California
+2561,1987,2024-02-19,In-Store,Houston Store,Texas
+2562,1447,2024-08-21,In-Store,Miami Store,Florida
+2563,1750,2023-02-09,In-Store,Los Angeles Store,California
+2564,2118,2024-12-03,Online,Los Angeles Store,California
+2565,1904,2024-06-20,In-Store,Miami Store,Florida
+2566,2264,2024-02-24,In-Store,Houston Store,Texas
+2567,1078,2024-10-25,In-Store,Los Angeles Store,California
+2568,2378,2023-04-05,In-Store,San Francisco Store,California
+2569,848,2025-08-30,In-Store,Houston Store,Texas
+2570,1312,2024-10-11,Online,Houston Store,Texas
+2571,2093,2023-10-15,In-Store,Miami Store,Florida
+2572,2246,2024-02-16,Online,Miami Store,Florida
+2573,1240,2024-02-04,Online,San Francisco Store,California
+2574,1505,2024-06-11,Online,Los Angeles Store,California
+2575,1333,2025-11-07,Online,Miami Store,Florida
+2576,2380,2023-05-16,In-Store,Miami Store,Florida
+2577,696,2025-01-28,Online,Houston Store,Texas
+2578,27,2025-04-22,Online,Miami Store,Florida
+2579,2366,2024-12-10,In-Store,Miami Store,Florida
+2580,2413,2025-10-21,In-Store,Miami Store,Florida
+2581,960,2024-01-16,In-Store,Miami Store,Florida
+2582,1527,2024-05-23,Online,Houston Store,Texas
+2583,1869,2025-03-16,In-Store,San Francisco Store,California
+2584,373,2024-04-20,In-Store,San Francisco Store,California
+2585,1950,2025-08-11,Online,Los Angeles Store,California
+2586,245,2025-04-28,In-Store,Miami Store,Florida
+2587,1841,2025-06-15,In-Store,Houston Store,Texas
+2588,1677,2023-02-01,In-Store,Los Angeles Store,California
+2589,125,2023-04-28,In-Store,Los Angeles Store,California
+2590,537,2023-07-10,Online,San Francisco Store,California
+2591,1920,2023-03-15,In-Store,Houston Store,Texas
+2592,1636,2024-09-14,In-Store,Houston Store,Texas
+2593,1426,2025-05-20,Online,Houston Store,Texas
+2594,1541,2024-08-08,In-Store,San Francisco Store,California
+2595,531,2024-02-24,Online,San Francisco Store,California
+2596,254,2024-04-17,In-Store,San Francisco Store,California
+2597,2169,2023-04-24,Online,San Francisco Store,California
+2598,661,2023-11-26,Online,San Francisco Store,California
+2599,1802,2023-12-05,Online,Miami Store,Florida
+2600,1061,2023-08-26,Online,Miami Store,Florida
+2601,1366,2023-03-20,In-Store,Houston Store,Texas
+2602,1037,2024-04-08,Online,Los Angeles Store,California
+2603,1207,2024-08-27,In-Store,Houston Store,Texas
+2604,2136,2024-07-15,Online,Los Angeles Store,California
+2605,2094,2023-10-12,Online,San Francisco Store,California
+2606,1143,2023-08-11,Online,Los Angeles Store,California
+2607,1555,2024-08-15,In-Store,Houston Store,Texas
+2608,1756,2024-01-08,Online,Houston Store,Texas
+2609,1966,2025-06-29,In-Store,Los Angeles Store,California
+2610,745,2025-04-07,In-Store,Miami Store,Florida
+2611,1630,2023-08-24,In-Store,San Francisco Store,California
+2612,967,2024-11-01,In-Store,San Francisco Store,California
+2613,763,2025-04-07,In-Store,Houston Store,Texas
+2614,794,2025-02-01,In-Store,Miami Store,Florida
+2615,744,2024-01-15,In-Store,Los Angeles Store,California
+2616,1070,2025-03-04,In-Store,San Francisco Store,California
+2617,1532,2024-09-05,In-Store,Miami Store,Florida
+2618,558,2024-07-16,Online,San Francisco Store,California
+2619,1995,2024-02-24,Online,Miami Store,Florida
+2620,526,2023-02-21,Online,Miami Store,Florida
+2621,840,2025-03-29,Online,Houston Store,Texas
+2622,3,2023-07-24,Online,San Francisco Store,California
+2623,1052,2025-09-27,In-Store,Los Angeles Store,California
+2624,1405,2024-12-31,In-Store,Houston Store,Texas
+2625,157,2023-09-14,In-Store,Houston Store,Texas
+2626,1938,2023-07-04,In-Store,Los Angeles Store,California
+2627,1955,2023-05-25,In-Store,Houston Store,Texas
+2628,511,2025-11-03,In-Store,Miami Store,Florida
+2629,687,2023-09-03,In-Store,Miami Store,Florida
+2630,1138,2023-07-06,Online,San Francisco Store,California
+2631,1413,2025-05-15,Online,San Francisco Store,California
+2632,1511,2023-02-09,Online,Los Angeles Store,California
+2633,571,2024-08-23,Online,San Francisco Store,California
+2634,715,2025-08-19,In-Store,Miami Store,Florida
+2635,1339,2025-09-12,In-Store,Los Angeles Store,California
+2636,2287,2023-01-09,In-Store,Los Angeles Store,California
+2637,2351,2023-12-16,Online,San Francisco Store,California
+2638,991,2023-03-25,In-Store,Miami Store,Florida
+2639,334,2024-06-16,In-Store,Los Angeles Store,California
+2640,2161,2025-09-15,In-Store,Miami Store,Florida
+2641,1645,2023-12-24,Online,Miami Store,Florida
+2642,362,2024-01-13,In-Store,Miami Store,Florida
+2643,1881,2023-06-21,Online,San Francisco Store,California
+2644,2145,2025-11-14,Online,Houston Store,Texas
+2645,1982,2024-01-28,Online,Houston Store,Texas
+2646,2064,2024-12-02,Online,Los Angeles Store,California
+2647,1978,2024-07-02,In-Store,Miami Store,Florida
+2648,376,2025-02-22,Online,San Francisco Store,California
+2649,742,2023-11-28,Online,Miami Store,Florida
+2650,390,2025-03-04,In-Store,Miami Store,Florida
+2651,1241,2024-10-10,In-Store,San Francisco Store,California
+2652,824,2025-09-09,Online,Houston Store,Texas
+2653,2368,2025-11-18,In-Store,Miami Store,Florida
+2654,2244,2024-06-26,Online,Miami Store,Florida
+2655,418,2025-11-08,Online,Houston Store,Texas
+2656,607,2024-05-05,Online,San Francisco Store,California
+2657,568,2023-10-10,Online,Los Angeles Store,California
+2658,544,2025-05-11,In-Store,Houston Store,Texas
+2659,2279,2023-04-23,Online,Los Angeles Store,California
+2660,884,2025-05-11,In-Store,Los Angeles Store,California
+2661,703,2024-09-01,In-Store,Houston Store,Texas
+2662,1224,2024-05-22,In-Store,Miami Store,Florida
+2663,1623,2024-04-10,In-Store,Los Angeles Store,California
+2664,2069,2025-04-03,Online,Los Angeles Store,California
+2665,1787,2024-08-31,In-Store,San Francisco Store,California
+2666,1620,2023-10-17,Online,Miami Store,Florida
+2667,1458,2025-05-17,In-Store,Los Angeles Store,California
+2668,2419,2025-02-20,In-Store,San Francisco Store,California
+2669,1584,2023-06-11,Online,Miami Store,Florida
+2670,1915,2024-09-15,Online,Houston Store,Texas
+2671,78,2024-12-17,Online,Houston Store,Texas
+2672,1309,2024-07-20,In-Store,San Francisco Store,California
+2673,648,2025-09-20,In-Store,Houston Store,Texas
+2674,2188,2024-08-18,Online,Los Angeles Store,California
+2675,553,2025-08-16,Online,Miami Store,Florida
+2676,998,2025-10-09,Online,Los Angeles Store,California
+2677,282,2024-04-19,Online,Los Angeles Store,California
+2678,1282,2024-09-09,In-Store,Houston Store,Texas
+2679,1847,2024-10-02,Online,Los Angeles Store,California
+2680,1384,2023-09-19,Online,Houston Store,Texas
+2681,2488,2023-06-11,Online,Miami Store,Florida
+2682,2318,2023-06-30,Online,Miami Store,Florida
+2683,1158,2024-12-25,In-Store,Los Angeles Store,California
+2684,104,2024-04-13,Online,San Francisco Store,California
+2685,766,2023-01-21,In-Store,Houston Store,Texas
+2686,2143,2023-09-17,Online,Houston Store,Texas
+2687,1597,2024-04-10,Online,Los Angeles Store,California
+2688,480,2024-06-20,In-Store,Houston Store,Texas
+2689,2061,2025-08-09,Online,Houston Store,Texas
+2690,1964,2025-02-04,In-Store,San Francisco Store,California
+2691,2143,2025-08-16,In-Store,San Francisco Store,California
+2692,2341,2025-07-22,Online,Los Angeles Store,California
+2693,2073,2025-04-30,In-Store,San Francisco Store,California
+2694,1296,2024-06-16,In-Store,Los Angeles Store,California
+2695,1529,2023-01-15,In-Store,Miami Store,Florida
+2696,1190,2023-02-19,In-Store,Los Angeles Store,California
+2697,939,2025-09-25,In-Store,Miami Store,Florida
+2698,762,2023-10-31,In-Store,Los Angeles Store,California
+2699,654,2024-02-20,In-Store,Houston Store,Texas
+2700,1670,2023-11-01,In-Store,San Francisco Store,California
+2701,1932,2023-07-15,Online,Miami Store,Florida
+2702,1127,2025-03-23,Online,Los Angeles Store,California
+2703,1926,2025-03-10,In-Store,San Francisco Store,California
+2704,575,2024-01-23,Online,Los Angeles Store,California
+2705,2342,2025-01-26,In-Store,San Francisco Store,California
+2706,1330,2024-03-30,In-Store,San Francisco Store,California
+2707,1278,2024-12-13,Online,Los Angeles Store,California
+2708,1204,2024-12-05,In-Store,Miami Store,Florida
+2709,40,2025-04-27,In-Store,Miami Store,Florida
+2710,520,2023-06-24,In-Store,Houston Store,Texas
+2711,1640,2025-12-25,In-Store,San Francisco Store,California
+2712,2284,2023-10-06,Online,Houston Store,Texas
+2713,463,2025-01-27,In-Store,Houston Store,Texas
+2714,1252,2023-12-29,In-Store,Los Angeles Store,California
+2715,1849,2023-06-20,In-Store,Los Angeles Store,California
+2716,483,2025-12-10,Online,Los Angeles Store,California
+2717,2478,2024-10-26,In-Store,San Francisco Store,California
+2718,343,2024-08-14,Online,Los Angeles Store,California
+2719,1197,2025-07-19,Online,Los Angeles Store,California
+2720,1463,2023-10-01,In-Store,San Francisco Store,California
+2721,1203,2024-05-22,In-Store,San Francisco Store,California
+2722,1622,2023-12-29,Online,Miami Store,Florida
+2723,2181,2025-04-27,In-Store,Los Angeles Store,California
+2724,2399,2024-10-16,Online,Los Angeles Store,California
+2725,2132,2023-10-25,Online,Los Angeles Store,California
+2726,993,2024-05-08,In-Store,Miami Store,Florida
+2727,2391,2024-06-29,In-Store,Los Angeles Store,California
+2728,1190,2023-10-31,Online,Miami Store,Florida
+2729,2341,2025-06-22,Online,Houston Store,Texas
+2730,1604,2023-08-27,Online,Miami Store,Florida
+2731,1194,2024-10-11,Online,Houston Store,Texas
+2732,598,2025-06-02,In-Store,Los Angeles Store,California
+2733,645,2024-02-14,In-Store,Houston Store,Texas
+2734,448,2024-12-26,In-Store,Miami Store,Florida
+2735,764,2025-11-12,In-Store,San Francisco Store,California
+2736,735,2023-11-14,In-Store,Houston Store,Texas
+2737,1643,2024-06-08,Online,Houston Store,Texas
+2738,2298,2025-06-23,In-Store,Los Angeles Store,California
+2739,601,2025-10-20,In-Store,Miami Store,Florida
+2740,2173,2024-09-11,In-Store,Houston Store,Texas
+2741,2161,2025-08-10,In-Store,Houston Store,Texas
+2742,981,2025-03-11,In-Store,Houston Store,Texas
+2743,1783,2025-07-04,Online,Houston Store,Texas
+2744,2198,2023-11-16,Online,San Francisco Store,California
+2745,2391,2025-05-25,Online,Miami Store,Florida
+2746,580,2023-11-25,In-Store,Los Angeles Store,California
+2747,783,2025-01-22,Online,Los Angeles Store,California
+2748,2369,2024-10-18,Online,San Francisco Store,California
+2749,532,2025-11-03,In-Store,Miami Store,Florida
+2750,1513,2023-03-12,In-Store,Houston Store,Texas
+2751,612,2025-04-06,In-Store,San Francisco Store,California
+2752,2300,2025-05-14,Online,Miami Store,Florida
+2753,2006,2025-07-16,Online,Houston Store,Texas
+2754,1101,2023-04-16,In-Store,San Francisco Store,California
+2755,1671,2025-02-08,In-Store,Miami Store,Florida
+2756,1416,2025-06-11,Online,Los Angeles Store,California
+2757,1436,2023-07-15,Online,Los Angeles Store,California
+2758,2221,2023-05-25,In-Store,Miami Store,Florida
+2759,875,2024-04-15,In-Store,Los Angeles Store,California
+2760,2249,2023-08-04,Online,Miami Store,Florida
+2761,217,2023-09-17,In-Store,Houston Store,Texas
+2762,376,2025-07-22,Online,Miami Store,Florida
+2763,1610,2024-07-28,Online,Houston Store,Texas
+2764,11,2023-10-12,Online,San Francisco Store,California
+2765,1614,2024-04-28,Online,Miami Store,Florida
+2766,2483,2024-01-07,In-Store,San Francisco Store,California
+2767,818,2023-03-11,In-Store,Los Angeles Store,California
+2768,1297,2024-01-14,Online,Houston Store,Texas
+2769,691,2023-10-29,Online,Miami Store,Florida
+2770,1600,2023-09-12,Online,San Francisco Store,California
+2771,1533,2025-08-01,Online,Houston Store,Texas
+2772,1156,2024-11-22,Online,Houston Store,Texas
+2773,1948,2025-04-13,In-Store,Los Angeles Store,California
+2774,784,2024-12-17,In-Store,Los Angeles Store,California
+2775,2367,2024-02-28,In-Store,Houston Store,Texas
+2776,1973,2023-08-01,In-Store,Houston Store,Texas
+2777,1877,2023-04-10,Online,Miami Store,Florida
+2778,785,2023-11-04,Online,Houston Store,Texas
+2779,397,2024-11-08,Online,Miami Store,Florida
+2780,1082,2024-04-19,Online,Houston Store,Texas
+2781,1504,2023-04-22,Online,Los Angeles Store,California
+2782,2034,2023-07-02,In-Store,Miami Store,Florida
+2783,1615,2024-08-19,Online,San Francisco Store,California
+2784,460,2023-06-14,In-Store,Los Angeles Store,California
+2785,2109,2025-03-25,In-Store,Miami Store,Florida
+2786,2417,2023-03-31,In-Store,Miami Store,Florida
+2787,546,2024-03-30,In-Store,San Francisco Store,California
+2788,497,2023-08-26,Online,Miami Store,Florida
+2789,505,2024-06-17,In-Store,Houston Store,Texas
+2790,1093,2024-12-27,In-Store,San Francisco Store,California
+2791,2209,2023-02-27,In-Store,Los Angeles Store,California
+2792,1638,2024-06-25,Online,Los Angeles Store,California
+2793,718,2025-10-18,Online,Houston Store,Texas
+2794,1593,2024-09-09,Online,Los Angeles Store,California
+2795,1409,2024-02-06,In-Store,Miami Store,Florida
+2796,269,2025-10-02,In-Store,Miami Store,Florida
+2797,1947,2025-04-21,Online,Houston Store,Texas
+2798,1478,2025-04-18,In-Store,Los Angeles Store,California
+2799,1542,2024-06-02,Online,Los Angeles Store,California
+2800,865,2023-07-16,Online,Houston Store,Texas
+2801,2398,2023-02-15,In-Store,San Francisco Store,California
+2802,110,2024-06-13,In-Store,Los Angeles Store,California
+2803,2455,2025-09-26,In-Store,San Francisco Store,California
+2804,650,2025-02-14,In-Store,Los Angeles Store,California
+2805,2099,2023-03-15,Online,Los Angeles Store,California
+2806,1500,2023-12-01,Online,Los Angeles Store,California
+2807,1111,2024-09-24,Online,Los Angeles Store,California
+2808,596,2024-11-18,Online,Miami Store,Florida
+2809,979,2024-07-28,Online,San Francisco Store,California
+2810,731,2023-10-23,In-Store,San Francisco Store,California
+2811,57,2025-11-04,Online,Los Angeles Store,California
+2812,2244,2024-04-22,Online,Los Angeles Store,California
+2813,1784,2024-09-24,Online,San Francisco Store,California
+2814,1702,2023-11-15,In-Store,Miami Store,Florida
+2815,1287,2024-04-23,In-Store,Houston Store,Texas
+2816,112,2024-01-03,In-Store,Houston Store,Texas
+2817,711,2024-01-02,In-Store,San Francisco Store,California
+2818,1202,2024-01-13,Online,Los Angeles Store,California
+2819,948,2024-04-07,Online,Los Angeles Store,California
+2820,26,2023-01-13,In-Store,Miami Store,Florida
+2821,2458,2024-06-19,In-Store,Houston Store,Texas
+2822,758,2023-09-27,Online,Miami Store,Florida
+2823,1801,2025-12-29,Online,Houston Store,Texas
+2824,1556,2024-01-11,In-Store,San Francisco Store,California
+2825,1842,2023-09-14,In-Store,Houston Store,Texas
+2826,2294,2023-08-05,In-Store,Miami Store,Florida
+2827,1105,2024-03-25,In-Store,Miami Store,Florida
+2828,662,2025-06-12,Online,Miami Store,Florida
+2829,909,2023-02-01,Online,San Francisco Store,California
+2830,2444,2024-09-01,Online,Houston Store,Texas
+2831,522,2025-07-05,In-Store,Houston Store,Texas
+2832,1857,2024-06-25,In-Store,Miami Store,Florida
+2833,1760,2023-05-28,Online,Houston Store,Texas
+2834,2312,2024-10-17,Online,Los Angeles Store,California
+2835,790,2023-03-08,Online,Los Angeles Store,California
+2836,1298,2024-07-23,Online,Los Angeles Store,California
+2837,1730,2025-01-17,In-Store,Houston Store,Texas
+2838,172,2024-03-18,Online,San Francisco Store,California
+2839,265,2025-06-15,Online,San Francisco Store,California
+2840,1987,2024-02-03,Online,San Francisco Store,California
+2841,1050,2024-04-26,Online,San Francisco Store,California
+2842,1493,2025-08-05,Online,Los Angeles Store,California
+2843,1886,2023-07-05,Online,Los Angeles Store,California
+2844,476,2023-06-18,Online,Miami Store,Florida
+2845,2404,2024-05-21,In-Store,Houston Store,Texas
+2846,1050,2024-06-04,In-Store,Houston Store,Texas
+2847,34,2023-06-10,In-Store,San Francisco Store,California
+2848,2312,2023-12-06,In-Store,Los Angeles Store,California
+2849,1162,2024-12-04,Online,San Francisco Store,California
+2850,816,2025-04-02,In-Store,Miami Store,Florida
+2851,754,2025-02-23,In-Store,Houston Store,Texas
+2852,566,2023-05-11,Online,Houston Store,Texas
+2853,462,2024-05-30,Online,San Francisco Store,California
+2854,1655,2024-06-19,In-Store,Miami Store,Florida
+2855,81,2025-01-10,In-Store,Houston Store,Texas
+2856,1938,2025-02-19,Online,Miami Store,Florida
+2857,870,2024-08-10,In-Store,Miami Store,Florida
+2858,1431,2024-12-26,Online,San Francisco Store,California
+2859,1070,2025-07-31,Online,Los Angeles Store,California
+2860,599,2025-09-23,Online,San Francisco Store,California
+2861,1635,2024-01-11,Online,Los Angeles Store,California
+2862,807,2023-07-23,In-Store,Miami Store,Florida
+2863,1935,2025-09-15,Online,Los Angeles Store,California
+2864,1077,2024-10-22,Online,Miami Store,Florida
+2865,704,2023-03-16,In-Store,Houston Store,Texas
+2866,2064,2025-01-10,Online,Houston Store,Texas
+2867,487,2023-10-31,In-Store,Houston Store,Texas
+2868,706,2025-12-21,In-Store,San Francisco Store,California
+2869,1526,2024-07-23,In-Store,San Francisco Store,California
+2870,1165,2025-02-24,Online,Miami Store,Florida
+2871,620,2025-09-13,In-Store,Houston Store,Texas
+2872,777,2023-08-17,In-Store,San Francisco Store,California
+2873,447,2025-12-07,Online,Houston Store,Texas
+2874,2338,2023-09-25,In-Store,San Francisco Store,California
+2875,209,2024-12-27,In-Store,Los Angeles Store,California
+2876,1499,2025-03-12,In-Store,Los Angeles Store,California
+2877,2461,2023-09-11,In-Store,Houston Store,Texas
+2878,1451,2025-08-14,In-Store,Miami Store,Florida
+2879,1878,2025-05-19,Online,San Francisco Store,California
+2880,2338,2023-03-28,In-Store,San Francisco Store,California
+2881,1292,2025-11-14,In-Store,Los Angeles Store,California
+2882,2199,2023-08-10,Online,Los Angeles Store,California
+2883,1743,2025-09-16,Online,Miami Store,Florida
+2884,1279,2024-02-01,Online,Miami Store,Florida
+2885,1401,2025-07-26,In-Store,Miami Store,Florida
+2886,1677,2024-05-25,Online,Houston Store,Texas
+2887,855,2024-07-14,In-Store,Los Angeles Store,California
+2888,1382,2025-04-25,In-Store,Houston Store,Texas
+2889,2418,2024-03-15,Online,Los Angeles Store,California
+2890,705,2023-11-07,Online,Los Angeles Store,California
+2891,826,2023-02-04,In-Store,San Francisco Store,California
+2892,1005,2023-08-05,Online,Los Angeles Store,California
+2893,377,2024-12-21,In-Store,Los Angeles Store,California
+2894,973,2025-10-12,Online,Houston Store,Texas
+2895,118,2024-06-02,Online,Los Angeles Store,California
+2896,444,2023-09-26,Online,Houston Store,Texas
+2897,755,2024-09-29,In-Store,Miami Store,Florida
+2898,640,2024-04-19,Online,Los Angeles Store,California
+2899,2172,2023-03-31,In-Store,Los Angeles Store,California
+2900,1301,2025-12-01,In-Store,Houston Store,Texas
+2901,2408,2025-09-08,In-Store,Miami Store,Florida
+2902,623,2023-10-15,In-Store,San Francisco Store,California
+2903,1493,2024-04-25,Online,Miami Store,Florida
+2904,2009,2024-09-28,In-Store,Houston Store,Texas
+2905,1652,2024-05-15,In-Store,Miami Store,Florida
+2906,1724,2023-02-21,Online,Houston Store,Texas
+2907,1920,2023-04-13,In-Store,Houston Store,Texas
+2908,919,2024-11-29,Online,San Francisco Store,California
+2909,1174,2025-11-03,In-Store,Los Angeles Store,California
+2910,2500,2024-04-14,Online,Houston Store,Texas
+2911,1186,2024-03-02,In-Store,Houston Store,Texas
+2912,120,2023-04-20,Online,San Francisco Store,California
+2913,582,2024-05-29,In-Store,Houston Store,Texas
+2914,1948,2023-03-09,In-Store,Los Angeles Store,California
+2915,2147,2024-01-24,Online,San Francisco Store,California
+2916,1191,2023-11-04,Online,Los Angeles Store,California
+2917,1687,2025-12-25,Online,Los Angeles Store,California
+2918,2000,2024-04-04,Online,San Francisco Store,California
+2919,401,2023-12-13,In-Store,Houston Store,Texas
+2920,2413,2023-11-21,In-Store,Los Angeles Store,California
+2921,1350,2024-10-28,Online,Los Angeles Store,California
+2922,1657,2025-11-22,In-Store,Los Angeles Store,California
+2923,621,2023-03-09,Online,Los Angeles Store,California
+2924,247,2023-07-06,Online,San Francisco Store,California
+2925,2482,2023-07-11,In-Store,San Francisco Store,California
+2926,1117,2024-03-03,In-Store,Miami Store,Florida
+2927,624,2023-08-04,In-Store,Miami Store,Florida
+2928,2369,2023-06-26,In-Store,Los Angeles Store,California
+2929,1840,2024-07-14,In-Store,Houston Store,Texas
+2930,2110,2025-05-30,In-Store,Los Angeles Store,California
+2931,300,2024-09-17,In-Store,Houston Store,Texas
+2932,403,2024-08-29,Online,Los Angeles Store,California
+2933,1672,2023-06-28,Online,Miami Store,Florida
+2934,253,2024-01-30,Online,Miami Store,Florida
+2935,1758,2025-05-25,Online,Houston Store,Texas
+2936,1393,2025-08-19,Online,Los Angeles Store,California
+2937,1965,2023-07-17,In-Store,Houston Store,Texas
+2938,160,2025-08-26,Online,Miami Store,Florida
+2939,205,2024-10-30,Online,Los Angeles Store,California
+2940,1162,2024-04-01,Online,Los Angeles Store,California
+2941,1392,2023-03-13,Online,Houston Store,Texas
+2942,858,2023-08-11,Online,San Francisco Store,California
+2943,760,2023-10-03,Online,Houston Store,Texas
+2944,1591,2024-07-26,Online,Miami Store,Florida
+2945,2116,2025-07-12,In-Store,Miami Store,Florida
+2946,133,2024-04-15,In-Store,Miami Store,Florida
+2947,1724,2024-03-29,Online,Miami Store,Florida
+2948,430,2025-08-26,In-Store,Miami Store,Florida
+2949,2356,2023-01-07,In-Store,San Francisco Store,California
+2950,1198,2023-07-07,In-Store,Los Angeles Store,California
+2951,2460,2023-01-04,In-Store,Houston Store,Texas
+2952,97,2025-06-25,Online,Houston Store,Texas
+2953,1707,2025-11-04,In-Store,Miami Store,Florida
+2954,1178,2025-08-17,In-Store,Houston Store,Texas
+2955,1719,2024-06-08,In-Store,Miami Store,Florida
+2956,1266,2024-09-21,Online,San Francisco Store,California
+2957,1328,2025-02-13,Online,San Francisco Store,California
+2958,1309,2023-12-26,Online,Los Angeles Store,California
+2959,1051,2024-06-01,Online,San Francisco Store,California
+2960,1384,2025-11-19,Online,San Francisco Store,California
+2961,2250,2025-07-09,Online,Los Angeles Store,California
+2962,581,2025-05-01,Online,Houston Store,Texas
+2963,2418,2025-07-23,In-Store,Miami Store,Florida
+2964,533,2025-06-19,In-Store,Miami Store,Florida
+2965,1176,2024-02-03,In-Store,Houston Store,Texas
+2966,1126,2023-06-17,Online,Los Angeles Store,California
+2967,899,2024-01-12,Online,Houston Store,Texas
+2968,1470,2024-08-29,Online,San Francisco Store,California
+2969,1253,2025-10-07,Online,Los Angeles Store,California
+2970,770,2024-08-11,Online,Los Angeles Store,California
+2971,834,2023-02-17,In-Store,Los Angeles Store,California
+2972,1905,2025-10-21,In-Store,Miami Store,Florida
+2973,2284,2023-06-22,Online,Houston Store,Texas
+2974,2210,2024-05-20,Online,Los Angeles Store,California
+2975,554,2024-02-02,Online,Los Angeles Store,California
+2976,1092,2023-10-21,Online,Los Angeles Store,California
+2977,1197,2024-07-05,In-Store,Houston Store,Texas
+2978,1661,2025-04-29,Online,Miami Store,Florida
+2979,559,2025-11-05,Online,San Francisco Store,California
+2980,261,2025-06-03,Online,Miami Store,Florida
+2981,2265,2025-09-30,Online,Los Angeles Store,California
+2982,1841,2023-05-14,In-Store,Miami Store,Florida
+2983,1148,2025-02-09,Online,Miami Store,Florida
+2984,805,2024-05-22,Online,San Francisco Store,California
+2985,1186,2025-12-25,In-Store,Houston Store,Texas
+2986,2249,2024-04-24,In-Store,Houston Store,Texas
+2987,2450,2025-05-12,In-Store,Miami Store,Florida
+2988,275,2024-04-03,Online,Miami Store,Florida
+2989,206,2024-09-17,Online,Houston Store,Texas
+2990,1724,2023-06-08,In-Store,Houston Store,Texas
+2991,867,2023-06-10,In-Store,San Francisco Store,California
+2992,93,2025-07-28,In-Store,Los Angeles Store,California
+2993,1066,2023-06-04,In-Store,Miami Store,Florida
+2994,2427,2024-04-30,In-Store,Houston Store,Texas
+2995,1352,2024-03-07,In-Store,Miami Store,Florida
+2996,2113,2025-11-16,Online,Miami Store,Florida
+2997,365,2025-09-30,Online,Houston Store,Texas
+2998,821,2025-11-01,Online,San Francisco Store,California
+2999,1508,2023-03-08,In-Store,Miami Store,Florida
+3000,2030,2024-06-25,In-Store,San Francisco Store,California
