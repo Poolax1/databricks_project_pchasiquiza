@@ -123,7 +123,7 @@ jobs:
         # Crear el JSON del workflow usando cluster existente
         cat > workflow_config.json << EOF
         {
-          "name": "WF_ADB",
+          "name": "WF_FINAL_PROJECT",
           "format": "MULTI_TASK",
           "tasks": [
             {
@@ -141,8 +141,8 @@ jobs:
               "max_retries": 2
             },
             {
-              "task_key": "ingest_customer",
-              "description": "Ejecuta notebook ingest_customer",
+              "task_key": "ingest_customers",
+              "description": "Ejecuta notebook ingest_customers",
               "notebook_task": {
                 "notebook_path": "/pchasiquizaFinalProject/scripts/main/2.Ingest_customers",
                 "source": "WORKSPACE",
